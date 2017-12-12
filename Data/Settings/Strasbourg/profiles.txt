@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:LFST_APP:100:5
+ATIS2:Strasbourg Approach / Approache. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFST_TWR:50:4
+ATIS2:Strasbourg Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFST_GND:25:3
+ATIS2:Strasbourg Ground / Sol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

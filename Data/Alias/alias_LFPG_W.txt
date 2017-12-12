@@ -1,0 +1,321 @@
+;departure LFPG W
+;format d|a (departure|arrival) terminal [s|n] (south|north)
+;south
+.d1s taxi to T11 holding point of RWY 26R via F R. Report ready for departure. QNH $altim($dep)
+.d2bs taxi to T11 holding point of RWY 26R via G3 F R. Report ready for departure. QNH $altim($dep)
+.d2ds taxi to T11 holding point of RWY 26R via G3 F R. Report ready for departure. QNH $altim($dep)
+.d2as taxi to T11 holding point of RWY 26R via P1 R. Report ready for departure. QNH $altim($dep)
+.d2cs taxi to T11 holding point of RWY 26R via P1 R. Report ready for departure. QNH $altim($dep)
+.d2es taxi to T11 holding point of RWY 26R via R. Report ready for departure. QNH $altim($dep)
+.d2fs taxi to T11 holding point of RWY 26R via E R. Report ready for departure. QNH $altim($dep)
+.d2gs taxi to T11 holding point of RWY 26R via R. Report ready for departure. QNH $altim($dep)
+.dqs taxi to T11 holding point of RWY 26R via F R. Report ready for departure. QNH $altim($dep)
+.dis taxi to T11 holding point of RWY 26R via B F R. Report ready for departure. QNH $altim($dep)
+.dms taxi to T11 holding point of RWY 26R via U R. Report ready for departure. QNH $altim($dep)
+.dhs taxi to T11 holding point of RWY 26R via B E R. Report ready for departure. QNH $altim($dep)
+.ds3s taxi to T11 holding point of RWY 26R via R. Report ready for departure. QNH $altim($dep)
+;north
+.d1n taxi to Q4 holding point of RWY 27L via Q. Report ready for departure. QNH $altim($dep)
+.d1nf roulez au point d'arrêt Q4 piste 27L via Q. Rappelez pret au départ. QNH $altim($dep)
+.d2bn taxi to Q4 holding point of RWY 27L via G3 N Q. Report ready for departure. QNH $altim($dep)
+.d2bnf roulez au point d'arrêt Q4 piste 27L via G3 N Q. Rappelez pret au départ. QNH $altim($dep)
+.d2dn taxi to Q4 holding point of RWY 27L via G3 N Q. Report ready for departure. QNH $altim($dep)
+.d2dnf roulez au point d'arrêt Q4 piste 27L via G3 N Q. Rappelez pret au départ. QNH $altim($dep)
+.d2an taxi to Q4 holding point of RWY 27L via N Q. Report ready for departure. QNH $altim($dep)
+.d2anf roulez au point d'arrêt Q4 piste 27L via N Q. Rappelez pret au départ. QNH $altim($dep)
+.d2cn taxi to Q4 holding point of RWY 27L via N Q. Report ready for departure. QNH $altim($dep)
+.d2cnf roulez au point d'arrêt Q4 piste 27L via N Q. Rappelez pret au départ. QNH $altim($dep)
+.d2en taxi to Q5 holding point of RWY 27L via R E5 Q. Report ready for departure. QNH $altim($dep)
+.d2enf roulez au point d'arrêt Q5 piste 27L via R E5 Q. Rappelez pret au départ. QNH $altim($dep)
+.d2fn taxi to Q5 holding point of RWY 27L via Q. Report ready for departure. QNH $altim($dep)
+.d2fnf roulez au point d'arrêt Q5 piste 27L via Q. Rappelez pret au départ. QNH $altim($dep)
+.d2gn taxi to Q5 holding point of RWY 27L via G Q. Report ready for departure. QNH $altim($dep)
+.d2gnf roulez au point d'arrêt Q5 piste 27L via G Q. Rappelez pret au départ. QNH $altim($dep)
+.dqn taxi to Q4 holding point of RWY 27L via N Q. Report ready for departure. QNH $altim($dep)
+.dqnf roulez au point d'arrêt Q4 piste 27L via N Q. Rappelez pret au départ. QNH $altim($dep)
+.din taxi to Q4 holding point of RWY 27L via B Q. Report ready for departure. QNH $altim($dep)
+.dinf roulez au point d'arrêt Q4 piste 27L via B Q. Rappelez pret au départ. QNH $altim($dep)
+.dmn taxi to Q4 holding point of RWY 27L via U N Q. Report ready for departure. QNH $altim($dep)
+.dmnf roulez au point d'arrêt Q4 piste 27L via U N Q. Rappelez pret au départ. QNH $altim($dep)
+.dhn taxi to Q5 holding point of RWY 27L via Q. Report ready for departure. QNH $altim($dep)
+.dhnf roulez au point d'arrêt Q5 piste 27L via Q. Rappelez pret au départ. QNH $altim($dep)
+.ds3n taxi to Q5 holding point of RWY 27L via Q. Report ready for departure. QNH $altim($dep)
+.ds3nf roulez au point d'arrêt Q5 piste 27L via Q. Rappelez pret au départ. QNH $altim($dep)
+;arrival LFPG W
+;format a(arrival) terminal [s|n] (south|north)
+;south
+.a1s taxi to Terminal 1 via T N B A
+.a2bs taxi to Terminal 2B via T N E TB2
+.a2ds taxi to Terminal 2D via T N E TB3
+.a2as taxi to Terminal 2A via R TA2
+.a2cs taxi to Terminal 2C via R TA2
+.a2es taxi to Terminal 2E via R
+.a2fs taxi to Terminal 2F via T N E TF2
+.a2gs taxi to Terminal 2G via R E P5
+.aqs taxi to Terminal Q via T N FN1
+.ais taxi to Terminal I via T N B M
+.ams taxi to Terminal M via T N C
+.ahs taxi to Terminal H via N E Q
+.as3s taxi to Terminal S3 via R
+;north
+.a1n taxi to Terminal 1 via D DA1 A
+.a2bn taxi to Terminal 2B via D Q F E TB2
+.a2dn taxi to Terminal 2D via D Q F E TB3
+.a2an taxi to Terminal 2A via D Q F R TA2
+.a2cn taxi to Terminal 2C via D Q F R TA2
+.a2en taxi to Terminal 2E via D Q F R TE2
+.a2fn taxi to Terminal 2F via D Q F E TF2
+.a2gn taxi to Terminal 2G via D Q F E
+.aqn taxi to Terminal Q via D Q F
+.ain taxi to Terminal I via B M
+.amn taxi to Terminal M via D Q F C
+.ahn taxi to Terminal H via D B
+.as3n taxi to Terminal M via D B E
+;
+;approche LFPG
+;
+.ne descent and maintain $alt, LORNI4W transition, expect ILS RWY $arrrwy
+.nef descent and maintain $alt, approche LORNI4W, prevoyez ILS Piste $arrrwy
+.se descent and maintain $alt, OKIPA4W transition, expect ILS RWY $arrrwy
+.sef descent and maintain $alt, approche OKIPA4W, prevoyez ILS Piste $arrrwy
+.sw descent and maintain $alt, BANOX4W transition, expect ILS RWY $arrrwy
+.swf descent and maintain $alt, approche BANOX4W, prevoyez ILS Piste $arrrwy
+.nw descent and maintain $alt, MOPAR4W transition, expect ILS RWY $arrrwy
+.nwf descent and maintain $alt, approche MOPAR4W, prevoyez ILS Piste $arrrwy
+;
+;fin LFPG
+;
+;;approche LFPO
+.neo descent and maintain $alt, VEBEK4W transition, expect ILS RWY $arrrwy
+.seo descent and maintain $alt, MOLBA4W transition, expect ILS RWY $arrrwy
+.swo descent and maintain $alt, ODILO4W transition, expect ILS RWY $arrrwy
+;
+;taxi LFPO
+;format d(departure) terminal o(rly)
+.dso taxi to W41 holding point of RWY 24 via W2 W3 LP. Report ready for departure. QNH $altim($dep)
+.dwo taxi to W41 holding point of RWY 24 via W3 LP. Report ready for departure. QNH $altim($dep)
+;format a(arrival) terminal o(rly)
+.aso taxi to South Terminal via L3 W2
+.awo taxi to West Terminal via L3 W3
+;
+;
+;fin LFPO
+;
+;
+;
+;debut Nice LFMN
+;
+;format d(departure) terminal mn(nice)
+.dt1mn taxi to holding point of RWY 22R via U G1. Report ready to cross rwy 22R. QNH $altim($dep)
+.dt2mn taxi to holding point of RWY 22R via U G1. Report ready to cross rwy 22R. QNH $altim($dep)
+;format a(arrival) terminal mn(nice)
+.at1mn taxi to Terminal 1 via T S.
+.at2mn taxi to Terminal 2 via T.
+;
+.appmn radar vectoring to VORb approach RWY $arrrwy
+.appmnf guidage radar approche VORb piste $arrrwy
+.clmn cleared VORb approach rwy $arrrwy
+.clmnf autorisé approche VORb piste $arrrwy
+;
+;fin LFMN
+;
+.good good evening 
+.goodf bonsoir 
+.goodi good evening, identified
+.goodif bonsoir, identifié
+.goodic good evening, identified. Continue as filed
+.goodicf bonsoir, identifié, poursuivez selon plan de vol
+.radar radar identified
+.radarf identifié radar
+.filed continue as filed
+.filedf poursuivez selon plan de vol
+;
+; del + ground
+;
+.cfl we have to change your cruise flight level which has to be odd/even 
+.c $sid departure - Runway in use $deprwy - Initial climb $alt - Squawk is $squawk
+.cf depart $sid - Piste en service $deprwy - Montée initiale $alt - Transpondeur $squawk
+.rb Correct. Pushback and start up approved. QNH $altim($dep). Report ready to taxi
+.rbf C'est correct. Repoussage et mise en route approuvés. QNH $altim($dep). Rappellez prêt au roulage
+.rbg Correct. Contact ground on 121.600 when ready for push and start
+.rbgf C'est correct. Contactez le sol au 121.600 prêt pour repoussage et mise en route
+.rbok Correct. Report ready for startup and pushback
+.rbokf C'est correct. Rappelez pour la mise en route et le repoussage
+.pb pushback and start up approved. QNH $altim($dep). Report ready to taxi
+.pbf repoussage et mise en route approuvés. QNH $altim($dep). Rappellez prêt au roulage
+
+.trw taxi to $1 holding point of RWY $deprwy via $3 . Report ready for departure.
+.trwf roulez point d'arrêt $1 de la piste $deprwy via $3 . Rappelez pret au départ.
+;
+; départ en ground sans tower
+;
+.swuni Winds $winds($dep) Switch to unicom 122.800 for departure, have a great flight
+.swunif Derniers vents $winds($dep) Passez sur unicom 122.800 pour le départ, à bientôt
+;
+; arrivée ground roulez vers porte C2 via P6 P5 P4 S3 E4. Rappelez pour quitter
+;
+.tg taxi to gate $1 via $2. 
+.tgf roulez pour la porte $1 via $2. 
+.tt taxi to terminal $1 via $2. 
+.ttf roulez vers le terminal $1 via $2. 
+.tto taxi to $1 via $2
+.ttof roulez vers $1 via $2
+.tgoc taxi to gate of your choice
+.tgocf roulez au parking de votre choix
+.cross cross runway $1, report runway vacated
+.crossf traversez la piste $1, rappelez piste dégagée
+.tc taxi $1, then cross runway $2.
+.tcf roulez $1, puis traversez la piste $2.
+
+; squawk
+;
+.sb set your squawk to standby on the ground, please
+.sbf transpondeur mode Standby au sol s'il vous plait
+.sc squawk to C mode, please
+.scf transpondeur mode C, s'il vous plait
+.id squawk ident please
+.idf squawk ident, s'il vous plait
+.sq squawk $squawk
+.sqf transpondez $squawk
+;
+; take off
+;
+.luw from $1 line up  RWY $deprwy and wait
+.luwf depuis $1 alignez-vous piste $deprwy et attendez
+.to from $1 line up  RWY $deprwy,  wind $winds($dep), cleared for takeoff
+.tof depuis $1 alignez-vous piste $deprwy , vent $winds($dep), autorise decollage
+.cto  RWY $deprwy, wind $winds($dep), cleared for takeoff
+.ctof piste $deprwy , vent $winds($dep), autorise decollage 
+;
+.qnh QNH 1013 please
+.qnhf QNH 1013 SVP
+.dm descent $1ft QNH $altim($arr)
+.dmf descendez a $1ft, QNH $altim($arr)
+.cm climb $1ft QNH $altim($dep)
+.cmf montez a $1ft, QNH $altim($dep)
+.dmfl descent FL$1
+.dmflf descendez niveau $1
+.cmfl climb FL$1
+.cmflf montez niveau $1
+.speed speed $1 kts
+.speedf vitesse $1 kts
+
+.ga go around as published
+.gaf remise des gaz selon publications
+.star arrival $star
+.starf arrivée $star
+.des when ready descent $alt level $1
+.desf descendez à convenance au niveau $alt sur $1
+.dmto descent to reach $1 by $2
+.dmtof descendez pour atteindre $1 a $2
+.tl turn left heading $1
+.tlf tournez a gauche au cap $1
+.tr turn right heading $1
+.trf tournez a droite au cap $1
+.rad radar vectoring 
+.radf guidage radar
+;
+;transitions 
+;
+.app $1 approach, expect ILS RWY $arrrwy
+.appf approche $1, prevoyez ILS Piste $arrrwy
+.dep continue on $sid departure
+.depf poursuivez depart $sid
+;
+.xp expect radar vectoring ILS approach RWY $arrrwy
+.xpf prevoyez guidage radar approche ILS Piste $arrrwy
+.xpv expect VOR approach RWY $arrrwy
+.xpvf prevoyez approche VOR Piste $arrrwy
+.xpn expect NDB approach RWY $arrrwy
+.xpnf prevoyez approche NDB Piste $arrrwy
+.xpr expect RNAV approach RWY $arrrwy
+.xprf prevoyez approche RNAV Piste $arrrwy
+.xpvis expect visual approach RWY $arrrwy
+.xpvisf prevoyez approche a vue piste $arrrwy
+.expectfl expect $1 over $2. Advise me when ready for descent
+.expectflf prevoyez $1 sur $2. Rappelez pret pour la descente
+.pd maintain $alt, direct $1
+.pdf maintenez $alt, direct $1
+.hold join to the holding pattern over $1 as published
+.holdf rejoignez circuit d'attente sur $1 selon publications
+.leave leave the holding pattern and continue transition
+.leavef quittez le circuit d'attente et continuez selon procedure
+.ils cleared ILS approach RWY $arrrwy. Report established
+.ilsf autorisé approche ILS Piste $arrrwy. Rappelez établi
+.vi cleared visual approach RWY $arrrwy
+.vif autorise approche à vue piste $arrrwy
+.vori intercept radial $1 $2 inbound
+.vorif interceptez radial $1 $2 en rapprochement
+.voro intercept radial $1 $2 outbound
+.vorof interceptez radial $1 $2 en eloignement
+.cont continue approach,
+.contf poursuivez l'approche,
+.land  Wind is $winds($arr), RWY $arrrwy, cleared to land
+.landf Vent $winds($arr), piste $arrrwy, autorise atterrisage 
+.shut you may leave the frequency. Thank you for your visit. See you soon 
+.shutf vous pouvez quitter la fréquence. Merci de votre visite. A bientôt
+.disr disregard my last transmission, sorry
+.disrf ignorez ma dernière transmission, merci 
+.hold2 proceed right 360° turn
+.hold2f faites des 360° par la droite
+.ctr contact $radioname($1) on $freq($1). Bye
+.ctrf contactez $radioname($1) sur $freq($1). A bientot
+.gnd welcome to $arr. Contact $radioname($1) on $freq($1). Bye
+.gndf bienvenue a $arr. Contactez $radioname($1) sur $freq($1). A bientot
+.wa $metar($arr)
+.uni you are leaving my control zone, monitor UNICOM on 122.800. Have a good flight
+.unif vous quittez ma zone de controle, passez sur UNICOM 122.800. Bon vol, à bientot
+.unicom you are leaving my control zone, monitor UNICOM on 122.800. Have a good flight
+.unicomf vous quittez ma zone de controle, passez sur UNICOM 122.800. Bon vol, à bientot
+.rqf rappelez pour quitter la fréquence
+.rq report leaving frequency
+.rs report your speed
+.rsf quelle est votre vitesse indiquée?
+.red reduce speed $1 kts
+.redf reduisez la vitesse $1 kts
+.redm reduce speed to your minimum
+.redmf reduisez la vitesse a votre minimum
+
+
+Emergency
+.7700f vous confirmez urgence?
+.7700 do you confirm emregency?
+.emerg you emergency has been acknowledged. How much fuel and how many passengers do you have on board
+.emergf emergency bien recue. Combien de fuel vous reste-t-il et combien de passagers avez-vous a bord?
+.problem could you please confirm the problem ?
+.problemf pouvez vous confirmer le probleme SVP?
+.priority you will get priority landing for the best available runway
+.priorityf vous avez la priorite pour atterrissage sur la meilleure piste disponible
+.tell we have an emergency aircraft, you may expect some delay and holding
+.tellf nous avons un appareil en urgence, prevoyez du delai et des attentes
+
+; ***********
+; VFR
+; ***********
+.rd report downwind leg
+.rdf rappelez en vent arrière
+.rf report on final
+.rff rappelez en finale
+.rsf report on short final
+.rsff rappelez en courte finale
+.jd join downwind (right hand) rwy $arrrwy, report downwind
+.jdf intégrez en vent arrière (main droite) piste $1, rappelez en vent arrière
+.jb join base (right hand) rwy $arrrwy, report entering base
+.jbf intégrez en base (main droite) piste $arrrwy, rappelez entrée base
+.jf join long final rwy $arrrwy, report long final
+.jff intégrez en longue finale piste $arrrwy, rappelez en finale
+.jo join downwind (right hand) rwy $arrrwy via overhead airfield, report overhead
+.jof intégrez en vent arrière piste $arrrwy par verticale installations, rappelez en verticale
+.n1 N°1
+.n2 N°2
+.n3 N°3
+.tp traffic preceding on $1, a $2
+.tpf trafic précédent en $1, un $2
+.ed extend downwing leg( right hand)
+.edf poursuivez vent arrière (main droite)
+
+.a taxi via $1, cross runway $2, report vacated
+.af roulez via $1, traversez piste $2, rappelez piste dégagée
+.clos closing now, monitor unicom 122.800. Bye
+
+.autocontact Contact $1 on frequency $2. Bye. 

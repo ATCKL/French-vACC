@@ -1,0 +1,139 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_PROVENCE:
+ARTCC high boundary:FIR_MARSEILLE:
+Fixes:ARDEG:name
+Fixes:ARDEG:symbol
+Fixes:ARLET:name
+Fixes:ARLET:symbol
+Fixes:BADET:name
+Fixes:BADET:symbol
+Fixes:BALSI:name
+Fixes:BALSI:symbol
+Fixes:BARAT:name
+Fixes:BARAT:symbol
+Fixes:BORGO:name
+Fixes:BORGO:symbol
+Fixes:CALAN:name
+Fixes:CALAN:symbol
+Fixes:DIBER:name
+Fixes:DIBER:symbol
+Fixes:DOLIV:name
+Fixes:DOLIV:symbol
+Fixes:ETAKI:name
+Fixes:ETAKI:symbol
+Fixes:KURIR:name
+Fixes:KURIR:symbol
+Fixes:LANKO:name
+Fixes:LANKO:symbol
+Fixes:LATAM:name
+Fixes:LATAM:symbol
+Fixes:LERGA:name
+Fixes:LERGA:symbol
+Fixes:LUMIX:name
+Fixes:LUMIX:symbol
+Fixes:MARRI:name
+Fixes:MARRI:symbol
+Fixes:OSKIL:name
+Fixes:OSKIL:symbol
+Fixes:OTROT:name
+Fixes:OTROT:symbol
+Fixes:POMEG:name
+Fixes:POMEG:symbol
+Fixes:RHONE:name
+Fixes:RHONE:symbol
+Fixes:RIKPO:name
+Fixes:RIKPO:symbol
+Fixes:SALIN:name
+Fixes:SALIN:symbol
+Fixes:SAURG:name
+Fixes:SAURG:symbol
+Fixes:SOSUR:name
+Fixes:SOSUR:symbol
+Fixes:SUBIL:name
+Fixes:SUBIL:symbol
+Fixes:TINOT:name
+Fixes:TINOT:symbol
+Fixes:VENTA:name
+Fixes:VENTA:symbol
+Fixes:ZEBRA:name
+Fixes:ZEBRA:symbol
+Geo:LFPL:
+NDBs:ALM:name
+NDBs:ALM:symbol
+NDBs:CM:name
+NDBs:CM:symbol
+NDBs:MS:name
+NDBs:MS:symbol
+NDBs:OB:name
+NDBs:OB:symbol
+NDBs:SAL:name
+NDBs:SAL:symbol
+Runways:LFPL 08L-26R:centerline
+Runways:LFPL 08L-26R:extended centerline 1
+Runways:LFPL 08L-26R:extended centerline 1 left base
+Runways:LFPL 08L-26R:extended centerline 1 left ticks
+Runways:LFPL 08L-26R:extended centerline 1 left vectoring
+Runways:LFPL 08L-26R:extended centerline 1 right base
+Runways:LFPL 08L-26R:extended centerline 1 right ticks
+Runways:LFPL 08L-26R:extended centerline 1 right vectoring
+Runways:LFPL 08L-26R:extended centerline 2
+Runways:LFPL 08L-26R:extended centerline 2 left base
+Runways:LFPL 08L-26R:extended centerline 2 left ticks
+Runways:LFPL 08L-26R:extended centerline 2 left vectoring
+Runways:LFPL 08L-26R:extended centerline 2 right base
+Runways:LFPL 08L-26R:extended centerline 2 right ticks
+Runways:LFPL 08L-26R:extended centerline 2 right vectoring
+Runways:LFPL 08L-26R:name
+Runways:LFPL 08R-26L:centerline
+Runways:LFPL 08R-26L:extended centerline 1
+Runways:LFPL 08R-26L:extended centerline 1 left base
+Runways:LFPL 08R-26L:extended centerline 1 left ticks
+Runways:LFPL 08R-26L:extended centerline 1 left vectoring
+Runways:LFPL 08R-26L:extended centerline 1 right base
+Runways:LFPL 08R-26L:extended centerline 1 right ticks
+Runways:LFPL 08R-26L:extended centerline 1 right vectoring
+Runways:LFPL 08R-26L:extended centerline 2
+Runways:LFPL 08R-26L:extended centerline 2 left base
+Runways:LFPL 08R-26L:extended centerline 2 left ticks
+Runways:LFPL 08R-26L:extended centerline 2 left vectoring
+Runways:LFPL 08R-26L:extended centerline 2 right base
+Runways:LFPL 08R-26L:extended centerline 2 right ticks
+Runways:LFPL 08R-26L:extended centerline 2 right vectoring
+Runways:LFPL 08R-26L:name
+VORs:AVN:name
+VORs:AVN:symbol
+VORs:MRM:name
+VORs:MRM:symbol
+VORs:MTG:name
+VORs:MTG:symbol
+VORs:MTL:name
+VORs:MTL:symbol
+VORs:PPG:name
+VORs:PPG:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:48.815443:2.613612:48.826303:2.643641
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:LFLL_APP:100:5
+ATIS2:Lyon Approach / Approache. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFLL_DEP:100:5
+ATIS2:Lyon Departure / Departures. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFLL_TWR:50:4
+ATIS2:Lyon Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFLL_GND:25:3
+ATIS2:Lyon Ground / Sol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFLL_DEL:25:2
+ATIS2:Lyon Delivery / Prevol. EN/FR.
+ATIS3:Report Stand Number and Aircraft Type on initial contact!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

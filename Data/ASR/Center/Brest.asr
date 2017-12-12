@@ -1,0 +1,287 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_IROISE:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTR_BREST-BRETAGNE:
+ARTCC low boundary:CTR_QUIMPER-PLUGUFFAN:
+Fixes:ALUTA:name
+Fixes:ALUTA:symbol
+Fixes:ANLEV:name
+Fixes:ANLEV:symbol
+Fixes:BETUV:name
+Fixes:BETUV:symbol
+Fixes:BODIL:name
+Fixes:BODIL:symbol
+Fixes:DOLUR:name
+Fixes:DOLUR:symbol
+Fixes:LARLA:name
+Fixes:LARLA:symbol
+Fixes:LENSU:name
+Fixes:LENSU:symbol
+Fixes:MATER:name
+Fixes:MATER:symbol
+Fixes:NORBU:name
+Fixes:NORBU:symbol
+Fixes:PHILI:name
+Fixes:PHILI:symbol
+Fixes:ROSPO:name
+Fixes:ROSPO:symbol
+Fixes:SOPEX:name
+Fixes:SOPEX:symbol
+Fixes:TALIG:name
+Fixes:TALIG:symbol
+Fixes:TERKU:name
+Fixes:TERKU:symbol
+Fixes:TITUB:name
+Fixes:TITUB:symbol
+Free Text:LFRB Points VFR\K :freetext
+Free Text:LFRB Points VFR\K :freetext
+Free Text:LFRB Points VFR\LC :freetext
+Free Text:LFRB Points VFR\LC :freetext
+Free Text:LFRB Points VFR\LF :freetext
+Free Text:LFRB Points VFR\LF :freetext
+Free Text:LFRB Points VFR\NG :freetext
+Free Text:LFRB Points VFR\NG :freetext
+Free Text:LFRB Points VFR\PA :freetext
+Free Text:LFRB Points VFR\PA :freetext
+Free Text:LFRB Points VFR\SG :freetext
+Free Text:LFRB Points VFR\SG :freetext
+Free Text:LFRB Points VFR\SWL :freetext
+Free Text:LFRB Points VFR\SWL :freetext
+Free Text:LFRB Points VFR\WG:freetext
+Free Text:LFRB Points VFR\WG:freetext
+Free Text:LFRO Gates\1:freetext
+Free Text:LFRO Gates\2:freetext
+Free Text:LFRO Gates\3:freetext
+Free Text:LFRO Gates\4:freetext
+Free Text:LFRO Points VFR\BE:freetext
+Free Text:LFRO Points VFR\BE:freetext
+Free Text:LFRO Points VFR\LO :freetext
+Free Text:LFRO Points VFR\LO :freetext
+Free Text:LFRO Points VFR\N :freetext
+Free Text:LFRO Points VFR\N :freetext
+Free Text:LFRO Points VFR\PB :freetext
+Free Text:LFRO Points VFR\PB :freetext
+Free Text:LFRO Points VFR\PL :freetext
+Free Text:LFRO Points VFR\PL :freetext
+Free Text:LFRO Points VFR\S :freetext
+Free Text:LFRO Points VFR\S :freetext
+Free Text:LFRO Taxiways\N:freetext
+Free Text:LFRO Taxiways\N:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRO Taxiways\S:freetext
+Free Text:LFRQ Gates\1:freetext
+Free Text:LFRQ Gates\2:freetext
+Free Text:LFRQ Gates\3:freetext
+Free Text:LFRQ Gates\4:freetext
+Free Text:LFRQ Points VFR\N :freetext
+Free Text:LFRQ Points VFR\N :freetext
+Free Text:LFRQ Points VFR\NE:freetext
+Free Text:LFRQ Points VFR\NE:freetext
+Free Text:LFRQ Points VFR\NW :freetext
+Free Text:LFRQ Points VFR\NW :freetext
+Free Text:LFRQ Points VFR\S :freetext
+Free Text:LFRQ Points VFR\S :freetext
+Free Text:LFRQ Points VFR\SE :freetext
+Free Text:LFRQ Points VFR\SE :freetext
+Free Text:LFRQ Points VFR\SW :freetext
+Free Text:LFRQ Points VFR\SW :freetext
+Free Text:LFRQ Points VFR\W :freetext
+Free Text:LFRQ Points VFR\W :freetext
+Free Text:LFRQ Taxiways\B:freetext
+Free Text:LFRQ Taxiways\B:freetext
+Free Text:LFRQ Taxiways\C:freetext
+Free Text:LFRQ Taxiways\C:freetext
+Free Text:LFRQ Taxiways\C:freetext
+Free Text:LFRQ Taxiways\D:freetext
+Free Text:LFRQ Taxiways\D:freetext
+Free Text:P112 BREST\FL195:freetext
+Geo:CoastLine:
+Geo:LFRB:
+Geo:LFRO:
+Geo:LFRQ:
+Geo:ZONE_P112:
+NDBs:BGP:name
+NDBs:BGP:symbol
+NDBs:GU:name
+NDBs:GU:symbol
+NDBs:LN:name
+NDBs:LN:symbol
+Runways:LFRB 07L-25R:centerline
+Runways:LFRB 07L-25R:extended centerline 1
+Runways:LFRB 07L-25R:extended centerline 1 left base
+Runways:LFRB 07L-25R:extended centerline 1 left ticks
+Runways:LFRB 07L-25R:extended centerline 1 left vectoring
+Runways:LFRB 07L-25R:extended centerline 1 right base
+Runways:LFRB 07L-25R:extended centerline 1 right ticks
+Runways:LFRB 07L-25R:extended centerline 1 right vectoring
+Runways:LFRB 07L-25R:extended centerline 2
+Runways:LFRB 07L-25R:extended centerline 2 left base
+Runways:LFRB 07L-25R:extended centerline 2 left ticks
+Runways:LFRB 07L-25R:extended centerline 2 left vectoring
+Runways:LFRB 07L-25R:extended centerline 2 right base
+Runways:LFRB 07L-25R:extended centerline 2 right ticks
+Runways:LFRB 07L-25R:extended centerline 2 right vectoring
+Runways:LFRB 07L-25R:name
+Runways:LFRB 07R-25L:centerline
+Runways:LFRB 07R-25L:extended centerline 1
+Runways:LFRB 07R-25L:extended centerline 1 left base
+Runways:LFRB 07R-25L:extended centerline 1 left ticks
+Runways:LFRB 07R-25L:extended centerline 1 left vectoring
+Runways:LFRB 07R-25L:extended centerline 1 right base
+Runways:LFRB 07R-25L:extended centerline 1 right ticks
+Runways:LFRB 07R-25L:extended centerline 1 right vectoring
+Runways:LFRB 07R-25L:extended centerline 2
+Runways:LFRB 07R-25L:extended centerline 2 left base
+Runways:LFRB 07R-25L:extended centerline 2 left ticks
+Runways:LFRB 07R-25L:extended centerline 2 left vectoring
+Runways:LFRB 07R-25L:extended centerline 2 right base
+Runways:LFRB 07R-25L:extended centerline 2 right ticks
+Runways:LFRB 07R-25L:extended centerline 2 right vectoring
+Runways:LFRB 07R-25L:name
+Runways:LFRN 10-28:centerline
+Runways:LFRN 10-28:extended centerline 1
+Runways:LFRN 10-28:extended centerline 1 left base
+Runways:LFRN 10-28:extended centerline 1 left ticks
+Runways:LFRN 10-28:extended centerline 1 left vectoring
+Runways:LFRN 10-28:extended centerline 1 right base
+Runways:LFRN 10-28:extended centerline 1 right ticks
+Runways:LFRN 10-28:extended centerline 1 right vectoring
+Runways:LFRN 10-28:extended centerline 2
+Runways:LFRN 10-28:extended centerline 2 left base
+Runways:LFRN 10-28:extended centerline 2 left ticks
+Runways:LFRN 10-28:extended centerline 2 left vectoring
+Runways:LFRN 10-28:extended centerline 2 right base
+Runways:LFRN 10-28:extended centerline 2 right ticks
+Runways:LFRN 10-28:extended centerline 2 right vectoring
+Runways:LFRN 10-28:name
+Runways:LFRN 14-32:centerline
+Runways:LFRN 14-32:extended centerline 1
+Runways:LFRN 14-32:extended centerline 1 left base
+Runways:LFRN 14-32:extended centerline 1 left ticks
+Runways:LFRN 14-32:extended centerline 1 left vectoring
+Runways:LFRN 14-32:extended centerline 1 right base
+Runways:LFRN 14-32:extended centerline 1 right ticks
+Runways:LFRN 14-32:extended centerline 1 right vectoring
+Runways:LFRN 14-32:extended centerline 2
+Runways:LFRN 14-32:extended centerline 2 left base
+Runways:LFRN 14-32:extended centerline 2 left ticks
+Runways:LFRN 14-32:extended centerline 2 left vectoring
+Runways:LFRN 14-32:extended centerline 2 right base
+Runways:LFRN 14-32:extended centerline 2 right ticks
+Runways:LFRN 14-32:extended centerline 2 right vectoring
+Runways:LFRN 14-32:name
+Runways:LFRN 14L-32R:centerline
+Runways:LFRN 14L-32R:extended centerline 1
+Runways:LFRN 14L-32R:extended centerline 1 left base
+Runways:LFRN 14L-32R:extended centerline 1 left ticks
+Runways:LFRN 14L-32R:extended centerline 1 left vectoring
+Runways:LFRN 14L-32R:extended centerline 1 right base
+Runways:LFRN 14L-32R:extended centerline 1 right ticks
+Runways:LFRN 14L-32R:extended centerline 1 right vectoring
+Runways:LFRN 14L-32R:extended centerline 2
+Runways:LFRN 14L-32R:extended centerline 2 left base
+Runways:LFRN 14L-32R:extended centerline 2 left ticks
+Runways:LFRN 14L-32R:extended centerline 2 left vectoring
+Runways:LFRN 14L-32R:extended centerline 2 right base
+Runways:LFRN 14L-32R:extended centerline 2 right ticks
+Runways:LFRN 14L-32R:extended centerline 2 right vectoring
+Runways:LFRN 14L-32R:name
+Runways:LFRO 11-29:centerline
+Runways:LFRO 11-29:extended centerline 1
+Runways:LFRO 11-29:extended centerline 1 left base
+Runways:LFRO 11-29:extended centerline 1 left ticks
+Runways:LFRO 11-29:extended centerline 1 left vectoring
+Runways:LFRO 11-29:extended centerline 1 right base
+Runways:LFRO 11-29:extended centerline 1 right ticks
+Runways:LFRO 11-29:extended centerline 1 right vectoring
+Runways:LFRO 11-29:extended centerline 2
+Runways:LFRO 11-29:extended centerline 2 left base
+Runways:LFRO 11-29:extended centerline 2 left ticks
+Runways:LFRO 11-29:extended centerline 2 left vectoring
+Runways:LFRO 11-29:extended centerline 2 right base
+Runways:LFRO 11-29:extended centerline 2 right ticks
+Runways:LFRO 11-29:extended centerline 2 right vectoring
+Runways:LFRO 11-29:name
+Runways:LFRQ 10-28:centerline
+Runways:LFRQ 10-28:extended centerline 1
+Runways:LFRQ 10-28:extended centerline 1 left base
+Runways:LFRQ 10-28:extended centerline 1 left ticks
+Runways:LFRQ 10-28:extended centerline 1 left vectoring
+Runways:LFRQ 10-28:extended centerline 1 right base
+Runways:LFRQ 10-28:extended centerline 1 right ticks
+Runways:LFRQ 10-28:extended centerline 1 right vectoring
+Runways:LFRQ 10-28:extended centerline 2
+Runways:LFRQ 10-28:extended centerline 2 left base
+Runways:LFRQ 10-28:extended centerline 2 left ticks
+Runways:LFRQ 10-28:extended centerline 2 left vectoring
+Runways:LFRQ 10-28:extended centerline 2 right base
+Runways:LFRQ 10-28:extended centerline 2 right ticks
+Runways:LFRQ 10-28:extended centerline 2 right vectoring
+Runways:LFRQ 10-28:name
+Runways:LFRS 03-21:centerline
+Runways:LFRS 03-21:extended centerline 1
+Runways:LFRS 03-21:extended centerline 1 left base
+Runways:LFRS 03-21:extended centerline 1 left ticks
+Runways:LFRS 03-21:extended centerline 1 left vectoring
+Runways:LFRS 03-21:extended centerline 1 right base
+Runways:LFRS 03-21:extended centerline 1 right ticks
+Runways:LFRS 03-21:extended centerline 1 right vectoring
+Runways:LFRS 03-21:extended centerline 2
+Runways:LFRS 03-21:extended centerline 2 left base
+Runways:LFRS 03-21:extended centerline 2 left ticks
+Runways:LFRS 03-21:extended centerline 2 left vectoring
+Runways:LFRS 03-21:extended centerline 2 right base
+Runways:LFRS 03-21:extended centerline 2 right ticks
+Runways:LFRS 03-21:extended centerline 2 right vectoring
+Runways:LFRS 03-21:name
+VORs:ARE:name
+VORs:ARE:symbol
+VORs:DIN:name
+VORs:DIN:symbol
+VORs:QPR:name
+VORs:QPR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC
+WINDOWAREA:42.629441:-19.665604:51.566362:6.309075
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:640
+PLUGIN:Virtual Controller Assistant:CDYPOS:25
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:25
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:1

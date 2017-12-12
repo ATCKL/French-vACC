@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:LFUP_CTR:300:6
+ATIS2:France Control / Contrôle. EN/FR.
+ATIS3:Covering the whole of France (LFBB, LFMM, LFRR, LFFF, LFEE) Above FL245
+ATIS4:Report Altitude, position and aircraft type on initial contact.
+PROFILE:CK_OBS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
+END

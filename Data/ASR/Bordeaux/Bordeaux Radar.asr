@@ -1,0 +1,190 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_AQUITAINE:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTR_BORDEAUX-MERIGNAC:
+Fixes:BD001:name
+Fixes:BD001:symbol
+Fixes:BD002:name
+Fixes:BD002:symbol
+Fixes:BD011:name
+Fixes:BD011:symbol
+Fixes:BUGUS:name
+Fixes:BUGUS:symbol
+Fixes:CHALA:name
+Fixes:CHALA:symbol
+Fixes:CI23:name
+Fixes:CI23:symbol
+Fixes:DIRAX:name
+Fixes:DIRAX:symbol
+Fixes:DIRMO:name
+Fixes:DIRMO:symbol
+Fixes:ENSAC:name
+Fixes:ENSAC:symbol
+Fixes:ETPAR:name
+Fixes:ETPAR:symbol
+Fixes:LIBRU:name
+Fixes:LIBRU:symbol
+Fixes:MARRE:name
+Fixes:MARRE:symbol
+Fixes:MIRBA:name
+Fixes:MIRBA:symbol
+Fixes:ROYAN:name
+Fixes:ROYAN:symbol
+Fixes:VAGNA:name
+Fixes:VAGNA:symbol
+Fixes:VELIN:name
+Fixes:VELIN:symbol
+Free Text:LFBD Points VFR\EA :freetext
+Free Text:LFBD Points VFR\N :freetext
+Free Text:LFBD Points VFR\NA :freetext
+Free Text:LFBD Points VFR\NE :freetext
+Free Text:LFBD Points VFR\NW :freetext
+Free Text:LFBD Points VFR\OA :freetext
+Free Text:LFBD Points VFR\S :freetext
+Free Text:LFBD Points VFR\SA :freetext
+Free Text:LFBD Points VFR\SE :freetext
+Free Text:LFBD Points VFR\SW :freetext
+Free Text:LFBE Gates\1:freetext
+Free Text:LFBE Gates\2:freetext
+Free Text:LFBE Gates\3:freetext
+Free Text:LFBE Gates\4:freetext
+Free Text:LFBE Gates\5:freetext
+Free Text:LFBE Points VFR\N :freetext
+Free Text:LFBE Points VFR\NA :freetext
+Free Text:LFBE Points VFR\S :freetext
+Free Text:LFBE Points VFR\SA :freetext
+Free Text:LFBE Points VFR\SW:freetext
+Free Text:P1 BLAYAIS-BRAUD ET SAINT LOUIS\3300:freetext
+Free Text:P3 GOLFECH\3500:freetext
+Free Text:P5 LE BARP\3500:freetext
+Geo:CoastLine:
+Geo:LFBC:
+Geo:LFBD:
+Geo:LFBE:
+Geo:LFBX:
+Geo:LFCH:
+Geo:Political Boundaries:
+Geo:ZONE_P1:
+Geo:ZONE_P3:
+Geo:ZONE_P5:
+NDBs:BD:name
+NDBs:BD:symbol
+NDBs:BE:name
+NDBs:BE:symbol
+NDBs:BGC:name
+NDBs:BGC:symbol
+NDBs:NB:name
+NDBs:NB:symbol
+Runways:LFBD 05-23:extended centerline 1
+Runways:LFBD 05-23:extended centerline 1 left base
+Runways:LFBD 05-23:extended centerline 1 left ticks
+Runways:LFBD 05-23:extended centerline 1 left vectoring
+Runways:LFBD 05-23:extended centerline 1 right base
+Runways:LFBD 05-23:extended centerline 1 right ticks
+Runways:LFBD 05-23:extended centerline 1 right vectoring
+Runways:LFBD 05-23:extended centerline 2
+Runways:LFBD 05-23:extended centerline 2 left base
+Runways:LFBD 05-23:extended centerline 2 left ticks
+Runways:LFBD 05-23:extended centerline 2 left vectoring
+Runways:LFBD 05-23:extended centerline 2 right base
+Runways:LFBD 05-23:extended centerline 2 right ticks
+Runways:LFBD 05-23:extended centerline 2 right vectoring
+Runways:LFBD 11-29:extended centerline 1
+Runways:LFBD 11-29:extended centerline 1 left base
+Runways:LFBD 11-29:extended centerline 1 left ticks
+Runways:LFBD 11-29:extended centerline 1 left vectoring
+Runways:LFBD 11-29:extended centerline 1 right base
+Runways:LFBD 11-29:extended centerline 1 right ticks
+Runways:LFBD 11-29:extended centerline 1 right vectoring
+Runways:LFBD 11-29:extended centerline 2
+Runways:LFBD 11-29:extended centerline 2 left base
+Runways:LFBD 11-29:extended centerline 2 left ticks
+Runways:LFBD 11-29:extended centerline 2 left vectoring
+Runways:LFBD 11-29:extended centerline 2 right base
+Runways:LFBD 11-29:extended centerline 2 right ticks
+Runways:LFBD 11-29:extended centerline 2 right vectoring
+Runways:LFBE 09-27:centerline
+Runways:LFBE 09-27:extended centerline 1
+Runways:LFBE 09-27:extended centerline 1 left base
+Runways:LFBE 09-27:extended centerline 1 left ticks
+Runways:LFBE 09-27:extended centerline 1 left vectoring
+Runways:LFBE 09-27:extended centerline 1 right base
+Runways:LFBE 09-27:extended centerline 1 right ticks
+Runways:LFBE 09-27:extended centerline 1 right vectoring
+Runways:LFBE 09-27:extended centerline 2
+Runways:LFBE 09-27:extended centerline 2 left base
+Runways:LFBE 09-27:extended centerline 2 left ticks
+Runways:LFBE 09-27:extended centerline 2 left vectoring
+Runways:LFBE 09-27:extended centerline 2 right base
+Runways:LFBE 09-27:extended centerline 2 right ticks
+Runways:LFBE 09-27:extended centerline 2 right vectoring
+Runways:LFBE 09-27:name
+Runways:LFBX 11-29:extended centerline 1
+Runways:LFBX 11-29:extended centerline 1 left base
+Runways:LFBX 11-29:extended centerline 1 left ticks
+Runways:LFBX 11-29:extended centerline 1 left vectoring
+Runways:LFBX 11-29:extended centerline 1 right base
+Runways:LFBX 11-29:extended centerline 1 right ticks
+Runways:LFBX 11-29:extended centerline 1 right vectoring
+Runways:LFBX 11-29:extended centerline 2
+Runways:LFBX 11-29:extended centerline 2 left base
+Runways:LFBX 11-29:extended centerline 2 left ticks
+Runways:LFBX 11-29:extended centerline 2 left vectoring
+Runways:LFBX 11-29:extended centerline 2 right base
+Runways:LFBX 11-29:extended centerline 2 right ticks
+Runways:LFBX 11-29:extended centerline 2 right vectoring
+Runways:LFBX 11L-29R:extended centerline 1
+Runways:LFBX 11L-29R:extended centerline 1 left base
+Runways:LFBX 11L-29R:extended centerline 1 left ticks
+Runways:LFBX 11L-29R:extended centerline 1 left vectoring
+Runways:LFBX 11L-29R:extended centerline 1 right base
+Runways:LFBX 11L-29R:extended centerline 1 right ticks
+Runways:LFBX 11L-29R:extended centerline 1 right vectoring
+Runways:LFBX 11L-29R:extended centerline 2
+Runways:LFBX 11L-29R:extended centerline 2 left base
+Runways:LFBX 11L-29R:extended centerline 2 left ticks
+Runways:LFBX 11L-29R:extended centerline 2 left vectoring
+Runways:LFBX 11L-29R:extended centerline 2 right base
+Runways:LFBX 11L-29R:extended centerline 2 right ticks
+Runways:LFBX 11L-29R:extended centerline 2 right vectoring
+VORs:CNA:name
+VORs:CNA:symbol
+VORs:LMG:name
+VORs:LMG:symbol
+VORs:SAU:name
+VORs:SAU:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Jojo
+WINDOWAREA:43.747820:-3.713083:46.162845:3.306058
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:640
+PLUGIN:Virtual Controller Assistant:CDYPOS:23
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

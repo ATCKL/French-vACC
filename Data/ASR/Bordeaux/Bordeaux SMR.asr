@@ -1,0 +1,84 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_BORDEAUX-MERIGNAC:
+ARTCC boundary:TMA_AQUITAINE:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+Free Text:LFBD Points VFR\EA :freetext
+Free Text:LFBD Points VFR\EA :freetext
+Free Text:LFBD Points VFR\N :freetext
+Free Text:LFBD Points VFR\N :freetext
+Free Text:LFBD Points VFR\NA :freetext
+Free Text:LFBD Points VFR\NA :freetext
+Free Text:LFBD Points VFR\NE :freetext
+Free Text:LFBD Points VFR\NE :freetext
+Free Text:LFBD Points VFR\NW :freetext
+Free Text:LFBD Points VFR\NW :freetext
+Free Text:LFBD Points VFR\OA :freetext
+Free Text:LFBD Points VFR\OA :freetext
+Free Text:LFBD Points VFR\S :freetext
+Free Text:LFBD Points VFR\S :freetext
+Free Text:LFBD Points VFR\SA :freetext
+Free Text:LFBD Points VFR\SA :freetext
+Free Text:LFBD Points VFR\SE :freetext
+Free Text:LFBD Points VFR\SE :freetext
+Free Text:LFBD Points VFR\SW :freetext
+Free Text:LFBD Points VFR\SW :freetext
+Free Text:LFBD Taxiways\A:freetext
+Free Text:LFBD Taxiways\B:freetext
+Free Text:LFBD Taxiways\C:freetext
+Free Text:LFBD Taxiways\D:freetext
+Free Text:LFBD Taxiways\F:freetext
+Free Text:LFBD Taxiways\G:freetext
+Free Text:LFBD Taxiways\M1:freetext
+Free Text:LFBD Taxiways\M2:freetext
+Free Text:LFBD Taxiways\P1:freetext
+Free Text:LFBD Taxiways\P2:freetext
+Free Text:LFBD Taxiways\P3:freetext
+Free Text:LFBD Taxiways\P4:freetext
+Free Text:LFBD Taxiways\P5:freetext
+Free Text:LFBD Taxiways\P6:freetext
+Free Text:LFBD Taxiways\S1:freetext
+Free Text:LFBD Taxiways\S2:freetext
+Free Text:LFBD Taxiways\S3:freetext
+Free Text:LFBD Taxiways\S4:freetext
+Geo:CoastLine:
+Geo:LFBD:
+Geo:Political Boundaries:
+VORs:AGN:name
+VORs:AGN:symbol
+VORs:GAI:name
+VORs:GAI:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:44.808243:-0.732816:44.857496:-0.685099
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:639
+PLUGIN:Virtual Controller Assistant:CDYPOS:19
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

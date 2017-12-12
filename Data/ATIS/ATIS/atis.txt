@@ -1,0 +1,147 @@
+RECORD:-:minus.wav
+RECORD:,:break.wav
+RECORD:0:0.wav
+RECORD:00:hundred.wav
+RECORD:000:thousand.wav
+RECORD:1:1.wav
+RECORD:2:2.wav
+RECORD:3:3.wav
+RECORD:4:4.wav
+RECORD:5:5.wav
+RECORD:6:6.wav
+RECORD:7:7.wav
+RECORD:8:8.wav
+RECORD:9:9.wav
+RECORD:a:a.wav
+RECORD:After vacating the outer runway, hold short of the inner runway:lfpg_para.wav
+RECORD:and:and.wav
+RECORD:b:b.wav
+RECORD:bird activity reported in the vicinity:birds.wav
+RECORD:blowing:BL.wav
+RECORD:broken:broken.wav
+RECORD:c:c.wav
+RECORD:CAVOK:cavok.wav
+RECORD:cir:cir.wav
+RECORD:clouds:sky.wav
+RECORD:cumulonimbus:cb.wav
+RECORD:d:d.wav
+RECORD:decreasing:decr.wav
+RECORD:degrees:deg.wav
+RECORD:dew point:dew.wav
+RECORD:drizzle:DZ.wav
+RECORD:dust:DU.wav
+RECORD:dust storm:DS.wav
+RECORD:dust whirls:PO.wav
+RECORD:e:e.wav
+RECORD:expect departure:expectdep.wav
+RECORD:expected approach:expectedapp.wav
+RECORD:f:f.wav
+RECORD:feet:feet.wav
+RECORD:few:few.wav
+RECORD:fog:FG.wav
+RECORD:freezing:FZ.wav
+RECORD:funnel cloud:FC.wav
+RECORD:g:g.wav
+RECORD:gusting:gust.wav
+RECORD:h:h.wav
+RECORD:hail:GR.wav
+RECORD:haze:HZ.wav
+RECORD:heavy:heavy.wav
+RECORD:Holding points Alpha 1, bravo 1, charlie 1, are holding points of an active runway:lfmn_para_east.wav
+RECORD:Holding points hotel 1, golf 1, charlie 1, are holding points of an active runway:lfmn_para_west.wav
+RECORD:hundred:hundred.wav
+RECORD:i:i.wav
+RECORD:ice crystals:IC.wav
+RECORD:ice pellets:PL.wav
+RECORD:ils:ils.wav
+RECORD:increasing:inc.wav
+RECORD:inform on initial contact that you have received information:advise.wav
+RECORD:information:info.wav
+RECORD:j:j.wav
+RECORD:k:k.wav
+RECORD:kilometers:km.wav
+RECORD:knots:kt.wav
+RECORD:l:l.wav
+RECORD:landing runway:arr.wav
+RECORD:left:left.wav
+RECORD:lfbo:lfbo.wav
+RECORD:LFLB:LFLB
+RECORD:lfml:lfml.wav
+RECORD:lfmn:lfmn.wav
+RECORD:LFPB:LFPB
+RECORD:lfpg:lfpg.wav
+RECORD:lfpo:lfpo.wav
+RECORD:lfrs:lfrs.wav
+RECORD:LFSB:lfsb
+RECORD:light:light.wav
+RECORD:loc:loc.wav
+RECORD:low drifting:DR.wav
+RECORD:low visibility procedures in force:lvp.wav
+RECORD:m:m.wav
+RECORD:meters:meters.wav
+RECORD:mist:BR.wav
+RECORD:more than:more.wav
+RECORD:n:n.wav
+RECORD:nearby:VC.wav
+RECORD:nearby heavy:plus_VC.wav
+RECORD:nearby light:minus_VC.wav
+RECORD:no significant cloud:nsc.wav
+RECORD:NOSIG:nosig.wav
+RECORD:o:o.wav
+RECORD:or:or.wav
+RECORD:overcast:ovc.wav
+RECORD:p:p.wav
+RECORD:partial:PR.wav
+RECORD:patches of:BC.wav
+RECORD:present weather:wx.wav
+RECORD:q:q.wav
+RECORD:QFE:qfe.wav
+RECORD:QNH:qnh.wav
+RECORD:r:r.wav
+RECORD:rain:RA.wav
+RECORD:recorded at:recorded.wav
+RECORD:right:right.wav
+RECORD:rnav:rnav.wav
+RECORD:runway:rwy.wav
+RECORD:RVR:rvr.wav
+RECORD:s:s.wav
+RECORD:sand:SA.wav
+RECORD:sand storm:SS.wav
+RECORD:scattered:sct.wav
+RECORD:shallow:MI.wav
+RECORD:shower of:SH.wav
+RECORD:small hail:GS.wav
+RECORD:smoke:FU.wav
+RECORD:snow:SN.wav
+RECORD:snow grains:SG.wav
+RECORD:spray:PY.wav
+RECORD:squall:SQ.wav
+RECORD:t:t.wav
+RECORD:takeoff runway:dep.wav
+RECORD:temperature:tmp.wav
+RECORD:then:then.wav
+RECORD:this is:thisis.wav
+RECORD:thousand:thousand.wav
+RECORD:thunderstorm:TS.wav
+RECORD:towering cumulus:tcu.wav
+RECORD:transition level:tl.wav
+RECORD:u:u.wav
+RECORD:unknown phenomenon:UP.wav
+RECORD:utc:utc.wav
+RECORD:v:v.wav
+RECORD:variable between:variable.wav
+RECORD:vis:visual.wav
+RECORD:visibility:vis.wav
+RECORD:volcanic ash:VA.wav
+RECORD:vor:vor.wav
+RECORD:vordme:vordme.wav
+RECORD:vpt:vpt.wav
+RECORD:w:w.wav
+RECORD:wind:wind.wav
+RECORD:wind calm:wcalm.wav
+RECORD:x:x.wav
+RECORD:y:y.wav
+RECORD:z:z.wav
+ITEM:<h1>Internal:
+ITEM:Server:
+ITEM:Error</h1>:

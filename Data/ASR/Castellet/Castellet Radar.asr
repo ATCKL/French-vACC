@@ -1,0 +1,240 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_PROVENCE:
+ARTCC high boundary:FIR_MARSEILLE:
+Fixes:ARDEG:name
+Fixes:ARDEG:symbol
+Fixes:ARLET:name
+Fixes:ARLET:symbol
+Fixes:BADET:name
+Fixes:BADET:symbol
+Fixes:BALSI:name
+Fixes:BALSI:symbol
+Fixes:BARAT:name
+Fixes:BARAT:symbol
+Fixes:BORGO:name
+Fixes:BORGO:symbol
+Fixes:CALAN:name
+Fixes:CALAN:symbol
+Fixes:DIBER:name
+Fixes:DIBER:symbol
+Fixes:DOLIV:name
+Fixes:DOLIV:symbol
+Fixes:ETAKI:name
+Fixes:ETAKI:symbol
+Fixes:KURIR:name
+Fixes:KURIR:symbol
+Fixes:LANKO:name
+Fixes:LANKO:symbol
+Fixes:LATAM:name
+Fixes:LATAM:symbol
+Fixes:LERGA:name
+Fixes:LERGA:symbol
+Fixes:LUMIX:name
+Fixes:LUMIX:symbol
+Fixes:MARRI:name
+Fixes:MARRI:symbol
+Fixes:OSKIL:name
+Fixes:OSKIL:symbol
+Fixes:OTROT:name
+Fixes:OTROT:symbol
+Fixes:POMEG:name
+Fixes:POMEG:symbol
+Fixes:RHONE:name
+Fixes:RHONE:symbol
+Fixes:RIKPO:name
+Fixes:RIKPO:symbol
+Fixes:SALIN:name
+Fixes:SALIN:symbol
+Fixes:SAURG:name
+Fixes:SAURG:symbol
+Fixes:SOSUR:name
+Fixes:SOSUR:symbol
+Fixes:SUBIL:name
+Fixes:SUBIL:symbol
+Fixes:TINOT:name
+Fixes:TINOT:symbol
+Fixes:VENTA:name
+Fixes:VENTA:symbol
+Fixes:ZEBRA:name
+Fixes:ZEBRA:symbol
+Free Text:LFML Points VFR\NA:freetext
+Free Text:LFMV Gates\1:freetext
+Free Text:LFMV Gates\2:freetext
+Free Text:LFMV Gates\3:freetext
+Free Text:LFMV Gates\4:freetext
+Free Text:LFMV Gates\5:freetext
+Free Text:LFMV Gates\6:freetext
+Free Text:LFMV Gates\7:freetext
+Free Text:LFMV Gates\8:freetext
+Free Text:LFMV Gates\G1:freetext
+Free Text:LFMV Points VFR\E :freetext
+Free Text:LFMV Points VFR\NA :freetext
+Free Text:LFMV Points VFR\NE :freetext
+Free Text:LFMV Points VFR\NW :freetext
+Free Text:LFMV Points VFR\SE:freetext
+Free Text:LFMV Points VFR\SW :freetext
+Free Text:LFMV Points VFR\W :freetext
+Free Text:LFMV Taxiways\A:freetext
+Free Text:LFMV Taxiways\B:freetext
+Free Text:LFMV Taxiways\C:freetext
+Free Text:LFMV Taxiways\D:freetext
+Free Text:LFMV Taxiways\E:freetext
+Free Text:LFMV Taxiways\F:freetext
+Free Text:LFMV Taxiways\F:freetext
+Free Text:LFMV Taxiways\G:freetext
+Geo:LFMA:
+Geo:LFMI:
+Geo:LFML:
+Geo:LFMO:
+Geo:LFMQ:
+Geo:LFMV:
+Geo:Political Boundaries:
+NDBs:ALM:name
+NDBs:ALM:symbol
+NDBs:CM:name
+NDBs:CM:symbol
+NDBs:MS:name
+NDBs:MS:symbol
+NDBs:OB:name
+NDBs:OB:symbol
+NDBs:SAL:name
+NDBs:SAL:symbol
+Runways:LFMA 15-33:centerline
+Runways:LFMA 15-33:extended centerline 1
+Runways:LFMA 15-33:extended centerline 1 left base
+Runways:LFMA 15-33:extended centerline 1 left ticks
+Runways:LFMA 15-33:extended centerline 1 left vectoring
+Runways:LFMA 15-33:extended centerline 1 right base
+Runways:LFMA 15-33:extended centerline 1 right ticks
+Runways:LFMA 15-33:extended centerline 1 right vectoring
+Runways:LFMA 15-33:extended centerline 2
+Runways:LFMA 15-33:extended centerline 2 left base
+Runways:LFMA 15-33:extended centerline 2 left ticks
+Runways:LFMA 15-33:extended centerline 2 left vectoring
+Runways:LFMA 15-33:extended centerline 2 right base
+Runways:LFMA 15-33:extended centerline 2 right ticks
+Runways:LFMA 15-33:extended centerline 2 right vectoring
+Runways:LFMA 15-33:name
+Runways:LFMI 15-33:centerline
+Runways:LFMI 15-33:extended centerline 1
+Runways:LFMI 15-33:extended centerline 1 left base
+Runways:LFMI 15-33:extended centerline 1 left ticks
+Runways:LFMI 15-33:extended centerline 1 left vectoring
+Runways:LFMI 15-33:extended centerline 1 right base
+Runways:LFMI 15-33:extended centerline 1 right ticks
+Runways:LFMI 15-33:extended centerline 1 right vectoring
+Runways:LFMI 15-33:extended centerline 2
+Runways:LFMI 15-33:extended centerline 2 left base
+Runways:LFMI 15-33:extended centerline 2 left ticks
+Runways:LFMI 15-33:extended centerline 2 left vectoring
+Runways:LFMI 15-33:extended centerline 2 right base
+Runways:LFMI 15-33:extended centerline 2 right ticks
+Runways:LFMI 15-33:extended centerline 2 right vectoring
+Runways:LFMI 15-33:name
+Runways:LFML 13L-31R:centerline
+Runways:LFML 13L-31R:extended centerline 1
+Runways:LFML 13L-31R:extended centerline 1 left base
+Runways:LFML 13L-31R:extended centerline 1 left ticks
+Runways:LFML 13L-31R:extended centerline 1 left vectoring
+Runways:LFML 13L-31R:extended centerline 1 right base
+Runways:LFML 13L-31R:extended centerline 1 right ticks
+Runways:LFML 13L-31R:extended centerline 1 right vectoring
+Runways:LFML 13L-31R:extended centerline 2
+Runways:LFML 13L-31R:extended centerline 2 left base
+Runways:LFML 13L-31R:extended centerline 2 left ticks
+Runways:LFML 13L-31R:extended centerline 2 left vectoring
+Runways:LFML 13L-31R:extended centerline 2 right base
+Runways:LFML 13L-31R:extended centerline 2 right ticks
+Runways:LFML 13L-31R:extended centerline 2 right vectoring
+Runways:LFML 13L-31R:name
+Runways:LFML 13R-31L:centerline
+Runways:LFML 13R-31L:extended centerline 1
+Runways:LFML 13R-31L:extended centerline 1 left base
+Runways:LFML 13R-31L:extended centerline 1 left ticks
+Runways:LFML 13R-31L:extended centerline 1 left vectoring
+Runways:LFML 13R-31L:extended centerline 1 right base
+Runways:LFML 13R-31L:extended centerline 1 right ticks
+Runways:LFML 13R-31L:extended centerline 1 right vectoring
+Runways:LFML 13R-31L:extended centerline 2
+Runways:LFML 13R-31L:extended centerline 2 left base
+Runways:LFML 13R-31L:extended centerline 2 left ticks
+Runways:LFML 13R-31L:extended centerline 2 left vectoring
+Runways:LFML 13R-31L:extended centerline 2 right base
+Runways:LFML 13R-31L:extended centerline 2 right ticks
+Runways:LFML 13R-31L:extended centerline 2 right vectoring
+Runways:LFML 13R-31L:name
+Runways:LFMO 14-32:centerline
+Runways:LFMO 14-32:extended centerline 1
+Runways:LFMO 14-32:extended centerline 1 left base
+Runways:LFMO 14-32:extended centerline 1 left ticks
+Runways:LFMO 14-32:extended centerline 1 left vectoring
+Runways:LFMO 14-32:extended centerline 1 right base
+Runways:LFMO 14-32:extended centerline 1 right ticks
+Runways:LFMO 14-32:extended centerline 1 right vectoring
+Runways:LFMO 14-32:extended centerline 2
+Runways:LFMO 14-32:extended centerline 2 left base
+Runways:LFMO 14-32:extended centerline 2 left ticks
+Runways:LFMO 14-32:extended centerline 2 left vectoring
+Runways:LFMO 14-32:extended centerline 2 right base
+Runways:LFMO 14-32:extended centerline 2 right ticks
+Runways:LFMO 14-32:extended centerline 2 right vectoring
+Runways:LFMO 14-32:name
+Runways:LFMQ 13-31:centerline
+Runways:LFMQ 13-31:extended centerline 1
+Runways:LFMQ 13-31:extended centerline 1 left base
+Runways:LFMQ 13-31:extended centerline 1 left ticks
+Runways:LFMQ 13-31:extended centerline 1 left vectoring
+Runways:LFMQ 13-31:extended centerline 1 right base
+Runways:LFMQ 13-31:extended centerline 1 right ticks
+Runways:LFMQ 13-31:extended centerline 1 right vectoring
+Runways:LFMQ 13-31:extended centerline 2
+Runways:LFMQ 13-31:extended centerline 2 left base
+Runways:LFMQ 13-31:extended centerline 2 left ticks
+Runways:LFMQ 13-31:extended centerline 2 left vectoring
+Runways:LFMQ 13-31:extended centerline 2 right base
+Runways:LFMQ 13-31:extended centerline 2 right ticks
+Runways:LFMQ 13-31:extended centerline 2 right vectoring
+Runways:LFMQ 13-31:name
+Runways:LFMV 17-35:centerline
+Runways:LFMV 17-35:extended centerline 1
+Runways:LFMV 17-35:extended centerline 1 left base
+Runways:LFMV 17-35:extended centerline 1 left ticks
+Runways:LFMV 17-35:extended centerline 1 left vectoring
+Runways:LFMV 17-35:extended centerline 1 right base
+Runways:LFMV 17-35:extended centerline 1 right ticks
+Runways:LFMV 17-35:extended centerline 1 right vectoring
+Runways:LFMV 17-35:extended centerline 2
+Runways:LFMV 17-35:extended centerline 2 left base
+Runways:LFMV 17-35:extended centerline 2 left ticks
+Runways:LFMV 17-35:extended centerline 2 left vectoring
+Runways:LFMV 17-35:extended centerline 2 right base
+Runways:LFMV 17-35:extended centerline 2 right ticks
+Runways:LFMV 17-35:extended centerline 2 right vectoring
+Runways:LFMV 17-35:name
+VORs:AVN:name
+VORs:AVN:symbol
+VORs:MRM:name
+VORs:MRM:symbol
+VORs:MTG:name
+VORs:MTG:symbol
+VORs:MTL:name
+VORs:MTL:symbol
+VORs:PPG:name
+VORs:PPG:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:43.896971:4.880548:43.918181:4.921822

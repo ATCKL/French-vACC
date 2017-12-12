@@ -1,0 +1,49 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Brest ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Brest ACC\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Brest ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Brest ACC\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Brest ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Brest ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+ASRFastKeys	1	French ACC\Data\ASR\Center\Brest.asr
+ASRFastKeys	2	French ACC\Data\ASR\Brest\Brest SMR.asr
+RecentFiles	Recent1	French ACC\Data\ASR\Center\Brest.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent2	French ACC\Data\ASR\Brest\Brest SMR.asr
+LastSession	connecttype	0
+LastSession	callsign	LFRR_CTR
+LastSession	facility	6
+LastSession	rating	4
+LastSession	tovatsim	1
+LastSession	atis2	Brest Control / Contrôle. EN/FR.
+LastSession	atis3	Covering North West of France
+LastSession	atis4	Charts @ VATFRANCE.org/Pilotbrief
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	realname	Chriss Klosowski
+LastSession	certificate	1306415
+LastSession	password	vLkhR5RI
+LastSession	server	SINGAPORE
+Plugins	Plugin0	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\Plugins\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Voice	input_hardware	DirectSound - Microphone (3- SADES Wolfang)
+Voice	output_hardware	DirectSound - Speakers (3- SADES Wolfang)
+Voice	input_hardware2	DirectSound - Microphone (3- SADES Wolfang)
+Voice	output_hardware2	DirectSound - Speakers (3- SADES Wolfang)
+Voice	PPPT	18677760
+Voice	SPPT	3538944
+LastSession	atis_airport	LFRS
+LastSession	atis_letter	66

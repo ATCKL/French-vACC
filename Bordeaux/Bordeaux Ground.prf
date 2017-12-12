@@ -1,0 +1,20 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Bordeaux ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Bordeaux\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Bordeaux ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Bordeaux\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Bordeaux ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Bordeaux ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+RecentFiles	Recent1	French ACC\Data\ASR\Bordeaux\Bordeaux SMR.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	French ACC\Data\ASR\Bordeaux\Bordeaux SMR.asr

@@ -1,0 +1,8 @@
+VOICE
+AG:Lyon Approach:125.800:voice1.vatfrance.org:lfll_app
+AG:Lyon Tower:120.450:voice1.vatfrance.org:lfll_twr
+AG:Lyon Ground:121.820:voice1.vatfrance.org:lfll_gnd
+AG:Lyon Delivery:121.700:voice1.vatfrance.org:lfll_del
+AG:Lyon Departures:133.150:voice1.vatfrance.org:lfll_dep
+AG:Lyon ATIS:135.220:voice1.vatfrance.org:lfll_atis
+END

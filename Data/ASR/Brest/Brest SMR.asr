@@ -1,0 +1,101 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+Free Text:LFRB Gates\1:freetext
+Free Text:LFRB Gates\1:freetext
+Free Text:LFRB Gates\1:freetext
+Free Text:LFRB Gates\1:freetext
+Free Text:LFRB Gates\14:freetext
+Free Text:LFRB Gates\15:freetext
+Free Text:LFRB Gates\16:freetext
+Free Text:LFRB Gates\17:freetext
+Free Text:LFRB Gates\18:freetext
+Free Text:LFRB Gates\2:freetext
+Free Text:LFRB Gates\3:freetext
+Free Text:LFRB Gates\3:freetext
+Free Text:LFRB Gates\4:freetext
+Free Text:LFRB Gates\4:freetext
+Free Text:LFRB Gates\5:freetext
+Free Text:LFRB Gates\6:freetext
+Free Text:LFRB Gates\6:freetext
+Free Text:LFRB Gates\9:freetext
+Free Text:LFRB Taxiways\C:freetext
+Free Text:LFRB Taxiways\C:freetext
+Free Text:LFRB Taxiways\C:freetext
+Free Text:LFRB Taxiways\D:freetext
+Free Text:LFRB Taxiways\D:freetext
+Free Text:LFRB Taxiways\E:freetext
+Free Text:LFRB Taxiways\E:freetext
+Free Text:LFRB Taxiways\N:freetext
+Free Text:LFRB Taxiways\N:freetext
+Free Text:LFRB Taxiways\N:freetext
+Free Text:LFRB Taxiways\N:freetext
+Free Text:LFRB Taxiways\P:freetext
+Free Text:LFRB Taxiways\P:freetext
+Free Text:LFRB Taxiways\P:freetext
+Free Text:LFRB Taxiways\P:freetext
+Free Text:LFRB Taxiways\P:freetext
+Free Text:LFRB Taxiways\S:freetext
+Geo:CoastLine:
+Geo:LFRB:
+Runways:LFRB 07L-25R:centerline
+Runways:LFRB 07L-25R:extended centerline 1
+Runways:LFRB 07L-25R:extended centerline 1 left base
+Runways:LFRB 07L-25R:extended centerline 1 left ticks
+Runways:LFRB 07L-25R:extended centerline 1 left vectoring
+Runways:LFRB 07L-25R:extended centerline 1 right base
+Runways:LFRB 07L-25R:extended centerline 1 right ticks
+Runways:LFRB 07L-25R:extended centerline 1 right vectoring
+Runways:LFRB 07L-25R:extended centerline 2
+Runways:LFRB 07L-25R:extended centerline 2 left base
+Runways:LFRB 07L-25R:extended centerline 2 left ticks
+Runways:LFRB 07L-25R:extended centerline 2 left vectoring
+Runways:LFRB 07L-25R:extended centerline 2 right base
+Runways:LFRB 07L-25R:extended centerline 2 right ticks
+Runways:LFRB 07L-25R:extended centerline 2 right vectoring
+Runways:LFRB 07L-25R:name
+Runways:LFRB 07R-25L:centerline
+Runways:LFRB 07R-25L:extended centerline 1
+Runways:LFRB 07R-25L:extended centerline 1 left base
+Runways:LFRB 07R-25L:extended centerline 1 left ticks
+Runways:LFRB 07R-25L:extended centerline 1 left vectoring
+Runways:LFRB 07R-25L:extended centerline 1 right base
+Runways:LFRB 07R-25L:extended centerline 1 right ticks
+Runways:LFRB 07R-25L:extended centerline 1 right vectoring
+Runways:LFRB 07R-25L:extended centerline 2
+Runways:LFRB 07R-25L:extended centerline 2 left base
+Runways:LFRB 07R-25L:extended centerline 2 left ticks
+Runways:LFRB 07R-25L:extended centerline 2 left vectoring
+Runways:LFRB 07R-25L:extended centerline 2 right base
+Runways:LFRB 07R-25L:extended centerline 2 right ticks
+Runways:LFRB 07R-25L:extended centerline 2 right vectoring
+Runways:LFRB 07R-25L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Jojo
+WINDOWAREA:48.434971:-4.467761:48.464322:-4.382454
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

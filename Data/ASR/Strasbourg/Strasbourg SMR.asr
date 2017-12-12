@@ -1,0 +1,88 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:E:\Documents\EuroScope\Sectors\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_STRASBOURG:
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\.:freetext
+Free Text:LFST Gates\A1:freetext
+Free Text:LFST Gates\A10:freetext
+Free Text:LFST Gates\A11:freetext
+Free Text:LFST Gates\A12:freetext
+Free Text:LFST Gates\A14:freetext
+Free Text:LFST Gates\A15:freetext
+Free Text:LFST Gates\A16:freetext
+Free Text:LFST Gates\A18:freetext
+Free Text:LFST Gates\A19:freetext
+Free Text:LFST Gates\A2:freetext
+Free Text:LFST Gates\A3:freetext
+Free Text:LFST Gates\A4A:freetext
+Free Text:LFST Gates\A4B:freetext
+Free Text:LFST Gates\A5:freetext
+Free Text:LFST Gates\A6:freetext
+Free Text:LFST Gates\A7:freetext
+Free Text:LFST Gates\A8:freetext
+Free Text:LFST Gates\A9:freetext
+Free Text:LFST Gates\B1:freetext
+Free Text:LFST Gates\B2:freetext
+Free Text:LFST Gates\B3:freetext
+Free Text:LFST Gates\B4:freetext
+Free Text:LFST Taxiways\AVIATION:freetext
+Free Text:LFST Taxiways\E:freetext
+Free Text:LFST Taxiways\F:freetext
+Free Text:LFST Taxiways\FRET:freetext
+Free Text:LFST Taxiways\G:freetext
+Free Text:LFST Taxiways\H:freetext
+Free Text:LFST Taxiways\J:freetext
+Free Text:LFST Taxiways\K:freetext
+Free Text:LFST Taxiways\L:freetext
+Free Text:LFST Taxiways\M:freetext
+Free Text:LFST Taxiways\P2:freetext
+Free Text:LFST Taxiways\P3:freetext
+Free Text:LFST Taxiways\P4:freetext
+Free Text:LFST Taxiways\POMPIERS:freetext
+Free Text:LFST Taxiways\Q:freetext
+Free Text:LFST Taxiways\SECURITE:freetext
+Free Text:LFST Taxiways\TERMINAL:freetext
+Free Text:LFST Taxiways\U:freetext
+Free Text:LFST Taxiways\V:freetext
+Free Text:LFST Taxiways\W:freetext
+Geo:LFST:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:40.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:48.531182:7.602789:48.549932:7.654638
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:639
+PLUGIN:Virtual Controller Assistant:CDYPOS:22
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

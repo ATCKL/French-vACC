@@ -1,0 +1,5 @@
+PROFILE:LFMV_TWR:50:3
+ATIS2:Avignon Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

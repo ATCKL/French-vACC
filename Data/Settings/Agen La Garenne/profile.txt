@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:LFBA_TWR:50:4
+ATIS2:Gareene Tower
+ATIS3:Squawk mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+END

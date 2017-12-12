@@ -1,0 +1,6 @@
+VOICE
+AG:Biarritz Approach:125.600:voice1.vatfrance.org:lfbz_app
+AG:Biarritz Tower:118.700:voice1.vatfrance.org:lfbz_twr
+AG:Biarritz Ground:121.950:voice1.vatfrance.org:lfbz_gnd
+AG:Biarritz ATIS:128.220:voice1.vatfrance.org:lfbz_atis
+END

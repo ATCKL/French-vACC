@@ -1,0 +1,183 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_CLERMONT-FERRAND:
+ARTCC boundary:TMA_CLERMONT-FERRAND:
+ARTCC boundary:TMA_SAINT-ETIENNE:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+Fixes:AMDAS:name
+Fixes:AMDAS:symbol
+Fixes:ARSOM:name
+Fixes:ARSOM:symbol
+Fixes:ATRID:name
+Fixes:ATRID:symbol
+Fixes:BELEP:name
+Fixes:BELEP:symbol
+Fixes:CACHI:name
+Fixes:CACHI:symbol
+Fixes:ENESO:name
+Fixes:ENESO:symbol
+Fixes:GERVA:name
+Fixes:GERVA:symbol
+Fixes:LERGA:name
+Fixes:LERGA:symbol
+Fixes:MEZIN:name
+Fixes:MEZIN:symbol
+Fixes:MINPA:name
+Fixes:MINPA:symbol
+Fixes:NEKEM:name
+Fixes:NEKEM:symbol
+Fixes:OLIRI:name
+Fixes:OLIRI:symbol
+Fixes:PIMAK:name
+Fixes:PIMAK:symbol
+Fixes:RIMOR:name
+Fixes:RIMOR:symbol
+Fixes:RISUN:name
+Fixes:RISUN:symbol
+Fixes:RIVEK:name
+Fixes:RIVEK:symbol
+Fixes:SOMTI:name
+Fixes:SOMTI:symbol
+Fixes:SULOT:name
+Fixes:SULOT:symbol
+Fixes:TITOX:name
+Fixes:TITOX:symbol
+Free Text:LFLC AMSR\3100:freetext
+Free Text:LFLC AMSR\3500:freetext
+Free Text:LFLC AMSR\4000:freetext
+Free Text:LFLC AMSR\4000:freetext
+Free Text:LFLC AMSR\4300:freetext
+Free Text:LFLC AMSR\4500:freetext
+Free Text:LFLC AMSR\4900:freetext
+Free Text:LFLC AMSR\5800:freetext
+Free Text:LFLC AMSR\6000:freetext
+Free Text:LFLC AMSR\6200:freetext
+Free Text:LFLC AMSR\6500:freetext
+Free Text:LFLC AMSR\6600:freetext
+Free Text:LFLC AMSR\6700:freetext
+Free Text:LFLC AMSR\6800:freetext
+Free Text:LFLC AMSR\7000:freetext
+Free Text:LFLC AMSR\7600:freetext
+Free Text:LFLC AMSR\7800:freetext
+Free Text:LFLC AMSR\8400:freetext
+Free Text:LFLC AMSR\8700:freetext
+Free Text:LFLC AMSR\8800:freetext
+Free Text:LFLC Points VFR\N :freetext
+Free Text:LFLC Points VFR\NA :freetext
+Free Text:LFLC Points VFR\NE:freetext
+Free Text:LFLC Points VFR\S :freetext
+Free Text:LFLC Points VFR\SA :freetext
+Free Text:LFLC Points VFR\SB :freetext
+Free Text:LFLC Points VFR\SE :freetext
+Geo:CoastLine:
+Geo:LFLC:
+Geo:LFLC_AMSR:
+Geo:LFMH:
+Geo:Political Boundaries:
+NDBs:CF:name
+NDBs:CF:symbol
+NDBs:EB:name
+NDBs:EB:symbol
+NDBs:VZ:name
+NDBs:VZ:symbol
+Runways:LFLC 01-19:centerline
+Runways:LFLC 01-19:extended centerline 1
+Runways:LFLC 01-19:extended centerline 1 left base
+Runways:LFLC 01-19:extended centerline 1 left ticks
+Runways:LFLC 01-19:extended centerline 1 left vectoring
+Runways:LFLC 01-19:extended centerline 1 right base
+Runways:LFLC 01-19:extended centerline 1 right ticks
+Runways:LFLC 01-19:extended centerline 1 right vectoring
+Runways:LFLC 01-19:extended centerline 2
+Runways:LFLC 01-19:extended centerline 2 left base
+Runways:LFLC 01-19:extended centerline 2 left ticks
+Runways:LFLC 01-19:extended centerline 2 left vectoring
+Runways:LFLC 01-19:extended centerline 2 right base
+Runways:LFLC 01-19:extended centerline 2 right ticks
+Runways:LFLC 01-19:extended centerline 2 right vectoring
+Runways:LFLC 01-19:name
+Runways:LFLC 08-26:centerline
+Runways:LFLC 08-26:extended centerline 1
+Runways:LFLC 08-26:extended centerline 1 left base
+Runways:LFLC 08-26:extended centerline 1 left ticks
+Runways:LFLC 08-26:extended centerline 1 left vectoring
+Runways:LFLC 08-26:extended centerline 1 right base
+Runways:LFLC 08-26:extended centerline 1 right ticks
+Runways:LFLC 08-26:extended centerline 1 right vectoring
+Runways:LFLC 08-26:extended centerline 2
+Runways:LFLC 08-26:extended centerline 2 left base
+Runways:LFLC 08-26:extended centerline 2 left ticks
+Runways:LFLC 08-26:extended centerline 2 left vectoring
+Runways:LFLC 08-26:extended centerline 2 right base
+Runways:LFLC 08-26:extended centerline 2 right ticks
+Runways:LFLC 08-26:extended centerline 2 right vectoring
+Runways:LFLC 08-26:name
+Runways:LFLC 08L-26R:centerline
+Runways:LFLC 08L-26R:extended centerline 1
+Runways:LFLC 08L-26R:extended centerline 1 left base
+Runways:LFLC 08L-26R:extended centerline 1 left ticks
+Runways:LFLC 08L-26R:extended centerline 1 left vectoring
+Runways:LFLC 08L-26R:extended centerline 1 right base
+Runways:LFLC 08L-26R:extended centerline 1 right ticks
+Runways:LFLC 08L-26R:extended centerline 1 right vectoring
+Runways:LFLC 08L-26R:extended centerline 2
+Runways:LFLC 08L-26R:extended centerline 2 left base
+Runways:LFLC 08L-26R:extended centerline 2 left ticks
+Runways:LFLC 08L-26R:extended centerline 2 left vectoring
+Runways:LFLC 08L-26R:extended centerline 2 right base
+Runways:LFLC 08L-26R:extended centerline 2 right ticks
+Runways:LFLC 08L-26R:extended centerline 2 right vectoring
+Runways:LFLC 08L-26R:name
+Runways:LFMH 18-36:centerline
+Runways:LFMH 18-36:extended centerline 1
+Runways:LFMH 18-36:extended centerline 1 left base
+Runways:LFMH 18-36:extended centerline 1 left ticks
+Runways:LFMH 18-36:extended centerline 1 left vectoring
+Runways:LFMH 18-36:extended centerline 1 right base
+Runways:LFMH 18-36:extended centerline 1 right ticks
+Runways:LFMH 18-36:extended centerline 1 right vectoring
+Runways:LFMH 18-36:extended centerline 2
+Runways:LFMH 18-36:extended centerline 2 left base
+Runways:LFMH 18-36:extended centerline 2 left ticks
+Runways:LFMH 18-36:extended centerline 2 left vectoring
+Runways:LFMH 18-36:extended centerline 2 right base
+Runways:LFMH 18-36:extended centerline 2 right ticks
+Runways:LFMH 18-36:extended centerline 2 right vectoring
+Runways:LFMH 18-36:name
+VORs:MOU:name
+VORs:MOU:symbol
+VORs:ROA:name
+VORs:ROA:symbol
+VORs:TIS:name
+VORs:TIS:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:45.171089:1.691975:46.472164:5.289752
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

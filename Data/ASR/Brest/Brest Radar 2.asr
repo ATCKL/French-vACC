@@ -1,0 +1,1543 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+Airports:EBAW:name
+Airports:EBBE:name
+Airports:EBBL:name
+Airports:EBBR:name
+Airports:EBBX:name
+Airports:EBCI:name
+Airports:EBCV:name
+Airports:EBFN:name
+Airports:EBFS:name
+Airports:EBKT:name
+Airports:EBLG:name
+Airports:EBOS:name
+Airports:EBSH:name
+Airports:EBSL:name
+Airports:EBSP:name
+Airports:EBST:name
+Airports:EBSU:name
+Airports:EBTN:name
+Airports:EBUL:name
+Airports:EBWE:name
+Airports:EBZR:name
+Airports:EDAO:name
+Airports:EDBA:name
+Airports:EDCO:name
+Airports:EDDE:name
+Airports:EDDF:name
+Airports:EDDG:name
+Airports:EDDK:name
+Airports:EDDL:name
+Airports:EDDN:name
+Airports:EDDR:name
+Airports:EDDS:name
+Airports:EDEB:name
+Airports:EDEF:name
+Airports:EDEG:name
+Airports:EDEH:name
+Airports:EDEP:name
+Airports:EDFA:name
+Airports:EDFC:name
+Airports:EDFD:name
+Airports:EDFE:name
+Airports:EDFG:name
+Airports:EDFH:name
+Airports:EDFI:name
+Airports:EDFK:name
+Airports:EDFL:name
+Airports:EDFM:name
+Airports:EDFQ:name
+Airports:EDFV:name
+Airports:EDFX:name
+Airports:EDFY:name
+Airports:EDFZ:name
+Airports:EDGA:name
+Airports:EDGB:name
+Airports:EDGE:name
+Airports:EDGF:name
+Airports:EDGH:name
+Airports:EDGR:name
+Airports:EDGS:name
+Airports:EDGT:name
+Airports:EDJA:name
+Airports:EDKB:name
+Airports:EDKD:name
+Airports:EDKF:name
+Airports:EDKH:name
+Airports:EDKI:name
+Airports:EDKO:name
+Airports:EDKU:name
+Airports:EDKV:name
+Airports:EDKZ:name
+Airports:EDLA:name
+Airports:EDLB:name
+Airports:EDLD:name
+Airports:EDLE:name
+Airports:EDLF:name
+Airports:EDLG:name
+Airports:EDLH:name
+Airports:EDLI:name
+Airports:EDLJ:name
+Airports:EDLM:name
+Airports:EDLN:name
+Airports:EDLP:name
+Airports:EDLS:name
+Airports:EDLV:name
+Airports:EDLW:name
+Airports:EDLY:name
+Airports:EDMA:name
+Airports:EDMB:name
+Airports:EDMC:name
+Airports:EDMG:name
+Airports:EDMH:name
+Airports:EDMN:name
+Airports:EDMQ:name
+Airports:EDMU:name
+Airports:EDND:name
+Airports:EDNE:name
+Airports:EDNG:name
+Airports:EDNH:name
+Airports:EDNL:name
+Airports:EDNQ:name
+Airports:EDNY:name
+Airports:EDPA:name
+Airports:EDPB:name
+Airports:EDPM:name
+Airports:EDPT:name
+Airports:EDPU:name
+Airports:EDPY:name
+Airports:EDQB:name
+Airports:EDQC:name
+Airports:EDQF:name
+Airports:EDQH:name
+Airports:EDQR:name
+Airports:EDQT:name
+Airports:EDQY:name
+Airports:EDRA:name
+Airports:EDRB:name
+Airports:EDRF:name
+Airports:EDRH:name
+Airports:EDRK:name
+Airports:EDRS:name
+Airports:EDRT:name
+Airports:EDRW:name
+Airports:EDRY:name
+Airports:EDRZ:name
+Airports:EDSA:name
+Airports:EDSB:name
+Airports:EDSG:name
+Airports:EDSH:name
+Airports:EDSI:name
+Airports:EDSL:name
+Airports:EDSN:name
+Airports:EDSW:name
+Airports:EDTB:name
+Airports:EDTC:name
+Airports:EDTD:name
+Airports:EDTF:name
+Airports:EDTG:name
+Airports:EDTH:name
+Airports:EDTL:name
+Airports:EDTM:name
+Airports:EDTR:name
+Airports:EDTY:name
+Airports:EDVA:name
+Airports:EDVE:name
+Airports:EDVF:name
+Airports:EDVI:name
+Airports:EDVK:name
+Airports:EDVL:name
+Airports:EDVM:name
+Airports:EDVW:name
+Airports:EGBB:name
+Airports:EGBJ:name
+Airports:EGBK:name
+Airports:EGBP:name
+Airports:EGBS:name
+Airports:EGBT:name
+Airports:EGBV:name
+Airports:EGBW:name
+Airports:EGDC:name
+Airports:EGDL:name
+Airports:EGDM:name
+Airports:EGDN:name
+Airports:EGDO:name
+Airports:EGDR:name
+Airports:EGDX:name
+Airports:EGDY:name
+Airports:EGFA:name
+Airports:EGFE:name
+Airports:EGFF:name
+Airports:EGFH:name
+Airports:EGFP:name
+Airports:EGGD:name
+Airports:EGGW:name
+Airports:EGHA:name
+Airports:EGHC:name
+Airports:EGHD:name
+Airports:EGHE:name
+Airports:EGHF:name
+Airports:EGHG:name
+Airports:EGHH:name
+Airports:EGHI:name
+Airports:EGHJ:name
+Airports:EGHL:name
+Airports:EGHN:name
+Airports:EGHO:name
+Airports:EGHQ:name
+Airports:EGHR:name
+Airports:EGHU:name
+Airports:EGHY:name
+Airports:EGJA:name
+Airports:EGJB:name
+Airports:EGJJ:name
+Airports:EGKA:name
+Airports:EGKB:name
+Airports:EGKH:name
+Airports:EGKK:name
+Airports:EGKR:name
+Airports:EGLA:name
+Airports:EGLC:name
+Airports:EGLD:name
+Airports:EGLF:name
+Airports:EGLG:name
+Airports:EGLJ:name
+Airports:EGLK:name
+Airports:EGLL:name
+Airports:EGLM:name
+Airports:EGLS:name
+Airports:EGMA:name
+Airports:EGMC:name
+Airports:EGMD:name
+Airports:EGMH:name
+Airports:EGMJ:name
+Airports:EGML:name
+Airports:EGNE:name
+Airports:EGNX:name
+Airports:EGSC:name
+Airports:EGSG:name
+Airports:EGSL:name
+Airports:EGSN:name
+Airports:EGSO:name
+Airports:EGSQ:name
+Airports:EGSR:name
+Airports:EGSS:name
+Airports:EGST:name
+Airports:EGSU:name
+Airports:EGSX:name
+Airports:EGTB:name
+Airports:EGTC:name
+Airports:EGTE:name
+Airports:EGTF:name
+Airports:EGTG:name
+Airports:EGTK:name
+Airports:EGTO:name
+Airports:EGTP:name
+Airports:EGTR:name
+Airports:EGTU:name
+Airports:EGUB:name
+Airports:EGUO:name
+Airports:EGUW:name
+Airports:EGVA:name
+Airports:EGVN:name
+Airports:EGVO:name
+Airports:EGWU:name
+Airports:EHAM:name
+Airports:EHBD:name
+Airports:EHBK:name
+Airports:EHDL:name
+Airports:EHEH:name
+Airports:EHGR:name
+Airports:EHHV:name
+Airports:EHMZ:name
+Airports:EHRD:name
+Airports:EHSB:name
+Airports:EHSE:name
+Airports:EHTE:name
+Airports:EHTW:name
+Airports:EHVK:name
+Airports:EHWO:name
+Airports:EIWF:name
+Airports:ELLX:name
+Airports:ETAD:name
+Airports:ETAR:name
+Airports:ETEJ:name
+Airports:ETEU:name
+Airports:ETHB:name
+Airports:ETHE:name
+Airports:ETHF:name
+Airports:ETHL:name
+Airports:ETHM:name
+Airports:ETHN:name
+Airports:ETID:name
+Airports:ETIN:name
+Airports:ETNG:name
+Airports:ETNN:name
+Airports:ETOR:name
+Airports:ETOU:name
+Airports:ETSA:name
+Airports:ETSB:name
+Airports:ETSL:name
+Airports:ETSP:name
+Airports:ETUO:name
+Airports:ETUR:name
+Airports:LEAB:name
+Airports:LEAS:name
+Airports:LEBB:name
+Airports:LEBG:name
+Airports:LEBL:name
+Airports:LEBZ:name
+Airports:LECU:name
+Airports:LEFM:name
+Airports:LEGE:name
+Airports:LEGT:name
+Airports:LEHC:name
+Airports:LEIB:name
+Airports:LELL:name
+Airports:LELN:name
+Airports:LEMD:name
+Airports:LEMH:name
+Airports:LEMR:name
+Airports:LEOC:name
+Airports:LEPA:name
+Airports:LEPP:name
+Airports:LEPZ:name
+Airports:LERJ:name
+Airports:LERL:name
+Airports:LERM:name
+Airports:LERO:name
+Airports:LERS:name
+Airports:LESA:name
+Airports:LESB:name
+Airports:LESL:name
+Airports:LESO:name
+Airports:LESU:name
+Airports:LETI:name
+Airports:LETO:name
+Airports:LEVC:name
+Airports:LEVD:name
+Airports:LEVT:name
+Airports:LEXJ:name
+Airports:LEZG:name
+Airports:LFAB:name
+Airports:LFAC:name
+Airports:LFAD:name
+Airports:LFAE:name
+Airports:LFAF:name
+Airports:LFAG:name
+Airports:LFAI:name
+Airports:LFAJ:name
+Airports:LFAK:name
+Airports:LFAL:name
+Airports:LFAM:name
+Airports:LFAN:name
+Airports:LFAO:name
+Airports:LFAP:name
+Airports:LFAQ:name
+Airports:LFAR:name
+Airports:LFAS:name
+Airports:LFAT:name
+Airports:LFAU:name
+Airports:LFAV:name
+Airports:LFAW:name
+Airports:LFAX:name
+Airports:LFAY:name
+Airports:LFBA:name
+Airports:LFBC:name
+Airports:LFBD:name
+Airports:LFBE:name
+Airports:LFBF:name
+Airports:LFBG:name
+Airports:LFBH:name
+Airports:LFBI:name
+Airports:LFBJ:name
+Airports:LFBK:name
+Airports:LFBL:name
+Airports:LFBM:name
+Airports:LFBN:name
+Airports:LFBO:name
+Airports:LFBP:name
+Airports:LFBR:name
+Airports:LFBS:name
+Airports:LFBT:name
+Airports:LFBU:name
+Airports:LFBV:name
+Airports:LFBX:name
+Airports:LFBY:name
+Airports:LFBZ:name
+Airports:LFCA:name
+Airports:LFCB:name
+Airports:LFCC:name
+Airports:LFCD:name
+Airports:LFCE:name
+Airports:LFCF:name
+Airports:LFCG:name
+Airports:LFCH:name
+Airports:LFCI:name
+Airports:LFCJ:name
+Airports:LFCK:name
+Airports:LFCL:name
+Airports:LFCM:name
+Airports:LFCN:name
+Airports:LFCO:name
+Airports:LFCP:name
+Airports:LFCQ:name
+Airports:LFCR:name
+Airports:LFCS:name
+Airports:LFCT:name
+Airports:LFCU:name
+Airports:LFCV:name
+Airports:LFCW:name
+Airports:LFCX:name
+Airports:LFCY:name
+Airports:LFCZ:name
+Airports:LFDA:name
+Airports:LFDB:name
+Airports:LFDC:name
+Airports:LFDE:name
+Airports:LFDF:name
+Airports:LFDG:name
+Airports:LFDH:name
+Airports:LFDI:name
+Airports:LFDJ:name
+Airports:LFDK:name
+Airports:LFDL:name
+Airports:LFDM:name
+Airports:LFDN:name
+Airports:LFDP:name
+Airports:LFDQ:name
+Airports:LFDR:name
+Airports:LFDS:name
+Airports:LFDT:name
+Airports:LFDU:name
+Airports:LFDV:name
+Airports:LFDW:name
+Airports:LFDX:name
+Airports:LFDY:name
+Airports:LFEA:name
+Airports:LFEB:name
+Airports:LFEC:name
+Airports:LFED:name
+Airports:LFEF:name
+Airports:LFEG:name
+Airports:LFEH:name
+Airports:LFEI:name
+Airports:LFEJ:name
+Airports:LFEK:name
+Airports:LFEL:name
+Airports:LFEM:name
+Airports:LFEN:name
+Airports:LFEP:name
+Airports:LFEQ:name
+Airports:LFER:name
+Airports:LFES:name
+Airports:LFET:name
+Airports:LFEU:name
+Airports:LFEV:name
+Airports:LFEW:name
+Airports:LFEX:name
+Airports:LFEY:name
+Airports:LFEZ:name
+Airports:LFFB:name
+Airports:LFFC:name
+Airports:LFFD:name
+Airports:LFFE:name
+Airports:LFFG:name
+Airports:LFFH:name
+Airports:LFFI:name
+Airports:LFFJ:name
+Airports:LFFK:name
+Airports:LFFL:name
+Airports:LFFM:name
+Airports:LFFN:name
+Airports:LFFP:name
+Airports:LFFQ:name
+Airports:LFFR:name
+Airports:LFFT:name
+Airports:LFFU:name
+Airports:LFFV:name
+Airports:LFFW:name
+Airports:LFFX:name
+Airports:LFFY:name
+Airports:LFFZ:name
+Airports:LFGA:name
+Airports:LFGB:name
+Airports:LFGC:name
+Airports:LFGD:name
+Airports:LFGE:name
+Airports:LFGF:name
+Airports:LFGG:name
+Airports:LFGH:name
+Airports:LFGI:name
+Airports:LFGJ:name
+Airports:LFGK:name
+Airports:LFGL:name
+Airports:LFGM:name
+Airports:LFGN:name
+Airports:LFGO:name
+Airports:LFGP:name
+Airports:LFGQ:name
+Airports:LFGR:name
+Airports:LFGS:name
+Airports:LFGT:name
+Airports:LFGU:name
+Airports:LFGV:name
+Airports:LFGW:name
+Airports:LFGX:name
+Airports:LFGY:name
+Airports:LFGZ:name
+Airports:LFHA:name
+Airports:LFHC:name
+Airports:LFHD:name
+Airports:LFHE:name
+Airports:LFHF:name
+Airports:LFHG:name
+Airports:LFHH:name
+Airports:LFHI:name
+Airports:LFHJ:name
+Airports:LFHL:name
+Airports:LFHM:name
+Airports:LFHN:name
+Airports:LFHO:name
+Airports:LFHP:name
+Airports:LFHQ:name
+Airports:LFHR:name
+Airports:LFHS:name
+Airports:LFHT:name
+Airports:LFHU:name
+Airports:LFHV:name
+Airports:LFHW:name
+Airports:LFHX:name
+Airports:LFHY:name
+Airports:LFHZ:name
+Airports:LFIB:name
+Airports:LFID:name
+Airports:LFIF:name
+Airports:LFIG:name
+Airports:LFIH:name
+Airports:LFIK:name
+Airports:LFIL:name
+Airports:LFIM:name
+Airports:LFIP:name
+Airports:LFIR:name
+Airports:LFIT:name
+Airports:LFIV:name
+Airports:LFIX:name
+Airports:LFIY:name
+Airports:LFJA:name
+Airports:LFJB:name
+Airports:LFJC:name
+Airports:LFJD:name
+Airports:LFJE:name
+Airports:LFJF:name
+Airports:LFJH:name
+Airports:LFJI:name
+Airports:LFJL:name
+Airports:LFJR:name
+Airports:LFJS:name
+Airports:LFJT:name
+Airports:LFJU:name
+Airports:LFJY:name
+Airports:LFKA:name
+Airports:LFKB:name
+Airports:LFKC:name
+Airports:LFKD:name
+Airports:LFKE:name
+Airports:LFKF:name
+Airports:LFKG:name
+Airports:LFKJ:name
+Airports:LFKL:name
+Airports:LFKM:name
+Airports:LFKO:name
+Airports:LFKR:name
+Airports:LFKS:name
+Airports:LFKT:name
+Airports:LFKX:name
+Airports:LFKY:name
+Airports:LFKZ:name
+Airports:LFLA:name
+Airports:LFLB:name
+Airports:LFLC:name
+Airports:LFLD:name
+Airports:LFLE:name
+Airports:LFLG:name
+Airports:LFLH:name
+Airports:LFLI:name
+Airports:LFLJ:name
+Airports:LFLK:name
+Airports:LFLL:name
+Airports:LFLM:name
+Airports:LFLN:name
+Airports:LFLO:name
+Airports:LFLP:name
+Airports:LFLQ:name
+Airports:LFLR:name
+Airports:LFLS:name
+Airports:LFLT:name
+Airports:LFLU:name
+Airports:LFLV:name
+Airports:LFLW:name
+Airports:LFLX:name
+Airports:LFLY:name
+Airports:LFLZ:name
+Airports:LFMA:name
+Airports:LFMC:name
+Airports:LFMD:name
+Airports:LFME:name
+Airports:LFMF:name
+Airports:LFMG:name
+Airports:LFMH:name
+Airports:LFMI:name
+Airports:LFMK:name
+Airports:LFML:name
+Airports:LFMN:name
+Airports:LFMO:name
+Airports:LFMP:name
+Airports:LFMQ:name
+Airports:LFMR:name
+Airports:LFMS:name
+Airports:LFMT:name
+Airports:LFMU:name
+Airports:LFMV:name
+Airports:LFMW:name
+Airports:LFMY:name
+Airports:LFMZ:name
+Airports:LFNA:name
+Airports:LFNB:name
+Airports:LFNC:name
+Airports:LFND:name
+Airports:LFNE:name
+Airports:LFNF:name
+Airports:LFNG:name
+Airports:LFNH:name
+Airports:LFNJ:name
+Airports:LFNL:name
+Airports:LFNN:name
+Airports:LFNO:name
+Airports:LFNP:name
+Airports:LFNQ:name
+Airports:LFNR:name
+Airports:LFNS:name
+Airports:LFNT:name
+Airports:LFNU:name
+Airports:LFNV:name
+Airports:LFNW:name
+Airports:LFNX:name
+Airports:LFOA:name
+Airports:LFOB:name
+Airports:LFOC:name
+Airports:LFOD:name
+Airports:LFOE:name
+Airports:LFOF:name
+Airports:LFOG:name
+Airports:LFOH:name
+Airports:LFOI:name
+Airports:LFOJ:name
+Airports:LFOK:name
+Airports:LFOL:name
+Airports:LFOM:name
+Airports:LFON:name
+Airports:LFOO:name
+Airports:LFOP:name
+Airports:LFOQ:name
+Airports:LFOR:name
+Airports:LFOS:name
+Airports:LFOT:name
+Airports:LFOU:name
+Airports:LFOV:name
+Airports:LFOW:name
+Airports:LFOX:name
+Airports:LFOY:name
+Airports:LFOZ:name
+Airports:LFPA:name
+Airports:LFPB:name
+Airports:LFPC:name
+Airports:LFPD:name
+Airports:LFPE:name
+Airports:LFPF:name
+Airports:LFPG:name
+Airports:LFPH:name
+Airports:LFPK:name
+Airports:LFPL:name
+Airports:LFPM:name
+Airports:LFPN:name
+Airports:LFPO:name
+Airports:LFPP:name
+Airports:LFPQ:name
+Airports:LFPT:name
+Airports:LFPU:name
+Airports:LFPV:name
+Airports:LFPX:name
+Airports:LFPY:name
+Airports:LFPZ:name
+Airports:LFQA:name
+Airports:LFQB:name
+Airports:LFQC:name
+Airports:LFQD:name
+Airports:LFQE:name
+Airports:LFQF:name
+Airports:LFQG:name
+Airports:LFQH:name
+Airports:LFQI:name
+Airports:LFQJ:name
+Airports:LFQK:name
+Airports:LFQL:name
+Airports:LFQM:name
+Airports:LFQN:name
+Airports:LFQO:name
+Airports:LFQP:name
+Airports:LFQQ:name
+Airports:LFQR:name
+Airports:LFQS:name
+Airports:LFQT:name
+Airports:LFQU:name
+Airports:LFQV:name
+Airports:LFQW:name
+Airports:LFQX:name
+Airports:LFQY:name
+Airports:LFQZ:name
+Airports:LFRB:name
+Airports:LFRC:name
+Airports:LFRD:name
+Airports:LFRE:name
+Airports:LFRF:name
+Airports:LFRG:name
+Airports:LFRH:name
+Airports:LFRI:name
+Airports:LFRJ:name
+Airports:LFRK:name
+Airports:LFRL:name
+Airports:LFRM:name
+Airports:LFRN:name
+Airports:LFRO:name
+Airports:LFRP:name
+Airports:LFRQ:name
+Airports:LFRS:name
+Airports:LFRT:name
+Airports:LFRU:name
+Airports:LFRV:name
+Airports:LFRW:name
+Airports:LFRZ:name
+Airports:LFSA:name
+Airports:LFSB:name
+Airports:LFSC:name
+Airports:LFSD:name
+Airports:LFSE:name
+Airports:LFSF:name
+Airports:LFSG:name
+Airports:LFSH:name
+Airports:LFSI:name
+Airports:LFSJ:name
+Airports:LFSK:name
+Airports:LFSL:name
+Airports:LFSM:name
+Airports:LFSN:name
+Airports:LFSO:name
+Airports:LFSP:name
+Airports:LFSR:name
+Airports:LFSS:name
+Airports:LFST:name
+Airports:LFSU:name
+Airports:LFSV:name
+Airports:LFSW:name
+Airports:LFSX:name
+Airports:LFSZ:name
+Airports:LFTF:name
+Airports:LFTH:name
+Airports:LFTM:name
+Airports:LFTN:name
+Airports:LFTP:name
+Airports:LFTQ:name
+Airports:LFTU:name
+Airports:LFTW:name
+Airports:LFTZ:name
+Airports:LFXA:name
+Airports:LFXB:name
+Airports:LFXI:name
+Airports:LFXM:name
+Airports:LFXU:name
+Airports:LFYD:name
+Airports:LFYG:name
+Airports:LFYR:name
+Airports:LFYS:name
+Airports:LIDE:name
+Airports:LIEA:name
+Airports:LIED:name
+Airports:LIEE:name
+Airports:LIEO:name
+Airports:LIET:name
+Airports:LILE:name
+Airports:LILH:name
+Airports:LILN:name
+Airports:LIMA:name
+Airports:LIMB:name
+Airports:LIMC:name
+Airports:LIME:name
+Airports:LIMF:name
+Airports:LIMG:name
+Airports:LIMJ:name
+Airports:LIML:name
+Airports:LIMN:name
+Airports:LIMP:name
+Airports:LIMS:name
+Airports:LIMW:name
+Airports:LIMZ:name
+Airports:LIPL:name
+Airports:LIPN:name
+Airports:LIPO:name
+Airports:LIPX:name
+Airports:LIQL:name
+Airports:LIQW:name
+Airports:LIRJ:name
+Airports:LIRP:name
+Airports:LIRS:name
+Airports:LPBG:name
+Airports:LPCV:name
+Airports:LPVR:name
+Airports:LPVZ:name
+Airports:LSGB:name
+Airports:LSGC:name
+Airports:LSGE:name
+Airports:LSGG:name
+Airports:LSGK:name
+Airports:LSGL:name
+Airports:LSGN:name
+Airports:LSGP:name
+Airports:LSGR:name
+Airports:LSGS:name
+Airports:LSGT:name
+Airports:LSGY:name
+Airports:LSMA:name
+Airports:LSMD:name
+Airports:LSME:name
+Airports:LSMF:name
+Airports:LSMM:name
+Airports:LSMP:name
+Airports:LSPA:name
+Airports:LSPF:name
+Airports:LSPH:name
+Airports:LSPL:name
+Airports:LSPM:name
+Airports:LSPN:name
+Airports:LSPV:name
+Airports:LSTB:name
+Airports:LSTO:name
+Airports:LSTR:name
+Airports:LSTS:name
+Airports:LSZA:name
+Airports:LSZB:name
+Airports:LSZC:name
+Airports:LSZE:name
+Airports:LSZF:name
+Airports:LSZG:name
+Airports:LSZH:name
+Airports:LSZI:name
+Airports:LSZJ:name
+Airports:LSZK:name
+Airports:LSZL:name
+Airports:LSZN:name
+Airports:LSZO:name
+Airports:LSZP:name
+Airports:LSZR:name
+Airports:LSZS:name
+Airports:LSZT:name
+Airports:LSZU:name
+Airports:LSZV:name
+Airports:LSZW:name
+Airports:LSZX:name
+Airports:LSZY:name
+ARTCC boundary:CTR_AGEN:
+ARTCC boundary:CTR_AIX:
+ARTCC boundary:CTR_AJACCIO:
+ARTCC boundary:CTR_ALBERT-BRAY:
+ARTCC boundary:CTR_ANGERS:
+ARTCC boundary:CTR_ANGOULEME:
+ARTCC boundary:CTR_ANNECY:
+ARTCC boundary:CTR_AVIGNON:
+ARTCC boundary:CTR_AVORD:
+ARTCC boundary:CTR_BALE-MULHOUSE:
+ARTCC boundary:CTR_BASTIA:
+ARTCC boundary:CTR_BEAUVAIS:
+ARTCC boundary:CTR_BERGERAC-ROUMANIERE:
+ARTCC boundary:CTR_BEZIERS:
+ARTCC boundary:CTR_BIARRITZ-BAYONNE-ANGLET:
+ARTCC boundary:CTR_BORDEAUX-MERIGNAC:
+ARTCC boundary:CTR_BREST-BRETAGNE:
+ARTCC boundary:CTR_CAEN:
+ARTCC boundary:CTR_CALAIS:
+ARTCC boundary:CTR_CALVI:
+ARTCC boundary:CTR_CAMBRAI-EPINOY:
+ARTCC boundary:CTR_CANNES:
+ARTCC boundary:CTR_CARCASSONNE:
+ARTCC boundary:CTR_CHAMBERY:
+ARTCC boundary:CTR_CHATEAUDUN:
+ARTCC boundary:CTR_CHATEAUROUX:
+ARTCC boundary:CTR_CHERBOURG:
+ARTCC boundary:CTR_CLERMONT-FERRAND:
+ARTCC boundary:CTR_COGNAC:
+ARTCC boundary:CTR_COLMAR:
+ARTCC boundary:CTR_DE-GAULLE:
+ARTCC boundary:CTR_DEAUVILLE:
+ARTCC boundary:CTR_DIJON:
+ARTCC boundary:CTR_DINARD:
+ARTCC boundary:CTR_FIGARI:
+ARTCC boundary:CTR_GRENOBLE:
+ARTCC boundary:CTR_HYERES:
+ARTCC boundary:CTR_ILES-ANGLO-NORMANDES-Jersey:
+ARTCC boundary:CTR_ISTRES:
+ARTCC boundary:CTR_KARLSRUHE:
+ARTCC boundary:CTR_LA-ROCHELLE:
+ARTCC boundary:CTR_LANDIVISIAU:
+ARTCC boundary:CTR_LANNION:
+ARTCC boundary:CTR_LANVEOC:
+ARTCC boundary:CTR_LE-HAVRE:
+ARTCC boundary:CTR_LE-TOUQUET-PARIS-PLAGE:
+ARTCC boundary:CTR_LILLE-LESQUIN:
+ARTCC boundary:CTR_LIMOGES:
+ARTCC boundary:CTR_LORIENT-LANN-BIHOUE:
+ARTCC boundary:CTR_LORRAINE:
+ARTCC boundary:CTR_LOURDES:
+ARTCC boundary:CTR_LUXEUIL:
+ARTCC boundary:CTR_LYON-BRON:
+ARTCC boundary:CTR_LYON-SAINT-EXUPERY:
+ARTCC boundary:CTR_MELUN:
+ARTCC boundary:CTR_MERVILLE-CALONNE:
+ARTCC boundary:CTR_METZ:
+ARTCC boundary:CTR_MONTPELLIER:
+ARTCC boundary:CTR_NANCY-OCHEY:
+ARTCC boundary:CTR_NANTES:
+ARTCC boundary:CTR_NICE:
+ARTCC boundary:CTR_NIMES:
+ARTCC boundary:CTR_ORANGE:
+ARTCC boundary:CTR_ORLEANS:
+ARTCC boundary:CTR_PAU-PYRENEES:
+ARTCC boundary:CTR_PERPIGNAN:
+ARTCC boundary:CTR_POITIERS-BIARD:
+ARTCC boundary:CTR_PROVENCE:
+ARTCC boundary:CTR_QUIMPER-PLUGUFFAN:
+ARTCC boundary:CTR_REIMS-CHAMPAGNE:
+ARTCC boundary:CTR_RENNES-SAINT-JACQUES:
+ARTCC boundary:CTR_RODEZ-MARCILLAC:
+ARTCC boundary:CTR_ROUEN:
+ARTCC boundary:CTR_SAINT-DIZIER:
+ARTCC boundary:CTR_SAINT-ETIENNE-BOUTHEON:
+ARTCC boundary:CTR_SAINT-NAZAIRE:
+ARTCC boundary:CTR_STRASBOURG:
+ARTCC boundary:CTR_TOULOUSE-BLAGNAC:
+ARTCC boundary:CTR_TOULOUSE-FRANCAZAL:
+ARTCC boundary:CTR_TOURS-VAL-DE-LOIRE:
+ARTCC boundary:CTR_VALENCE:
+ARTCC boundary:TMA_AJACCIO:
+ARTCC boundary:TMA_AQUITAINE:
+ARTCC boundary:TMA_AVORD:
+ARTCC boundary:TMA_BALE-MULHOUSE:
+ARTCC boundary:TMA_BASTIA:
+ARTCC boundary:TMA_BEAUVAIS:
+ARTCC boundary:TMA_BIARRITZ:
+ARTCC boundary:TMA_CAMBRAI:
+ARTCC boundary:TMA_CHAMBERY:
+ARTCC boundary:TMA_CLERMONT-FERRAND:
+ARTCC boundary:TMA_COGNAC:
+ARTCC boundary:TMA_COLMAR:
+ARTCC boundary:TMA_DE-GAULLE:
+ARTCC boundary:TMA_DEAUVILLE:
+ARTCC boundary:TMA_DIJON:
+ARTCC boundary:TMA_GENEVE:
+ARTCC boundary:TMA_IROISE:
+ARTCC boundary:TMA_LA-ROCHELLE:
+ARTCC boundary:TMA_LILLE:
+ARTCC boundary:TMA_LIMOGES:
+ARTCC boundary:TMA_LORIENT:
+ARTCC boundary:TMA_LUXEMBOURG:
+ARTCC boundary:TMA_LUXEUIL:
+ARTCC boundary:TMA_LYON:
+ARTCC boundary:TMA_METZ:
+ARTCC boundary:TMA_MONTPELLIER:
+ARTCC boundary:TMA_NANCY:
+ARTCC boundary:TMA_NANTES:
+ARTCC boundary:TMA_NICE:
+ARTCC boundary:TMA_ORLEANS:
+ARTCC boundary:TMA_PERPIGNAN:
+ARTCC boundary:TMA_POITIERS:
+ARTCC boundary:TMA_PROVENCE:
+ARTCC boundary:TMA_PYRENEES:
+ARTCC boundary:TMA_REIMS:
+ARTCC boundary:TMA_RENNES:
+ARTCC boundary:TMA_RODEZ:
+ARTCC boundary:TMA_ROUEN:
+ARTCC boundary:TMA_SAINT-DIZIER:
+ARTCC boundary:TMA_SAINT-ETIENNE:
+ARTCC boundary:TMA_STRASBOURG:
+ARTCC boundary:TMA_TOULOUSE:
+ARTCC boundary:TMA_TOURS:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTA_COGNAC:
+ARTCC low boundary:CTR_AGEN:
+ARTCC low boundary:CTR_AIX:
+ARTCC low boundary:CTR_AJACCIO:
+ARTCC low boundary:CTR_ALBERT-BRAY:
+ARTCC low boundary:CTR_ANGERS:
+ARTCC low boundary:CTR_ANNECY:
+ARTCC low boundary:CTR_AVIGNON:
+ARTCC low boundary:CTR_AVORD:
+ARTCC low boundary:CTR_BALE-MULHOUSE:
+ARTCC low boundary:CTR_BASTIA:
+ARTCC low boundary:CTR_BEAUVAIS:
+ARTCC low boundary:CTR_BERGERAC-ROUMANIERE:
+ARTCC low boundary:CTR_BEZIERS:
+ARTCC low boundary:CTR_BIARRITZ-BAYONNE-ANGLET:
+ARTCC low boundary:CTR_BORDEAUX-MERIGNAC:
+ARTCC low boundary:CTR_BREST-BRETAGNE:
+ARTCC low boundary:CTR_CAEN:
+ARTCC low boundary:CTR_CALAIS:
+ARTCC low boundary:CTR_CALVI:
+ARTCC low boundary:CTR_CAMBRAI-EPINOY:
+ARTCC low boundary:CTR_CANNES:
+ARTCC low boundary:CTR_CARCASSONNE:
+ARTCC low boundary:CTR_CHAMBERY:
+ARTCC low boundary:CTR_CHATEAUDUN:
+ARTCC low boundary:CTR_CHATEAUROUX:
+ARTCC low boundary:CTR_CHERBOURG:
+ARTCC low boundary:CTR_CLERMONT-FERRAND:
+ARTCC low boundary:CTR_COGNAC:
+ARTCC low boundary:CTR_COLMAR:
+ARTCC low boundary:CTR_DEAUVILLE:
+ARTCC low boundary:CTR_DIJON:
+ARTCC low boundary:CTR_DINARD:
+ARTCC low boundary:CTR_FIGARI:
+ARTCC low boundary:CTR_GRENOBLE:
+ARTCC low boundary:CTR_HYERES:
+ARTCC low boundary:CTR_ISTRES:
+ARTCC low boundary:CTR_KARLSRUHE:
+ARTCC low boundary:CTR_LA-ROCHELLE:
+ARTCC low boundary:CTR_LANDIVISIAU:
+ARTCC low boundary:CTR_LANNION:
+ARTCC low boundary:CTR_LANVEOC:
+ARTCC low boundary:CTR_LE-HAVRE:
+ARTCC low boundary:CTR_LE-TOUQUET-PARIS-PLAGE:
+ARTCC low boundary:CTR_LILLE-LESQUIN:
+ARTCC low boundary:CTR_LIMOGES-BELLEGARDE:
+ARTCC low boundary:CTR_LORIENT-LANN-BIHOUE:
+ARTCC low boundary:CTR_LORRAINE:
+ARTCC low boundary:CTR_LOURDES:
+ARTCC low boundary:CTR_LUXEUIL:
+ARTCC low boundary:CTR_LYON-BRON:
+ARTCC low boundary:CTR_LYON-SAINT-EXUPERY:
+ARTCC low boundary:CTR_MELUN:
+ARTCC low boundary:CTR_MERVILLE-CALONNE:
+ARTCC low boundary:CTR_METZ:
+ARTCC low boundary:CTR_MONTPELLIER:
+ARTCC low boundary:CTR_NANCY-OCHEY:
+ARTCC low boundary:CTR_NANTES:
+ARTCC low boundary:CTR_NICE:
+ARTCC low boundary:CTR_NIMES:
+ARTCC low boundary:CTR_ORANGE:
+ARTCC low boundary:CTR_PARIS:
+ARTCC low boundary:CTR_PAU-PYRENEES:
+ARTCC low boundary:CTR_PERPIGNAN:
+ARTCC low boundary:CTR_POITIERS-BIARD:
+ARTCC low boundary:CTR_PROVENCE:
+ARTCC low boundary:CTR_QUIMPER-PLUGUFFAN:
+ARTCC low boundary:CTR_REIMS-CHAMPAGNE:
+ARTCC low boundary:CTR_RENNES-SAINT-JACQUES:
+ARTCC low boundary:CTR_RODEZ-MARCILLAC:
+ARTCC low boundary:CTR_SAINT-ETIENNE-BOUTHEON:
+ARTCC low boundary:CTR_SAINT-NAZAIRE:
+ARTCC low boundary:CTR_STRASBOURG:
+ARTCC low boundary:CTR_TOULOUSE-BLAGNAC:
+ARTCC low boundary:CTR_TOULOUSE-FRANCAZAL:
+ARTCC low boundary:CTR_TOURS-VAL-DE-LOIRE:
+ARTCC low boundary:CTR_VALENCE:
+ARTCC low boundary:TMA_AJACCIO:
+ARTCC low boundary:TMA_AQUITAINE:
+ARTCC low boundary:TMA_AVORD:
+ARTCC low boundary:TMA_BALE-MULHOUSE:
+ARTCC low boundary:TMA_BASTIA:
+ARTCC low boundary:TMA_BEAUVAIS:
+ARTCC low boundary:TMA_BIARRITZ:
+ARTCC low boundary:TMA_CAMBRAI:
+ARTCC low boundary:TMA_CHAMBERY:
+ARTCC low boundary:TMA_CLERMONT--FERRAND:
+ARTCC low boundary:TMA_COLMAR:
+ARTCC low boundary:TMA_DEAUVILLE:
+ARTCC low boundary:TMA_DIJON:
+ARTCC low boundary:TMA_GENEVE:
+ARTCC low boundary:TMA_IROISE:
+ARTCC low boundary:TMA_LA-ROCHELLE:
+ARTCC low boundary:TMA_LILLE:
+ARTCC low boundary:TMA_LIMOGES:
+ARTCC low boundary:TMA_LORIENT:
+ARTCC low boundary:TMA_LUXEMBOURG:
+ARTCC low boundary:TMA_LUXEUIL:
+ARTCC low boundary:TMA_LYON:
+ARTCC low boundary:TMA_METZ:
+ARTCC low boundary:TMA_MONTPELLIER:
+ARTCC low boundary:TMA_MONTPELLIER_SUD:
+ARTCC low boundary:TMA_NANCY:
+ARTCC low boundary:TMA_NANTES:
+ARTCC low boundary:TMA_NICE:
+ARTCC low boundary:TMA_ORLEANS:
+ARTCC low boundary:TMA_PARIS:
+ARTCC low boundary:TMA_PERPIGNAN:
+ARTCC low boundary:TMA_POITIERS:
+ARTCC low boundary:TMA_PROVENCE:
+ARTCC low boundary:TMA_PYRENEES:
+ARTCC low boundary:TMA_REIMS:
+ARTCC low boundary:TMA_RENNES:
+ARTCC low boundary:TMA_RODEZ:
+ARTCC low boundary:TMA_ROUEN:
+ARTCC low boundary:TMA_SAINT-DIZIER:
+ARTCC low boundary:TMA_SAINT-ETIENNE:
+ARTCC low boundary:TMA_STRASBOURG:
+ARTCC low boundary:TMA_TOULOUSE:
+ARTCC low boundary:TMA_TOURS:
+High airways:UB37:line
+High airways:UG42:line
+High airways:UH10:line
+High airways:UH101:line
+High airways:UH37:line
+High airways:UH47:line
+High airways:UJ310:line
+High airways:UJ32:line
+High airways:UL10:line
+High airways:UL127:line
+High airways:UL128:line
+High airways:UL14:line
+High airways:UL146:line
+High airways:UL15:line
+High airways:UL152:line
+High airways:UL153:line
+High airways:UL161:line
+High airways:UL164:line
+High airways:UL167:line
+High airways:UL176:line
+High airways:UL178:line
+High airways:UL18:line
+High airways:UL194:line
+High airways:UL47:line
+High airways:UL55:line
+High airways:UL612:line
+High airways:UL613:line
+High airways:UL620:line
+High airways:UL65:line
+High airways:UL722:line
+High airways:UL739:line
+High airways:UL856:line
+High airways:UL866:line
+High airways:UL873:line
+High airways:UL976:line
+High airways:UL978:line
+High airways:UM128:line
+High airways:UM129:line
+High airways:UM133:line
+High airways:UM135:line
+High airways:UM139:line
+High airways:UM142:line
+High airways:UM154:line
+High airways:UM163:line
+High airways:UM164:line
+High airways:UM170:line
+High airways:UM175:line
+High airways:UM184:line
+High airways:UM185:line
+High airways:UM187:line
+High airways:UM189:line
+High airways:UM190:line
+High airways:UM194:line
+High airways:UM2:line
+High airways:UM25:line
+High airways:UM30:line
+High airways:UM4:line
+High airways:UM601:line
+High airways:UM603:line
+High airways:UM605:line
+High airways:UM606:line
+High airways:UM616:line
+High airways:UM617:line
+High airways:UM622:line
+High airways:UM623:line
+High airways:UM624:line
+High airways:UM728:line
+High airways:UM729:line
+High airways:UM730:line
+High airways:UM731:line
+High airways:UM732:line
+High airways:UM733:line
+High airways:UM739:line
+High airways:UM858:line
+High airways:UM871:line
+High airways:UM975:line
+High airways:UM976:line
+High airways:UM982:line
+High airways:UM984:line
+High airways:UM985:line
+High airways:UM986:line
+High airways:UM989:line
+High airways:UM998:line
+High airways:UN10:line
+High airways:UN12:line
+High airways:UN160:line
+High airways:UN176:line
+High airways:UN26:line
+High airways:UN29:line
+High airways:UN34:line
+High airways:UN460:line
+High airways:UN461:line
+High airways:UN462:line
+High airways:UN470:line
+High airways:UN471:line
+High airways:UN472:line
+High airways:UN480:line
+High airways:UN482:line
+High airways:UN484:line
+High airways:UN490:line
+High airways:UN491:line
+High airways:UN502:line
+High airways:UN511:line
+High airways:UN512:line
+High airways:UN521:line
+High airways:UN531:line
+High airways:UN533:line
+High airways:UN535:line
+High airways:UN536:line
+High airways:UN542:line
+High airways:UN585:line
+High airways:UN621:line
+High airways:UN725:line
+High airways:UN727:line
+High airways:UN734:line
+High airways:UN736:line
+High airways:UN741:line
+High airways:UN749:line
+High airways:UN850:line
+High airways:UN851:line
+High airways:UN852:line
+High airways:UN853:line
+High airways:UN854:line
+High airways:UN855:line
+High airways:UN857:line
+High airways:UN858:line
+High airways:UN859:line
+High airways:UN860:line
+High airways:UN861:line
+High airways:UN862:line
+High airways:UN863:line
+High airways:UN864:line
+High airways:UN866:line
+High airways:UN867:line
+High airways:UN868:line
+High airways:UN869:line
+High airways:UN870:line
+High airways:UN871:line
+High airways:UN872:line
+High airways:UN873:line
+High airways:UN874:line
+High airways:UN90:line
+High airways:UN975:line
+High airways:UN976:line
+High airways:UN977:line
+High airways:UN995:line
+High airways:UP132:line
+High airways:UP152:line
+High airways:UP181:line
+High airways:UP197:line
+High airways:UP620:line
+High airways:UP84:line
+High airways:UP856:line
+High airways:UP860:line
+High airways:UP87:line
+High airways:UP872:line
+High airways:UP88:line
+High airways:UP980:line
+High airways:UP991:line
+High airways:UQ169:line
+High airways:UQ220:line
+High airways:UQ344:line
+High airways:UQ760:line
+High airways:UR7:line
+High airways:UR723:line
+High airways:UT10:line
+High airways:UT121:line
+High airways:UT122:line
+High airways:UT123:line
+High airways:UT133:line
+High airways:UT140:line
+High airways:UT144:line
+High airways:UT15:line
+High airways:UT158:line
+High airways:UT161:line
+High airways:UT175:line
+High airways:UT176:line
+High airways:UT18:line
+High airways:UT181:line
+High airways:UT182:line
+High airways:UT183:line
+High airways:UT184:line
+High airways:UT185:line
+High airways:UT186:line
+High airways:UT188:line
+High airways:UT190:line
+High airways:UT191:line
+High airways:UT21:line
+High airways:UT210:line
+High airways:UT225:line
+High airways:UT24:line
+High airways:UT250:line
+High airways:UT251:line
+High airways:UT26:line
+High airways:UT260:line
+High airways:UT27:line
+High airways:UT300:line
+High airways:UT37:line
+High airways:UT407:line
+High airways:UT410:line
+High airways:UT421:line
+High airways:UT423:line
+High airways:UT426:line
+High airways:UT43:line
+High airways:UT45:line
+High airways:UT450:line
+High airways:UT451:line
+High airways:UT460:line
+High airways:UT47:line
+High airways:UT494:line
+High airways:UT499:line
+High airways:UT501:line
+High airways:UT507:line
+High airways:UT510:line
+High airways:UT512:line
+High airways:UT513:line
+High airways:UT60:line
+High airways:UT7:line
+High airways:UV12:line
+High airways:UV15:line
+High airways:UV25:line
+High airways:UV44:line
+High airways:UY11:line
+High airways:UY110:line
+High airways:UY111:line
+High airways:UY120:line
+High airways:UY122:line
+High airways:UY131:line
+High airways:UY156:line
+High airways:UY157:line
+High airways:UY16:line
+High airways:UY160:line
+High airways:UY22:line
+High airways:UY23:line
+High airways:UY24:line
+High airways:UY25:line
+High airways:UY268:line
+High airways:UY27:line
+High airways:UY29:line
+High airways:UY30:line
+High airways:UY305:line
+High airways:UY31:line
+High airways:UY341:line
+High airways:UY342:line
+High airways:UY36:line
+High airways:UY373:line
+High airways:UY376:line
+High airways:UY38:line
+High airways:UY420:line
+High airways:UY473:line
+High airways:UY50:line
+High airways:UY612:line
+High airways:UY8:line
+High airways:UY873:line
+High airways:UZ116:line
+High airways:UZ12:line
+High airways:UZ124:line
+High airways:UZ139:line
+High airways:UZ15:line
+High airways:UZ151:line
+High airways:UZ153:line
+High airways:UZ157:line
+High airways:UZ16:line
+High airways:UZ161:line
+High airways:UZ168:line
+High airways:UZ173:line
+High airways:UZ184:line
+High airways:UZ185:line
+High airways:UZ191:line
+High airways:UZ192:line
+High airways:UZ193:line
+High airways:UZ194:line
+High airways:UZ209:line
+High airways:UZ218:line
+High airways:UZ24:line
+High airways:UZ240:line
+High airways:UZ241:line
+High airways:UZ257:line
+High airways:UZ271:line
+High airways:UZ273:line
+High airways:UZ274:line
+High airways:UZ296:line
+High airways:UZ297:line
+High airways:UZ319:line
+High airways:UZ32:line
+High airways:UZ34:line
+High airways:UZ343:line
+High airways:UZ365:line
+High airways:UZ373:line
+High airways:UZ38:line
+High airways:UZ40:line
+High airways:UZ46:line
+High airways:UZ474:line
+High airways:UZ539:line
+High airways:UZ57:line
+High airways:UZ637:line
+High airways:UZ66:line
+High airways:UZ67:line
+High airways:UZ706:line
+High airways:UZ707:line
+High airways:UZ800:line
+High airways:UZ87:line
+High airways:UZ871:line
+High airways:UZ900:line
+High airways:UZ911:line
+High airways:UZ924:line
+VORs:ABB:symbol
+VORs:AGN:symbol
+VORs:AJO:symbol
+VORs:ALG:symbol
+VORs:AMB:symbol
+VORs:ANG:symbol
+VORs:ARE:symbol
+VORs:AVN:symbol
+VORs:AZR:symbol
+VORs:BCN:symbol
+VORs:BCY:symbol
+VORs:BGR:symbol
+VORs:BHD:symbol
+VORs:BLM:symbol
+VORs:BLV:symbol
+VORs:BMC:symbol
+VORs:BNE:symbol
+VORs:BRY:symbol
+VORs:BT:symbol
+VORs:BTA:symbol
+VORs:BTZ:symbol
+VORs:BVS:symbol
+VORs:CAD:symbol
+VORs:CAN:symbol
+VORs:CAV:symbol
+VORs:CBY:symbol
+VORs:CFA:symbol
+VORs:CGN:symbol
+VORs:CGS:symbol
+VORs:CHW:symbol
+VORs:CIV:symbol
+VORs:CLM:symbol
+VORs:CMB:symbol
+VORs:CNA:symbol
+VORs:CNM:symbol
+VORs:CRL:symbol
+VORs:CTL:symbol
+VORs:DGN:symbol
+VORs:DGO:symbol
+VORs:DIK:symbol
+VORs:DIN:symbol
+VORs:DJL:symbol
+VORs:DPE:symbol
+VORs:DVL:symbol
+VORs:ELB:symbol
+VORs:EPL:symbol
+VORs:EPR:symbol
+VORs:EVX:symbol
+VORs:FGI:symbol
+VORs:FJR:symbol
+VORs:FRI:symbol
+VORs:GAI:symbol
+VORs:GEN:symbol
+VORs:GIR:symbol
+VORs:GTQ:symbol
+VORs:GUR:symbol
+VORs:GWC:symbol
+VORs:HOC:symbol
+VORs:ITS:symbol
+VORs:JSY:symbol
+VORs:LCA:symbol
+VORs:LGH:symbol
+VORs:LGL:symbol
+VORs:LMB:symbol
+VORs:LMG:symbol
+VORs:LND:symbol
+VORs:LQN:symbol
+VORs:LSE:symbol
+VORs:LTP:symbol
+VORs:LUC:symbol
+VORs:LUL:symbol
+VORs:LYD:symbol
+VORs:MBY:symbol
+VORs:MEN:symbol
+VORs:MHN:symbol
+VORs:MID:symbol
+VORs:MLN:symbol
+VORs:MMD:symbol
+VORs:MOU:symbol
+VORs:MRM:symbol
+VORs:MTD:symbol
+VORs:MTG:symbol
+VORs:MTL:symbol
+VORs:NEV:symbol
+VORs:NIZ:symbol
+VORs:NTM:symbol
+VORs:NTS:symbol
+VORs:PAS:symbol
+VORs:PGS:symbol
+VORs:POI:symbol
+VORs:PON:symbol
+VORs:PPG:symbol
+VORs:PPN:symbol
+VORs:PTV:symbol
+VORs:QPR:symbol
+VORs:RBT:symbol
+VORs:REM:symbol
+VORs:REN:symbol
+VORs:RLP:symbol
+VORs:ROA:symbol
+VORs:ROU:symbol
+VORs:SAM:symbol
+VORs:SAU:symbol
+VORs:SAV:symbol
+VORs:SFD:symbol
+VORs:SNR:symbol
+VORs:SSN:symbol
+VORs:STG:symbol
+VORs:STP:symbol
+VORs:STR:symbol
+VORs:SUL:symbol
+VORs:TBO:symbol
+VORs:TIS:symbol
+VORs:TOP:symbol
+VORs:TOU:symbol
+VORs:TRO:symbol
+VORs:TSU:symbol
+VORs:VES:symbol
+VORs:VNE:symbol
+VORs:VOG:symbol
+VORs:WIL:symbol
+VORs:ZUE:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:
+WINDOWAREA:38.527500:-20.257802:53.290556:22.650224

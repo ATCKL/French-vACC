@@ -1,0 +1,7 @@
+VOICE
+AG:Brest Control:125.500:voice1.vatfrance.org:lfrr_ctr
+AG:Brest Upper Control:132.120:voice1.vatfrance.org:lfrr_u_ctr
+AG:Brest ATIS:129.350:voice1.vatfrance.org:lfrb_atis
+AG:Nantes ATIS:128.920:voice1.vatfrance.org:lfrs_atis
+AG:Rennes ATIS:126.400:voice1.vatfrance.org:lfrn_atis
+END

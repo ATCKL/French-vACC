@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:LFKB_APP:100:5
+ATIS2:Bastia Approach / Approache. EN/FR.
+ATIS3:Report Altitude, position and aircraft type on initial contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFKB_TWR:50:4
+ATIS2:Bastia Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the Ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFKB_GND:25:3
+ATIS2:Bastia Ground / Sol. EN/FR.
+ATIS3:Squawk Mode Standby on the Ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

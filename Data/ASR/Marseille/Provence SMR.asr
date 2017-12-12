@@ -1,0 +1,330 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+Free Text:HOPITAUX LFMM\HAIX:freetext
+Free Text:HOPITAUX LFMM\HAUB:freetext
+Free Text:HOPITAUX LFMM\HAVI:freetext
+Free Text:HOPITAUX LFMM\HBAG:freetext
+Free Text:HOPITAUX LFMM\HBEZ:freetext
+Free Text:HOPITAUX LFMM\HCAN:freetext
+Free Text:HOPITAUX LFMM\HCAP:freetext
+Free Text:HOPITAUX LFMM\HCLE:freetext
+Free Text:HOPITAUX LFMM\HCSS:freetext
+Free Text:HOPITAUX LFMM\HEST:freetext
+Free Text:HOPITAUX LFMM\HFRE:freetext
+Free Text:HOPITAUX LFMM\HMAN:freetext
+Free Text:HOPITAUX LFMM\HMAR:freetext
+Free Text:HOPITAUX LFMM\HMHN:freetext
+Free Text:HOPITAUX LFMM\HMON:freetext
+Free Text:HOPITAUX LFMM\HNCE:freetext
+Free Text:HOPITAUX LFMM\HNIP:freetext
+Free Text:HOPITAUX LFMM\HOPITAL AJACCIO:freetext
+Free Text:HOPITAUX LFMM\HOPITAL BASTIA:freetext
+Free Text:HOPITAUX LFMM\HOPITAL CALVI:freetext
+Free Text:HOPITAUX LFMM\HPPG:freetext
+Free Text:HOPITAUX LFMM\HSEN:freetext
+Free Text:HOPITAUX LFMM\HSTC:freetext
+Free Text:HOPITAUX LFMM\HTIM:freetext
+Free Text:HOPITAUX LFMM\HTSA:freetext
+Free Text:HOPITAUX LFMM\HTSM:freetext
+Free Text:LFML Gate\10A/B/D:freetext
+Free Text:LFML Gate\10C:freetext
+Free Text:LFML Gate\1A:freetext
+Free Text:LFML Gate\20A:freetext
+Free Text:LFML Gate\2A:freetext
+Free Text:LFML Gate\2C:freetext
+Free Text:LFML Gate\3A/B:freetext
+Free Text:LFML Gate\3C:freetext
+Free Text:LFML Gate\3Z:freetext
+Free Text:LFML Gate\46C:freetext
+Free Text:LFML Gate\46E:freetext
+Free Text:LFML Gate\47A:freetext
+Free Text:LFML Gate\47C:freetext
+Free Text:LFML Gate\47E:freetext
+Free Text:LFML Gate\48E:freetext
+Free Text:LFML Gate\49C:freetext
+Free Text:LFML Gate\49E:freetext
+Free Text:LFML Gate\4B:freetext
+Free Text:LFML Gate\4Z:freetext
+Free Text:LFML Gate\52:freetext
+Free Text:LFML Gate\52A:freetext
+Free Text:LFML Gate\52B:freetext
+Free Text:LFML Gate\52C:freetext
+Free Text:LFML Gate\53:freetext
+Free Text:LFML Gate\53B:freetext
+Free Text:LFML Gate\53C:freetext
+Free Text:LFML Gate\56A:freetext
+Free Text:LFML Gate\56B:freetext
+Free Text:LFML Gate\56C:freetext
+Free Text:LFML Gate\57:freetext
+Free Text:LFML Gate\57A:freetext
+Free Text:LFML Gate\57B:freetext
+Free Text:LFML Gate\57C:freetext
+Free Text:LFML Gate\5A/B:freetext
+Free Text:LFML Gate\5C:freetext
+Free Text:LFML Gate\5Z:freetext
+Free Text:LFML Gate\60:freetext
+Free Text:LFML Gate\61N:freetext
+Free Text:LFML Gate\62N:freetext
+Free Text:LFML Gate\63A:freetext
+Free Text:LFML Gate\63B:freetext
+Free Text:LFML Gate\63C:freetext
+Free Text:LFML Gate\63D:freetext
+Free Text:LFML Gate\63E:freetext
+Free Text:LFML Gate\64:freetext
+Free Text:LFML Gate\65:freetext
+Free Text:LFML Gate\66E:freetext
+Free Text:LFML Gate\66P:freetext
+Free Text:LFML Gate\66W:freetext
+Free Text:LFML Gate\67N:freetext
+Free Text:LFML Gate\68N:freetext
+Free Text:LFML Gate\69N:freetext
+Free Text:LFML Gate\6A/A1/B/C:freetext
+Free Text:LFML Gate\6Z:freetext
+Free Text:LFML Gate\70 Grass Parking:freetext
+Free Text:LFML Gate\71:freetext
+Free Text:LFML Gate\72:freetext
+Free Text:LFML Gate\72B:freetext
+Free Text:LFML Gate\73:freetext
+Free Text:LFML Gate\73B:freetext
+Free Text:LFML Gate\74:freetext
+Free Text:LFML Gate\75:freetext
+Free Text:LFML Gate\76:freetext
+Free Text:LFML Gate\77:freetext
+Free Text:LFML Gate\78:freetext
+Free Text:LFML Gate\7A/B:freetext
+Free Text:LFML Gate\7C:freetext
+Free Text:LFML Gate\80:freetext
+Free Text:LFML Gate\81:freetext
+Free Text:LFML Gate\82:freetext
+Free Text:LFML Gate\83A:freetext
+Free Text:LFML Gate\83B:freetext
+Free Text:LFML Gate\83C:freetext
+Free Text:LFML Gate\83D:freetext
+Free Text:LFML Gate\83E:freetext
+Free Text:LFML Gate\8B/C:freetext
+Free Text:LFML Gate\9A/B:freetext
+Free Text:LFML Gate\9C:freetext
+Free Text:LFML Gate\BLOCK 25:freetext
+Free Text:LFML Gate\BLOCK 30-35:freetext
+Free Text:LFML Gate\BLOCK 40-45:freetext
+Free Text:LFML Gate\Cargo:freetext
+Free Text:LFML Gate\Cargo:freetext
+Free Text:LFML Gate\Eurocopter AIRBUS:freetext
+Free Text:LFML Gate\General Aviation:freetext
+Free Text:LFML Gate\SC Sécurité Civile:freetext
+Free Text:LFML Gate\SN Sécurité Civile:freetext
+Free Text:LFML Gate\Terminal 1:freetext
+Free Text:LFML Gate\Terminal 2:freetext
+Free Text:LFML Points VFR\E:freetext
+Free Text:LFML Points VFR\E:freetext
+Free Text:LFML Points VFR\EA:freetext
+Free Text:LFML Points VFR\EA:freetext
+Free Text:LFML Points VFR\EB:freetext
+Free Text:LFML Points VFR\EB:freetext
+Free Text:LFML Points VFR\N:freetext
+Free Text:LFML Points VFR\N:freetext
+Free Text:LFML Points VFR\NA:freetext
+Free Text:LFML Points VFR\NA:freetext
+Free Text:LFML Points VFR\NB:freetext
+Free Text:LFML Points VFR\NB:freetext
+Free Text:LFML Points VFR\S:freetext
+Free Text:LFML Points VFR\S:freetext
+Free Text:LFML Points VFR\SA:freetext
+Free Text:LFML Points VFR\SA:freetext
+Free Text:LFML Points VFR\SC:freetext
+Free Text:LFML Points VFR\SC:freetext
+Free Text:LFML Points VFR\SW:freetext
+Free Text:LFML Points VFR\SW:freetext
+Free Text:LFML Taxiway\13L:freetext
+Free Text:LFML Taxiway\13R:freetext
+Free Text:LFML Taxiway\31L:freetext
+Free Text:LFML Taxiway\31R:freetext
+Free Text:LFML Taxiway\B7:freetext
+Free Text:LFML Taxiway\C1:freetext
+Free Text:LFML Taxiway\C2:freetext
+Free Text:LFML Taxiway\C3:freetext
+Free Text:LFML Taxiway\C4:freetext
+Free Text:LFML Taxiway\C5:freetext
+Free Text:LFML Taxiway\C6:freetext
+Free Text:LFML Taxiway\C7:freetext
+Free Text:LFML Taxiway\C8:freetext
+Free Text:LFML Taxiway\D1:freetext
+Free Text:LFML Taxiway\D2:freetext
+Free Text:LFML Taxiway\D3:freetext
+Free Text:LFML Taxiway\D4:freetext
+Free Text:LFML Taxiway\D6:freetext
+Free Text:LFML Taxiway\D7:freetext
+Free Text:LFML Taxiway\D8:freetext
+Free Text:LFML Taxiway\D9:freetext
+Free Text:LFML Taxiway\E2:freetext
+Free Text:LFML Taxiway\E3:freetext
+Free Text:LFML Taxiway\E7:freetext
+Free Text:LFML Taxiway\E9:freetext
+Free Text:LFML Taxiway\F3:freetext
+Free Text:LFML Taxiway\F3:freetext
+Free Text:LFML Taxiway\F3:freetext
+Free Text:LFML Taxiway\F7:freetext
+Free Text:LFML Taxiway\F7:freetext
+Free Text:LFML Taxiway\G1:freetext
+Free Text:LFML Taxiway\G10:freetext
+Free Text:LFML Taxiway\G11:freetext
+Free Text:LFML Taxiway\G2:freetext
+Free Text:LFML Taxiway\G3:freetext
+Free Text:LFML Taxiway\G4:freetext
+Free Text:LFML Taxiway\G5:freetext
+Free Text:LFML Taxiway\G6:freetext
+Free Text:LFML Taxiway\G7:freetext
+Free Text:LFML Taxiway\G8:freetext
+Free Text:LFML Taxiway\G9:freetext
+Free Text:LFML Taxiway\L1:freetext
+Free Text:LFML Taxiway\L2:freetext
+Free Text:LFML Taxiway\L3:freetext
+Free Text:LFML Taxiway\L4:freetext
+Geo:CoastLine:
+Geo:LFML:
+Geo:LFMV:
+Runways:LFML 13L-31R:extended centerline 1
+Runways:LFML 13L-31R:extended centerline 1 left base
+Runways:LFML 13L-31R:extended centerline 1 left ticks
+Runways:LFML 13L-31R:extended centerline 1 left vectoring
+Runways:LFML 13L-31R:extended centerline 1 right base
+Runways:LFML 13L-31R:extended centerline 1 right ticks
+Runways:LFML 13L-31R:extended centerline 1 right vectoring
+Runways:LFML 13L-31R:extended centerline 2
+Runways:LFML 13L-31R:extended centerline 2 left base
+Runways:LFML 13L-31R:extended centerline 2 left ticks
+Runways:LFML 13L-31R:extended centerline 2 left vectoring
+Runways:LFML 13L-31R:extended centerline 2 right base
+Runways:LFML 13L-31R:extended centerline 2 right ticks
+Runways:LFML 13L-31R:extended centerline 2 right vectoring
+Runways:LFML 13R-31L:extended centerline 1
+Runways:LFML 13R-31L:extended centerline 1 left base
+Runways:LFML 13R-31L:extended centerline 1 left ticks
+Runways:LFML 13R-31L:extended centerline 1 left vectoring
+Runways:LFML 13R-31L:extended centerline 1 right base
+Runways:LFML 13R-31L:extended centerline 1 right ticks
+Runways:LFML 13R-31L:extended centerline 1 right vectoring
+Runways:LFML 13R-31L:extended centerline 2
+Runways:LFML 13R-31L:extended centerline 2 left base
+Runways:LFML 13R-31L:extended centerline 2 left ticks
+Runways:LFML 13R-31L:extended centerline 2 left vectoring
+Runways:LFML 13R-31L:extended centerline 2 right base
+Runways:LFML 13R-31L:extended centerline 2 right ticks
+Runways:LFML 13R-31L:extended centerline 2 right vectoring
+VORs:ABB:symbol
+VORs:AGN:symbol
+VORs:AJO:symbol
+VORs:AMB:symbol
+VORs:ANG:symbol
+VORs:ARE:symbol
+VORs:AVN:symbol
+VORs:AZR:symbol
+VORs:BGR:symbol
+VORs:BLM:symbol
+VORs:BMC:symbol
+VORs:BNE:symbol
+VORs:BRY:symbol
+VORs:BT:symbol
+VORs:BTA:symbol
+VORs:BTZ:symbol
+VORs:BVS:symbol
+VORs:CAD:symbol
+VORs:CAV:symbol
+VORs:CBY:symbol
+VORs:CFA:symbol
+VORs:CGN:symbol
+VORs:CGS:symbol
+VORs:CHW:symbol
+VORs:CLM:symbol
+VORs:CMB:symbol
+VORs:CNA:symbol
+VORs:CNM:symbol
+VORs:CRL:symbol
+VORs:CTL:symbol
+VORs:DGN:symbol
+VORs:DIN:symbol
+VORs:DJL:symbol
+VORs:DPE:symbol
+VORs:DVL:symbol
+VORs:EPL:symbol
+VORs:EPR:symbol
+VORs:EVX:symbol
+VORs:FGI:symbol
+VORs:FJR:symbol
+VORs:GAI:symbol
+VORs:GTQ:symbol
+VORs:ITS:symbol
+VORs:LCA:symbol
+VORs:LGH:symbol
+VORs:LGL:symbol
+VORs:LMB:symbol
+VORs:LMG:symbol
+VORs:LTP:symbol
+VORs:LUC:symbol
+VORs:LUL:symbol
+VORs:MBY:symbol
+VORs:MEN:symbol
+VORs:MLN:symbol
+VORs:MMD:symbol
+VORs:MOU:symbol
+VORs:MRM:symbol
+VORs:MTD:symbol
+VORs:MTG:symbol
+VORs:MTL:symbol
+VORs:NEV:symbol
+VORs:NIZ:symbol
+VORs:NTS:symbol
+VORs:PGS:symbol
+VORs:POI:symbol
+VORs:PON:symbol
+VORs:PPG:symbol
+VORs:PPN:symbol
+VORs:QPR:symbol
+VORs:RBT:symbol
+VORs:REM:symbol
+VORs:REN:symbol
+VORs:RLP:symbol
+VORs:ROA:symbol
+VORs:ROU:symbol
+VORs:SAU:symbol
+VORs:SAV:symbol
+VORs:STG:symbol
+VORs:STP:symbol
+VORs:STR:symbol
+VORs:TBO:symbol
+VORs:TIS:symbol
+VORs:TOU:symbol
+VORs:TRO:symbol
+VORs:TSU:symbol
+VORs:VES:symbol
+VORs:VNE:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Jojo
+WINDOWAREA:43.417215:5.167001:43.453571:5.268419
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:641
+PLUGIN:Virtual Controller Assistant:CDYPOS:23
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

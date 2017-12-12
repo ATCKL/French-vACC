@@ -1,0 +1,5 @@
+VOICE
+AG:Bastia Approach:123.820:voice1.vatfrance.org:lfkb_app
+AG:Bastia Tower:118.00:voice1.vatfrance.org:lfkb_twr
+AG:Bastia Ground:121.820:voice1.vatfrance.org:lfkb_gnd
+END

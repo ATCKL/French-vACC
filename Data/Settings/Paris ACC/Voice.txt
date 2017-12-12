@@ -1,0 +1,11 @@
+VOICE
+AG:Paris Control:128.100:voice1.vatfrance.org:lfff_ctr
+AG:Paris Control East:132.100:voice1.vatfrance.org:lfff_e_ctr
+AG:Paris Control West:128.870:voice1.vatfrance.org:lfff_w_ctr
+AG:Paris Upper Control:124.720:voice1.vatfrance.org:lfff_u_ctr
+AG:Bourget ATIS:120.000:voice1.vatfrance.org:lfpb_atis
+AG:Touget ATIS:123.120:voice1.vatfrance.org:lfat_atis
+AG:Lille ATIS:119.320:voice1.vatfrance.org:lfqq_atis
+AG:De Gaulle ATIS:127.120:voice1.vatfrance.org:lfpg_atis
+AG:Orly ATIS:128.500:voice1.vatfrance.org:lfpo_atis
+END

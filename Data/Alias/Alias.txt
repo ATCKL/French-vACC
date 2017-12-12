@@ -1,0 +1,173 @@
+
+; Alias par Christophe Billaux
+; Lien Original: http://forum.vatfrance.org/viewtopic.php?f=6&t=17503
+
+BONJOUR	
+
+.fme	Bonjour, contactez moi sur $1 svp
+.me	Good morning, contact me on $1 please
+
+.fbj	Bonjour
+.bj	Good morning
+
+.fbs	Bonsoir
+.bs	Good evening
+
+.fbji	Bonjour, identifie radar
+.bji	Good morning, identified
+
+.fbsi	Bonsoir, identifie radar
+.bsi	Good evening, identified
+
+.fbjn	$radioname Bonjour, transpondez $squawk
+.bjn	$radioname Good morning, squawk $squawk
+
+.fbsn Bonsoir, transpondez $squawk
+.bsn	Good evening, squawk $squawk
+
+IDENTIFIE RADAR	
+
+.frdr	Identifie radar
+.rdr	Identified
+
+CHANGEMENT DE FREQUENCE	
+
+.funi	Vous quittez mon espace aerien, aucun controleur sur le prochain secteur. Poursuivez votre navigation, surveillez la fréquence UNICOM sur 122.800. Bon vol, merci de votre visite. A bientot.
+.uni	You are leaving my airspace and no further ATC available. Resume own navigation, Monitor UNICOM on 122.800. Au Revoir!
+
+.fctr	Vous quittez mon espace aerien, contacter $radioname($1) sur $freq($1). Merci de votre visite. A bientot.
+.ctr	You are leaving my airspace, contact $radioname($1) on $freq(s1). thank's for your visit. Au Revoir!.
+
+CONSIGNE DE VOL	
+
+.ftd	Tournez a droite au cap $1
+.td	Turn right heading $1
+.ftg	Tournez a gauche au cap $1
+.tg	Turn left heading $1
+
+.fmq	Montez $1 QNH $altim($arr)
+.mq	Climb $1 QNH $altim($arr)
+.fmq	Montez niveau $1
+.m	Climb to FL $1
+
+.fdq	Descendez $1 QNH $altim($arr)
+.dq	Descent $1 QNH $altim($arr)
+.fd	escendez Niveau $1
+.d	Descend to FL $1
+
+.frs	Reduisez $1 IAS
+.rs	Reduce speed $1 IAS
+
+.ftc	Transpondeur mode Charli s'il vous plait.
+.tc	Squawk mode Charli please.
+.fts	Transpondeur mode Standby s'il vous plait.
+.ts	Squawk mode Standby please.
+
+CLAIRANCE DEPART	
+
+.fci	Plan de vol pour $arr approuve, depart via $sid, piste $deprwy, niveau initial $temp, transpondez $squawk
+.ci	Flight plan to $arr Approved, departure $sid, runway $deprwy, initial climb $temp, squawk $squawk
+
+.fcv	Plan de vol pour $arr approuvé, piste en service $deprwy, prevoyez un point de sortie $1, transpondez $squawk
+.cv	Flight plan for $arr Approved, runway $deprwy in use, expect exit point $1, squawk $squawk
+
+.fct	Tour de piste approuve, piste en service $deprwy, transpondez $squawk
+.ct	Local patterns Approved, runway $deprwy in use, squawk $squawk
+
+COLATIONNEMENT
+
+.fiok	Le collationement est correct, rappelez pour le repoussage et la mise en route
+.iok	Readback is correct, call back ready for pushback and startup
+
+.fvok	Le collationement est correct, rappelez pret au roulage
+.vok	Readback is correct, call back ready to taxi
+
+PUSHBACK	
+
+.fpb	Repoussage face a $1 et mise en route approuve, rappelez pret au roulage
+.pb	Pushback facing $1 and startup approuved, call back ready to taxi
+
+TAXI	
+
+.ftx	Roulez point d'arret $1, de la piste $deprwy, via taxi $2, QNH $altim($dep)
+.tx	Taxi to holding point $1, runway $deprwy, via taxi $2, QNH $altim($dep)
+
+DEPART
+
+.frp	Piste $deprwy, vous etes autorise a remonter la piste, rappelez pret au depart
+.rp	Runway $deprwy, cleared to back track the runway, call back ready to take off
+
+.fdi	Piste $deprwy, derniers vents $winds($dep), autorise decollage
+.di	Runway $deprwy, wind is $winds($dep), cleared to take off
+
+.fdv	Piste $deprwy, derniers vents $winds($dep), autorise decollage, rappelez verticale $1
+.dv	Runway $deprwy, wind is $winds($dep), cleared to take off, report vertical $1
+
+.fdt	Piste $deprwy, derniers vents $winds($dep), autorise decollage, rappelez vent arriere main $1
+.dt	Runway $deprwy, wind is $winds($dep), cleared to take off, report down wind $1 hand pattern
+
+TOUR DE PISTE	
+
+.ftp	Quelles sont vos intentions
+.tp	State your intentions
+
+.ftou	Touche approuve, piste $arrrwy, rappelez en etape de base
+.tou	Touch and go appouved, runway $arrrwy, report in base tape
+
+.ftcp	Complet approuve, piste $arrrwy, rappelez en etape de base
+.tcp	Landing approuved, runway $arrrwy, report in base tape
+
+.ftf	Piste $arrrwy, rappelez en finale
+.tf	Runway $arrrwy, report in final
+
+.ftgo	Piste $arrrwy, derniers vents $winds($arr), autorise pour un touche, rappelez en vent arriere main $1
+.tgo	runway $arrrwy, wind is $winds($arr), cleared for touch and go, report down wind $1 hand pattern
+
+APPROCHE	
+
+.fari	identifie radar, prevoyez un guidage radar pour une approche ILS piste $arrrwy
+.ari	identified, expect vector for ILS approach runway $arrrwy
+
+.farn	identifie radar, prevoyez un guidage radar pour une approche NDB piste $arrrwy
+.arn	identified, expect vector for NDB approach runway $arrrwy
+
+.farv	identifie radar, prevoyez un guidage radar pour une approche a VUE piste $arrrwy
+.arv	identified, expect vector for VISUAL approach runway $arrrwy
+
+.fils	Autorise ILS $arrrwy, rappelez etabli
+.ils	Cleared ILS $arrrwy Report established
+
+.fndb	Autorise approche NDB piste $arrrwy, rappelez en finale
+.ndb	Cleared to NDB approach runway $arrrwy, report in final
+
+.fvue	Autorise approche a vue piste $arrrwy, rappelez en finale
+.vue	Cleared to visual approach runway $arrrwy, report in final
+
+.farr	Piste $arrrwy, derniers vents $winds($arr), autorise atterrissage, rappelez piste degagee
+.arr	wind $winds($arr), Runway $arrrwy, cleared to land, report runway is vacated
+
+ATTENTE	
+
+.fh	Prevoyez une attente a $1, Niveau $2 . Rapprochement $3 °, virage a $4, eloignement cap $5, 1 minute, vitesse $6 nœuds
+.h	Expect holdind at $1, Flight level $2 . Inbound $3 °, $4 hand pattern, outbond heading $5, time 1 minute, speed $6 knots
+
+ARRIVEE ROULAGE POUR LE PARKING	
+
+.fta	Bienvenue a $arr , roulez au parking $1 , via $2 , rappelez pour quitter la frequence
+.ta	Welcome to $arr , taxi to gate $1 , via $2 , call back to leave the frequency
+
+.ftac	Bienvenue a $arr , roulez au parking de votre choix, rappelez pour quitter la frequence
+.tac	Welcome to $arr , taxi to gate of your choice, call back to leave the frequency
+
+PLAN DE VOL CLOS
+
+.ffin	Votre plan de vol est clos $time , vous pouvez quitter la frequence, merci de votre visite. A bientot.
+.fin	Your flight plan is closed at $time , you can leave the frequency, thank's for your visit. Goodbye.
+
+Exemple attente sur LFRB	
+
+.fvorh	Prevoyez une attente a ARE, Niveau $1 . Rapprochement 300°, virage a droite, eloignement cap 120, 1 minute, vitesse 220 nœuds
+.vorh	Expect holdind at ARE, Flight level $1 . Inbound 300°, right hand pattern, outbond heading 120, time 1 minute, speed 220 knots
+
+.fndbh	Prevoyez une attente a GU, $1 pieds . Rapprochement 255°, virage a gauche, eloignement 1 minute, vitesse 210 noeuds.
+.ndbh	Expect holdind at GU, $1 feets . Inbound heading 255°, left hand pattern, outbond time 1 minute, speed 210 knots.

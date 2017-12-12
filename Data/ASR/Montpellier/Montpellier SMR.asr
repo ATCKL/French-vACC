@@ -1,0 +1,302 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_BEZIERS:
+ARTCC boundary:CTR_MONTPELLIER:
+ARTCC boundary:CTR_NIMES:
+ARTCC boundary:CTR_PERPIGNAN:
+ARTCC boundary:TMA_MONTPELLIER:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+Fixes:BAMGO:name
+Fixes:BAMGO:symbol
+Fixes:JARNY:name
+Fixes:JARNY:symbol
+Fixes:KANIG:name
+Fixes:KANIG:symbol
+Fixes:KELAM:name
+Fixes:KELAM:symbol
+Fixes:LANET:name
+Fixes:LANET:symbol
+Fixes:ORBIL:name
+Fixes:ORBIL:symbol
+Fixes:SUBIL:name
+Fixes:SUBIL:symbol
+Free Text:LFMP Gates\1:freetext
+Free Text:LFMP Gates\1:freetext
+Free Text:LFMP Gates\2:freetext
+Free Text:LFMP Gates\2:freetext
+Free Text:LFMP Gates\3:freetext
+Free Text:LFMP Gates\3:freetext
+Free Text:LFMP Gates\4:freetext
+Free Text:LFMP Gates\5:freetext
+Free Text:LFMP Gates\6:freetext
+Free Text:LFMP Gates\7:freetext
+Free Text:LFMP Gates\8:freetext
+Free Text:LFMP Points VFR\E :freetext
+Free Text:LFMP Points VFR\EC :freetext
+Free Text:LFMP Points VFR\N :freetext
+Free Text:LFMP Points VFR\PN :freetext
+Free Text:LFMP Points VFR\S :freetext
+Free Text:LFMP Points VFR\SC :freetext
+Free Text:LFMP Points VFR\SE :freetext
+Free Text:LFMP Points VFR\W:freetext
+Free Text:LFMP Points VFR\WA :freetext
+Free Text:LFMP Taxiways\A:freetext
+Free Text:LFMP Taxiways\A:freetext
+Free Text:LFMP Taxiways\A:freetext
+Free Text:LFMP Taxiways\B:freetext
+Free Text:LFMP Taxiways\B:freetext
+Free Text:LFMP Taxiways\B:freetext
+Free Text:LFMP Taxiways\C:freetext
+Free Text:LFMP Taxiways\C:freetext
+Free Text:LFMP Taxiways\D:freetext
+Free Text:LFMP Taxiways\D:freetext
+Free Text:LFMP Taxiways\F:freetext
+Free Text:LFMP Taxiways\F:freetext
+Free Text:LFMP Taxiways\G:freetext
+Free Text:LFMP Taxiways\G:freetext
+Free Text:LFMP Taxiways\H:freetext
+Free Text:LFMP Taxiways\H:freetext
+Free Text:LFMP Taxiways\K:freetext
+Free Text:LFMP Taxiways\K:freetext
+Free Text:LFMP Taxiways\K:freetext
+Free Text:LFMP Taxiways\K:freetext
+Free Text:LFMP Taxiways\L:freetext
+Free Text:LFMP Taxiways\L:freetext
+Free Text:LFMP Taxiways\P:freetext
+Free Text:LFMP Taxiways\P:freetext
+Free Text:LFMP Taxiways\Q:freetext
+Free Text:LFMP Taxiways\Q:freetext
+Free Text:LFMP Taxiways\R:freetext
+Free Text:LFMP Taxiways\R:freetext
+Free Text:LFMP Taxiways\T:freetext
+Free Text:LFMP Taxiways\T:freetext
+Free Text:LFMP Taxiways\T:freetext
+Free Text:LFMP Taxiways\U:freetext
+Free Text:LFMP Taxiways\U:freetext
+Free Text:LFMP Taxiways\U:freetext
+Free Text:LFMP Taxiways\U:freetext
+Free Text:LFMP Taxiways\V:freetext
+Free Text:LFMT AMSR\12500:freetext
+Free Text:LFMT AMSR\2000:freetext
+Free Text:LFMT AMSR\3000:freetext
+Free Text:LFMT AMSR\4000:freetext
+Free Text:LFMT AMSR\4000:freetext
+Free Text:LFMT AMSR\4700:freetext
+Free Text:LFMT AMSR\5000:freetext
+Free Text:LFMT AMSR\6000:freetext
+Free Text:LFMT AMSR\6200:freetext
+Free Text:LFMT AMSR\7200:freetext
+Free Text:LFMT AMSR\7700:freetext
+Free Text:LFMT AMSR\7900:freetext
+Free Text:LFMT Gates\11:freetext
+Free Text:LFMT Gates\B2:freetext
+Free Text:LFMT Gates\B2:freetext
+Free Text:LFMT Gates\C1:freetext
+Free Text:LFMT Gates\C1:freetext
+Free Text:LFMT Gates\C2:freetext
+Free Text:LFMT Gates\D1:freetext
+Free Text:LFMT Gates\D2:freetext
+Free Text:LFMT Gates\D3:freetext
+Free Text:LFMT Gates\D4:freetext
+Free Text:LFMT Gates\E1:freetext
+Free Text:LFMT Taxiways\10:freetext
+Free Text:LFMT Taxiways\11:freetext
+Free Text:LFMT Taxiways\1A:freetext
+Free Text:LFMT Taxiways\1B:freetext
+Free Text:LFMT Taxiways\1C:freetext
+Free Text:LFMT Taxiways\2:freetext
+Free Text:LFMT Taxiways\3A:freetext
+Free Text:LFMT Taxiways\3B:freetext
+Free Text:LFMT Taxiways\3C:freetext
+Free Text:LFMT Taxiways\3D:freetext
+Free Text:LFMT Taxiways\3E:freetext
+Free Text:LFMT Taxiways\4:freetext
+Free Text:LFMT Taxiways\5A:freetext
+Free Text:LFMT Taxiways\5B:freetext
+Free Text:LFMT Taxiways\5C:freetext
+Free Text:LFMT Taxiways\6A:freetext
+Free Text:LFMT Taxiways\6A:freetext
+Free Text:LFMT Taxiways\6A:freetext
+Free Text:LFMT Taxiways\6B:freetext
+Free Text:LFMT Taxiways\7A:freetext
+Free Text:LFMT Taxiways\7B:freetext
+Free Text:LFMT Taxiways\8A:freetext
+Free Text:LFMT Taxiways\8B:freetext
+Free Text:LFMT Taxiways\8C:freetext
+Free Text:LFMT Taxiways\8D:freetext
+Free Text:LFMT Taxiways\9:freetext
+Free Text:LFMT Taxiways\T6:freetext
+Free Text:LFMT Taxiways\T6:freetext
+Free Text:LFRS Points VFR\E:freetext
+Free Text:LFRS Points VFR\E1:freetext
+Free Text:LFRS Points VFR\E2:freetext
+Free Text:LFRS Points VFR\E3:freetext
+Free Text:LFRS Points VFR\NE:freetext
+Free Text:LFRS Points VFR\NW:freetext
+Free Text:LFRS Points VFR\SW:freetext
+Free Text:LFRS Points VFR\W:freetext
+Free Text:LFRS Points VFR\W1:freetext
+Free Text:LFRS Points VFR\W2:freetext
+Free Text:LFRS Points VFR\W3:freetext
+Free Text:LFRS Points VFR\W4:freetext
+Free Text:P13 FOS SUR MER\3300:freetext
+Free Text:P16 MARCOULE\3500:freetext
+Free Text:P19 TRICASTIN\3500:freetext
+Free Text:P41 ISTRES\4500:freetext
+Free Text:P8 SAINT NAZAIRE MONTOIR AD\3300:freetext
+Geo:CoastLine:
+Geo:LFMP:
+Geo:LFMT:
+Geo:LFMT_AMSR:
+Geo:LFMU:
+Geo:LFTW:
+Geo:Political Boundaries:
+Geo:ZONE_P13:
+Geo:ZONE_P16:
+Geo:ZONE_P19:
+Geo:ZONE_P41:
+NDBs:PL:name
+NDBs:PL:symbol
+Runways:LFMP 13-31:centerline
+Runways:LFMP 13-31:extended centerline 1
+Runways:LFMP 13-31:extended centerline 1 left base
+Runways:LFMP 13-31:extended centerline 1 left ticks
+Runways:LFMP 13-31:extended centerline 1 left vectoring
+Runways:LFMP 13-31:extended centerline 1 right base
+Runways:LFMP 13-31:extended centerline 1 right ticks
+Runways:LFMP 13-31:extended centerline 1 right vectoring
+Runways:LFMP 13-31:extended centerline 2
+Runways:LFMP 13-31:extended centerline 2 left base
+Runways:LFMP 13-31:extended centerline 2 left ticks
+Runways:LFMP 13-31:extended centerline 2 left vectoring
+Runways:LFMP 13-31:extended centerline 2 right base
+Runways:LFMP 13-31:extended centerline 2 right ticks
+Runways:LFMP 13-31:extended centerline 2 right vectoring
+Runways:LFMP 13-31:name
+Runways:LFMP 15-33:centerline
+Runways:LFMP 15-33:extended centerline 1
+Runways:LFMP 15-33:extended centerline 1 left base
+Runways:LFMP 15-33:extended centerline 1 left ticks
+Runways:LFMP 15-33:extended centerline 1 left vectoring
+Runways:LFMP 15-33:extended centerline 1 right base
+Runways:LFMP 15-33:extended centerline 1 right ticks
+Runways:LFMP 15-33:extended centerline 1 right vectoring
+Runways:LFMP 15-33:extended centerline 2
+Runways:LFMP 15-33:extended centerline 2 left base
+Runways:LFMP 15-33:extended centerline 2 left ticks
+Runways:LFMP 15-33:extended centerline 2 left vectoring
+Runways:LFMP 15-33:extended centerline 2 right base
+Runways:LFMP 15-33:extended centerline 2 right ticks
+Runways:LFMP 15-33:extended centerline 2 right vectoring
+Runways:LFMP 15-33:name
+Runways:LFMT 12L-30R:centerline
+Runways:LFMT 12L-30R:extended centerline 1
+Runways:LFMT 12L-30R:extended centerline 1 left base
+Runways:LFMT 12L-30R:extended centerline 1 left ticks
+Runways:LFMT 12L-30R:extended centerline 1 left vectoring
+Runways:LFMT 12L-30R:extended centerline 1 right base
+Runways:LFMT 12L-30R:extended centerline 1 right ticks
+Runways:LFMT 12L-30R:extended centerline 1 right vectoring
+Runways:LFMT 12L-30R:extended centerline 2
+Runways:LFMT 12L-30R:extended centerline 2 left base
+Runways:LFMT 12L-30R:extended centerline 2 left ticks
+Runways:LFMT 12L-30R:extended centerline 2 left vectoring
+Runways:LFMT 12L-30R:extended centerline 2 right base
+Runways:LFMT 12L-30R:extended centerline 2 right ticks
+Runways:LFMT 12L-30R:extended centerline 2 right vectoring
+Runways:LFMT 12L-30R:name
+Runways:LFMT 12R-30L:centerline
+Runways:LFMT 12R-30L:extended centerline 1
+Runways:LFMT 12R-30L:extended centerline 1 left base
+Runways:LFMT 12R-30L:extended centerline 1 left ticks
+Runways:LFMT 12R-30L:extended centerline 1 left vectoring
+Runways:LFMT 12R-30L:extended centerline 1 right base
+Runways:LFMT 12R-30L:extended centerline 1 right ticks
+Runways:LFMT 12R-30L:extended centerline 1 right vectoring
+Runways:LFMT 12R-30L:extended centerline 2
+Runways:LFMT 12R-30L:extended centerline 2 left base
+Runways:LFMT 12R-30L:extended centerline 2 left ticks
+Runways:LFMT 12R-30L:extended centerline 2 left vectoring
+Runways:LFMT 12R-30L:extended centerline 2 right base
+Runways:LFMT 12R-30L:extended centerline 2 right ticks
+Runways:LFMT 12R-30L:extended centerline 2 right vectoring
+Runways:LFMT 12R-30L:name
+Runways:LFMU 09-27:centerline
+Runways:LFMU 09-27:extended centerline 1
+Runways:LFMU 09-27:extended centerline 1 left base
+Runways:LFMU 09-27:extended centerline 1 left ticks
+Runways:LFMU 09-27:extended centerline 1 left vectoring
+Runways:LFMU 09-27:extended centerline 1 right base
+Runways:LFMU 09-27:extended centerline 1 right ticks
+Runways:LFMU 09-27:extended centerline 1 right vectoring
+Runways:LFMU 09-27:extended centerline 2
+Runways:LFMU 09-27:extended centerline 2 left base
+Runways:LFMU 09-27:extended centerline 2 left ticks
+Runways:LFMU 09-27:extended centerline 2 left vectoring
+Runways:LFMU 09-27:extended centerline 2 right base
+Runways:LFMU 09-27:extended centerline 2 right ticks
+Runways:LFMU 09-27:extended centerline 2 right vectoring
+Runways:LFMU 09-27:name
+Runways:LFTW 18-36:centerline
+Runways:LFTW 18-36:extended centerline 1
+Runways:LFTW 18-36:extended centerline 1 left base
+Runways:LFTW 18-36:extended centerline 1 left ticks
+Runways:LFTW 18-36:extended centerline 1 left vectoring
+Runways:LFTW 18-36:extended centerline 1 right base
+Runways:LFTW 18-36:extended centerline 1 right ticks
+Runways:LFTW 18-36:extended centerline 1 right vectoring
+Runways:LFTW 18-36:extended centerline 2
+Runways:LFTW 18-36:extended centerline 2 left base
+Runways:LFTW 18-36:extended centerline 2 left ticks
+Runways:LFTW 18-36:extended centerline 2 left vectoring
+Runways:LFTW 18-36:extended centerline 2 right base
+Runways:LFTW 18-36:extended centerline 2 right ticks
+Runways:LFTW 18-36:extended centerline 2 right vectoring
+Runways:LFTW 18-36:name
+Sids:LFMP/33/BAGU4N:
+Sids:LFMP/33/BAMG4R:
+Sids:LFMP/33/FJR4N:
+Sids:LFMP/33/SUBI4N:
+Stars:LFMP/ALL/FJR2:
+Stars:LFMP/ALL/KANIG2:
+Stars:LFMP/ALL/KELAM2:
+Stars:LFMP/ALL/ORBIL2:
+Stars:LFMP/ALL/SIJAN2:
+Stars:LFMP/ALL/SUBIL2:
+VORs:BGR:name
+VORs:BGR:symbol
+VORs:FJR:name
+VORs:FJR:symbol
+VORs:PPG:name
+VORs:PPG:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:43.567737:3.932449:43.591175:4.000570
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:641
+PLUGIN:Virtual Controller Assistant:CDYPOS:22
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

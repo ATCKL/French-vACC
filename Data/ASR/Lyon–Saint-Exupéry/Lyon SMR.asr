@@ -1,0 +1,77 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+Free Text:LFLL Gates\A22:freetext
+Free Text:LFLL Gates\B10:freetext
+Free Text:LFLL Gates\B16:freetext
+Free Text:LFLL Gates\B71:freetext
+Free Text:LFLL Gates\B81:freetext
+Free Text:LFLL Gates\B83:freetext
+Free Text:LFLL Gates\C41:freetext
+Free Text:LFLL Gates\D25:freetext
+Free Text:LFLL Points VFR\EA :freetext
+Free Text:LFLL Points VFR\MS :freetext
+Free Text:LFLL Points VFR\N :freetext
+Free Text:LFLL Points VFR\NA :freetext
+Free Text:LFLL Points VFR\NW :freetext
+Free Text:LFLL Points VFR\S :freetext
+Free Text:LFLL Points VFR\SA:freetext
+Free Text:LFLL Points VFR\TE :freetext
+Free Text:LFLL Points VFR\TW :freetext
+Free Text:LFLL Taxiways\A1:freetext
+Free Text:LFLL Taxiways\A2:freetext
+Free Text:LFLL Taxiways\A3:freetext
+Free Text:LFLL Taxiways\A4:freetext
+Free Text:LFLL Taxiways\A5:freetext
+Free Text:LFLL Taxiways\A6:freetext
+Free Text:LFLL Taxiways\A8:freetext
+Free Text:LFLL Taxiways\A9:freetext
+Free Text:LFLL Taxiways\B3:freetext
+Free Text:LFLL Taxiways\B4:freetext
+Free Text:LFLL Taxiways\B6:freetext
+Free Text:LFLL Taxiways\B8:freetext
+Free Text:LFLL Taxiways\B9:freetext
+Free Text:LFLL Taxiways\S6:freetext
+Free Text:LFLL Taxiways\T:freetext
+Free Text:LFLL Taxiways\T:freetext
+Free Text:LFLL Taxiways\T:freetext
+Free Text:LFLL Taxiways\T:freetext
+Free Text:LFLL Taxiways\T:freetext
+Free Text:LFLL Taxiways\T:freetext
+Free Text:LFLL Taxiways\T:freetext
+Free Text:LFLL Taxiways\V4:freetext
+Free Text:LFLL Taxiways\V5:freetext
+Free Text:LFLL Taxiways\V6:freetext
+Free Text:LFLL Taxiways\V8:freetext
+Free Text:LFLL Taxiways\Y:freetext
+Geo:LFLL:
+Geo:LFLL_AMSR:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Jojo
+WINDOWAREA:45.706932:5.040795:45.740635:5.138750
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

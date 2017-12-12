@@ -1,0 +1,498 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_AGEN:
+ARTCC boundary:CTR_AIX:
+ARTCC boundary:CTR_AJACCIO:
+ARTCC boundary:CTR_ALBERT-BRAY:
+ARTCC boundary:CTR_ANGERS:
+ARTCC boundary:CTR_ANGOULEME:
+ARTCC boundary:CTR_ANNECY:
+ARTCC boundary:CTR_AVIGNON:
+ARTCC boundary:CTR_AVORD:
+ARTCC boundary:CTR_BALE-MULHOUSE:
+ARTCC boundary:CTR_BASTIA:
+ARTCC boundary:CTR_BEAUVAIS:
+ARTCC boundary:CTR_BERGERAC-ROUMANIERE:
+ARTCC boundary:CTR_BEZIERS:
+ARTCC boundary:CTR_BIARRITZ-BAYONNE-ANGLET:
+ARTCC boundary:CTR_BORDEAUX-MERIGNAC:
+ARTCC boundary:CTR_BREST-BRETAGNE:
+ARTCC boundary:CTR_CAEN:
+ARTCC boundary:CTR_CALAIS:
+ARTCC boundary:CTR_CALVI:
+ARTCC boundary:CTR_CAMBRAI-EPINOY:
+ARTCC boundary:CTR_CANNES:
+ARTCC boundary:CTR_CARCASSONNE:
+ARTCC boundary:CTR_CHAMBERY:
+ARTCC boundary:CTR_CHATEAUDUN:
+ARTCC boundary:CTR_CHATEAUROUX:
+ARTCC boundary:CTR_CHERBOURG:
+ARTCC boundary:CTR_CLERMONT-FERRAND:
+ARTCC boundary:CTR_COGNAC:
+ARTCC boundary:CTR_COLMAR:
+ARTCC boundary:CTR_DE-GAULLE:
+ARTCC boundary:CTR_DEAUVILLE:
+ARTCC boundary:CTR_DIJON:
+ARTCC boundary:CTR_DINARD:
+ARTCC boundary:CTR_FIGARI:
+ARTCC boundary:CTR_GRENOBLE:
+ARTCC boundary:CTR_HYERES:
+ARTCC boundary:CTR_ILES-ANGLO-NORMANDES-Jersey:
+ARTCC boundary:CTR_ISTRES:
+ARTCC boundary:CTR_KARLSRUHE:
+ARTCC boundary:CTR_LA-ROCHELLE:
+ARTCC boundary:CTR_LANDIVISIAU:
+ARTCC boundary:CTR_LANNION:
+ARTCC boundary:CTR_LANVEOC:
+ARTCC boundary:CTR_LE-HAVRE:
+ARTCC boundary:CTR_LE-TOUQUET-PARIS-PLAGE:
+ARTCC boundary:CTR_LILLE-LESQUIN:
+ARTCC boundary:CTR_LIMOGES:
+ARTCC boundary:CTR_LORIENT-LANN-BIHOUE:
+ARTCC boundary:CTR_LORRAINE:
+ARTCC boundary:CTR_LOURDES:
+ARTCC boundary:CTR_LUXEUIL:
+ARTCC boundary:CTR_LYON-BRON:
+ARTCC boundary:CTR_LYON-SAINT-EXUPERY:
+ARTCC boundary:CTR_MELUN:
+ARTCC boundary:CTR_MERVILLE-CALONNE:
+ARTCC boundary:CTR_METZ:
+ARTCC boundary:CTR_MONTPELLIER:
+ARTCC boundary:CTR_NANCY-OCHEY:
+ARTCC boundary:CTR_NANTES:
+ARTCC boundary:CTR_NICE:
+ARTCC boundary:CTR_NIMES:
+ARTCC boundary:CTR_ORANGE:
+ARTCC boundary:CTR_ORLEANS:
+ARTCC boundary:CTR_PAU-PYRENEES:
+ARTCC boundary:CTR_PERPIGNAN:
+ARTCC boundary:CTR_POITIERS-BIARD:
+ARTCC boundary:CTR_PROVENCE:
+ARTCC boundary:CTR_QUIMPER-PLUGUFFAN:
+ARTCC boundary:CTR_REIMS-CHAMPAGNE:
+ARTCC boundary:CTR_RENNES-SAINT-JACQUES:
+ARTCC boundary:CTR_RODEZ-MARCILLAC:
+ARTCC boundary:CTR_ROUEN:
+ARTCC boundary:CTR_SAINT-DIZIER:
+ARTCC boundary:CTR_SAINT-ETIENNE-BOUTHEON:
+ARTCC boundary:CTR_SAINT-NAZAIRE:
+ARTCC boundary:CTR_STRASBOURG:
+ARTCC boundary:CTR_TOULOUSE-BLAGNAC:
+ARTCC boundary:CTR_TOULOUSE-FRANCAZAL:
+ARTCC boundary:CTR_TOURS-VAL-DE-LOIRE:
+ARTCC boundary:CTR_VALENCE:
+ARTCC boundary:TMA_AJACCIO:
+ARTCC boundary:TMA_AQUITAINE:
+ARTCC boundary:TMA_AVORD:
+ARTCC boundary:TMA_BALE-MULHOUSE:
+ARTCC boundary:TMA_BASTIA:
+ARTCC boundary:TMA_BEAUVAIS:
+ARTCC boundary:TMA_BIARRITZ:
+ARTCC boundary:TMA_CAMBRAI:
+ARTCC boundary:TMA_CHAMBERY:
+ARTCC boundary:TMA_CLERMONT-FERRAND:
+ARTCC boundary:TMA_COGNAC:
+ARTCC boundary:TMA_COLMAR:
+ARTCC boundary:TMA_DE-GAULLE:
+ARTCC boundary:TMA_DEAUVILLE:
+ARTCC boundary:TMA_DIJON:
+ARTCC boundary:TMA_GENEVE:
+ARTCC boundary:TMA_IROISE:
+ARTCC boundary:TMA_LA-ROCHELLE:
+ARTCC boundary:TMA_LILLE:
+ARTCC boundary:TMA_LIMOGES:
+ARTCC boundary:TMA_LORIENT:
+ARTCC boundary:TMA_LUXEMBOURG:
+ARTCC boundary:TMA_LUXEUIL:
+ARTCC boundary:TMA_LYON:
+ARTCC boundary:TMA_METZ:
+ARTCC boundary:TMA_MONTPELLIER:
+ARTCC boundary:TMA_NANCY:
+ARTCC boundary:TMA_NANTES:
+ARTCC boundary:TMA_NICE:
+ARTCC boundary:TMA_ORLEANS:
+ARTCC boundary:TMA_PERPIGNAN:
+ARTCC boundary:TMA_POITIERS:
+ARTCC boundary:TMA_PROVENCE:
+ARTCC boundary:TMA_PYRENEES:
+ARTCC boundary:TMA_REIMS:
+ARTCC boundary:TMA_RENNES:
+ARTCC boundary:TMA_RODEZ:
+ARTCC boundary:TMA_ROUEN:
+ARTCC boundary:TMA_SAINT-DIZIER:
+ARTCC boundary:TMA_SAINT-ETIENNE:
+ARTCC boundary:TMA_STRASBOURG:
+ARTCC boundary:TMA_TOULOUSE:
+ARTCC boundary:TMA_TOURS:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTA_COGNAC:
+ARTCC low boundary:CTR_AGEN:
+ARTCC low boundary:CTR_AIX:
+ARTCC low boundary:CTR_AJACCIO:
+ARTCC low boundary:CTR_ALBERT-BRAY:
+ARTCC low boundary:CTR_ANGERS:
+ARTCC low boundary:CTR_ANNECY:
+ARTCC low boundary:CTR_AVIGNON:
+ARTCC low boundary:CTR_AVORD:
+ARTCC low boundary:CTR_BALE-MULHOUSE:
+ARTCC low boundary:CTR_BASTIA:
+ARTCC low boundary:CTR_BEAUVAIS:
+ARTCC low boundary:CTR_BERGERAC-ROUMANIERE:
+ARTCC low boundary:CTR_BEZIERS:
+ARTCC low boundary:CTR_BIARRITZ-BAYONNE-ANGLET:
+ARTCC low boundary:CTR_BORDEAUX-MERIGNAC:
+ARTCC low boundary:CTR_BREST-BRETAGNE:
+ARTCC low boundary:CTR_CAEN:
+ARTCC low boundary:CTR_CALAIS:
+ARTCC low boundary:CTR_CALVI:
+ARTCC low boundary:CTR_CAMBRAI-EPINOY:
+ARTCC low boundary:CTR_CANNES:
+ARTCC low boundary:CTR_CARCASSONNE:
+ARTCC low boundary:CTR_CHAMBERY:
+ARTCC low boundary:CTR_CHATEAUDUN:
+ARTCC low boundary:CTR_CHATEAUROUX:
+ARTCC low boundary:CTR_CHERBOURG:
+ARTCC low boundary:CTR_CLERMONT-FERRAND:
+ARTCC low boundary:CTR_COGNAC:
+ARTCC low boundary:CTR_COLMAR:
+ARTCC low boundary:CTR_DEAUVILLE:
+ARTCC low boundary:CTR_DIJON:
+ARTCC low boundary:CTR_DINARD:
+ARTCC low boundary:CTR_FIGARI:
+ARTCC low boundary:CTR_GRENOBLE:
+ARTCC low boundary:CTR_HYERES:
+ARTCC low boundary:CTR_ISTRES:
+ARTCC low boundary:CTR_KARLSRUHE:
+ARTCC low boundary:CTR_LA-ROCHELLE:
+ARTCC low boundary:CTR_LANDIVISIAU:
+ARTCC low boundary:CTR_LANNION:
+ARTCC low boundary:CTR_LANVEOC:
+ARTCC low boundary:CTR_LE-HAVRE:
+ARTCC low boundary:CTR_LE-TOUQUET-PARIS-PLAGE:
+ARTCC low boundary:CTR_LILLE-LESQUIN:
+ARTCC low boundary:CTR_LIMOGES-BELLEGARDE:
+ARTCC low boundary:CTR_LORIENT-LANN-BIHOUE:
+ARTCC low boundary:CTR_LORRAINE:
+ARTCC low boundary:CTR_LOURDES:
+ARTCC low boundary:CTR_LUXEUIL:
+ARTCC low boundary:CTR_LYON-BRON:
+ARTCC low boundary:CTR_LYON-SAINT-EXUPERY:
+ARTCC low boundary:CTR_MELUN:
+ARTCC low boundary:CTR_MERVILLE-CALONNE:
+ARTCC low boundary:CTR_METZ:
+ARTCC low boundary:CTR_MONTPELLIER:
+ARTCC low boundary:CTR_NANCY-OCHEY:
+ARTCC low boundary:CTR_NANTES:
+ARTCC low boundary:CTR_NICE:
+ARTCC low boundary:CTR_NIMES:
+ARTCC low boundary:CTR_ORANGE:
+ARTCC low boundary:CTR_PARIS:
+ARTCC low boundary:CTR_PAU-PYRENEES:
+ARTCC low boundary:CTR_PERPIGNAN:
+ARTCC low boundary:CTR_POITIERS-BIARD:
+ARTCC low boundary:CTR_PROVENCE:
+ARTCC low boundary:CTR_QUIMPER-PLUGUFFAN:
+ARTCC low boundary:CTR_REIMS-CHAMPAGNE:
+ARTCC low boundary:CTR_RENNES-SAINT-JACQUES:
+ARTCC low boundary:CTR_RODEZ-MARCILLAC:
+ARTCC low boundary:CTR_SAINT-ETIENNE-BOUTHEON:
+ARTCC low boundary:CTR_SAINT-NAZAIRE:
+ARTCC low boundary:CTR_STRASBOURG:
+ARTCC low boundary:CTR_TOULOUSE-BLAGNAC:
+ARTCC low boundary:CTR_TOULOUSE-FRANCAZAL:
+ARTCC low boundary:CTR_TOURS-VAL-DE-LOIRE:
+ARTCC low boundary:CTR_VALENCE:
+ARTCC low boundary:TMA_AJACCIO:
+ARTCC low boundary:TMA_AQUITAINE:
+ARTCC low boundary:TMA_AVORD:
+ARTCC low boundary:TMA_BALE-MULHOUSE:
+ARTCC low boundary:TMA_BASTIA:
+ARTCC low boundary:TMA_BEAUVAIS:
+ARTCC low boundary:TMA_BIARRITZ:
+ARTCC low boundary:TMA_CAMBRAI:
+ARTCC low boundary:TMA_CHAMBERY:
+ARTCC low boundary:TMA_CLERMONT--FERRAND:
+ARTCC low boundary:TMA_COLMAR:
+ARTCC low boundary:TMA_DEAUVILLE:
+ARTCC low boundary:TMA_DIJON:
+ARTCC low boundary:TMA_GENEVE:
+ARTCC low boundary:TMA_IROISE:
+ARTCC low boundary:TMA_LA-ROCHELLE:
+ARTCC low boundary:TMA_LILLE:
+ARTCC low boundary:TMA_LIMOGES:
+ARTCC low boundary:TMA_LORIENT:
+ARTCC low boundary:TMA_LUXEMBOURG:
+ARTCC low boundary:TMA_LUXEUIL:
+ARTCC low boundary:TMA_LYON:
+ARTCC low boundary:TMA_METZ:
+ARTCC low boundary:TMA_MONTPELLIER:
+ARTCC low boundary:TMA_MONTPELLIER_SUD:
+ARTCC low boundary:TMA_NANCY:
+ARTCC low boundary:TMA_NANTES:
+ARTCC low boundary:TMA_NICE:
+ARTCC low boundary:TMA_ORLEANS:
+ARTCC low boundary:TMA_PARIS:
+ARTCC low boundary:TMA_PERPIGNAN:
+ARTCC low boundary:TMA_POITIERS:
+ARTCC low boundary:TMA_PROVENCE:
+ARTCC low boundary:TMA_PYRENEES:
+ARTCC low boundary:TMA_REIMS:
+ARTCC low boundary:TMA_RENNES:
+ARTCC low boundary:TMA_RODEZ:
+ARTCC low boundary:TMA_ROUEN:
+ARTCC low boundary:TMA_SAINT-DIZIER:
+ARTCC low boundary:TMA_SAINT-ETIENNE:
+ARTCC low boundary:TMA_STRASBOURG:
+ARTCC low boundary:TMA_TOULOUSE:
+ARTCC low boundary:TMA_TOURS:
+Free Text:LFPO Gates\B15:freetext
+Free Text:LFPO Gates\C02:freetext
+Free Text:LFPO Gates\C04:freetext
+Free Text:LFPO Gates\C06:freetext
+Free Text:LFPO Gates\C08:freetext
+Free Text:LFPO Gates\C16:freetext
+Free Text:LFPO Gates\D02:freetext
+Free Text:LFPO Gates\D04:freetext
+Free Text:LFPO Gates\D06:freetext
+Free Text:LFPO Gates\D08:freetext
+Free Text:LFPO Gates\E01:freetext
+Free Text:LFPO Gates\E02:freetext
+Free Text:LFPO Gates\E03:freetext
+Free Text:LFPO Gates\E04:freetext
+Free Text:LFPO Gates\E05:freetext
+Free Text:LFPO Gates\E06:freetext
+Free Text:LFPO Gates\E07:freetext
+Free Text:LFPO Gates\E08:freetext
+Free Text:LFPO Gates\E09:freetext
+Free Text:LFPO Gates\E0A:freetext
+Free Text:LFPO Gates\F04:freetext
+Free Text:LFPO Gates\F10:freetext
+Free Text:LFPO Gates\F20:freetext
+Free Text:LFPO Gates\F30:freetext
+Free Text:LFPO Gates\FRET:freetext
+Free Text:LFPO Gates\G04:freetext
+Free Text:LFPO Gates\G05:freetext
+Free Text:LFPO Gates\G06:freetext
+Free Text:LFPO Gates\G07:freetext
+Free Text:LFPO Gates\G73:freetext
+Free Text:LFPO Gates\G74:freetext
+Free Text:LFPO Gates\G75:freetext
+Free Text:LFPO Gates\HANGAR N2:freetext
+Free Text:LFPO Gates\HANGAR N3:freetext
+Free Text:LFPO Gates\HANGAR N5:freetext
+Free Text:LFPO Gates\HANGAR N7:freetext
+Free Text:LFPO Gates\HANGAR N8:freetext
+Free Text:LFPO Gates\K01:freetext
+Free Text:LFPO Gates\K03:freetext
+Free Text:LFPO Gates\K05:freetext
+Free Text:LFPO Gates\K07:freetext
+Free Text:LFPO Gates\K18:freetext
+Free Text:LFPO Gates\K19:freetext
+Free Text:LFPO Gates\K20:freetext
+Free Text:LFPO Gates\K30:freetext
+Free Text:LFPO Gates\K31:freetext
+Free Text:LFPO Gates\K32:freetext
+Free Text:LFPO Gates\K33:freetext
+Free Text:LFPO Gates\K34:freetext
+Free Text:LFPO Gates\K35:freetext
+Free Text:LFPO Gates\K36:freetext
+Free Text:LFPO Gates\K37:freetext
+Free Text:LFPO Gates\K37b:freetext
+Free Text:LFPO Gates\K38:freetext
+Free Text:LFPO Gates\K39:freetext
+Free Text:LFPO Gates\K40:freetext
+Free Text:LFPO Gates\K41:freetext
+Free Text:LFPO Gates\K42:freetext
+Free Text:LFPO Gates\K43:freetext
+Free Text:LFPO Gates\K51:freetext
+Free Text:LFPO Gates\K52:freetext
+Free Text:LFPO Gates\K53:freetext
+Free Text:LFPO Gates\M01:freetext
+Free Text:LFPO Gates\M02:freetext
+Free Text:LFPO Gates\M03:freetext
+Free Text:LFPO Gates\M04:freetext
+Free Text:LFPO Gates\M05:freetext
+Free Text:LFPO Gates\M06:freetext
+Free Text:LFPO Gates\N05:freetext
+Free Text:LFPO Gates\N06:freetext
+Free Text:LFPO Gates\N10:freetext
+Free Text:LFPO Gates\N12:freetext
+Free Text:LFPO Gates\N20:freetext
+Free Text:LFPO Gates\N28(A380):freetext
+Free Text:LFPO Gates\N30:freetext
+Free Text:LFPO Gates\N34:freetext
+Free Text:LFPO Gates\N40:freetext
+Free Text:LFPO Gates\N58(A380):freetext
+Free Text:LFPO Gates\OUEST:freetext
+Free Text:LFPO Gates\P01:freetext
+Free Text:LFPO Gates\P03:freetext
+Free Text:LFPO Gates\P11:freetext
+Free Text:LFPO Gates\P12:freetext
+Free Text:LFPO Gates\P41:freetext
+Free Text:LFPO Gates\R22:freetext
+Free Text:LFPO Gates\S04:freetext
+Free Text:LFPO Gates\S24:freetext
+Free Text:LFPO Gates\S26:freetext
+Free Text:LFPO Gates\SUD:freetext
+Free Text:LFPO Gates\T03:freetext
+Free Text:LFPO Gates\T26:freetext
+Free Text:LFPO Gates\T27:freetext
+Free Text:LFPO Gates\T28:freetext
+Free Text:LFPO Gates\T30:freetext
+Free Text:LFPO Gates\T31:freetext
+Free Text:LFPO Gates\T32:freetext
+Free Text:LFPO Gates\T9:freetext
+Free Text:LFPO Gates\TERMINAL:freetext
+Free Text:LFPO Gates\TERMINAL:freetext
+Free Text:LFPO Gates\TERMINAL:freetext
+Free Text:LFPO Gates\U04:freetext
+Free Text:LFPO Gates\U05:freetext
+Free Text:LFPO Gates\V06:freetext
+Free Text:LFPO Gates\V37:freetext
+Free Text:LFPO Gates\V38:freetext
+Free Text:LFPO Gates\V39:freetext
+Free Text:LFPO Taxiways\K:freetext
+Free Text:LFPO Taxiways\L1:freetext
+Free Text:LFPO Taxiways\L2:freetext
+Free Text:LFPO Taxiways\L3:freetext
+Free Text:LFPO Taxiways\L4:freetext
+Free Text:LFPO Taxiways\L42:freetext
+Free Text:LFPO Taxiways\L43:freetext
+Free Text:LFPO Taxiways\L44:freetext
+Free Text:LFPO Taxiways\LB:freetext
+Free Text:LFPO Taxiways\LC:freetext
+Free Text:LFPO Taxiways\LF:freetext
+Free Text:LFPO Taxiways\LG:freetext
+Free Text:LFPO Taxiways\LGN:freetext
+Free Text:LFPO Taxiways\LJ:freetext
+Free Text:LFPO Taxiways\LJN:freetext
+Free Text:LFPO Taxiways\LJS:freetext
+Free Text:LFPO Taxiways\LM:freetext
+Free Text:LFPO Taxiways\LN:freetext
+Free Text:LFPO Taxiways\LNA:freetext
+Free Text:LFPO Taxiways\LP:freetext
+Free Text:LFPO Taxiways\LR:freetext
+Free Text:LFPO Taxiways\LRA:freetext
+Free Text:LFPO Taxiways\LS:freetext
+Free Text:LFPO Taxiways\LT:freetext
+Free Text:LFPO Taxiways\LU:freetext
+Free Text:LFPO Taxiways\LZ:freetext
+Free Text:LFPO Taxiways\W1:freetext
+Free Text:LFPO Taxiways\W1:freetext
+Free Text:LFPO Taxiways\W1:freetext
+Free Text:LFPO Taxiways\W1:freetext
+Free Text:LFPO Taxiways\W1:freetext
+Free Text:LFPO Taxiways\W1:freetext
+Free Text:LFPO Taxiways\W2:freetext
+Free Text:LFPO Taxiways\W2:freetext
+Free Text:LFPO Taxiways\W2:freetext
+Free Text:LFPO Taxiways\W2:freetext
+Free Text:LFPO Taxiways\W21:freetext
+Free Text:LFPO Taxiways\W22:freetext
+Free Text:LFPO Taxiways\W23:freetext
+Free Text:LFPO Taxiways\W28:freetext
+Free Text:LFPO Taxiways\W3:freetext
+Free Text:LFPO Taxiways\W3:freetext
+Free Text:LFPO Taxiways\W31:freetext
+Free Text:LFPO Taxiways\W31:freetext
+Free Text:LFPO Taxiways\W32:freetext
+Free Text:LFPO Taxiways\W34:freetext
+Free Text:LFPO Taxiways\W35:freetext
+Free Text:LFPO Taxiways\W36:freetext
+Free Text:LFPO Taxiways\W36:freetext
+Free Text:LFPO Taxiways\W37:freetext
+Free Text:LFPO Taxiways\W4:freetext
+Free Text:LFPO Taxiways\W41:freetext
+Free Text:LFPO Taxiways\W42:freetext
+Free Text:LFPO Taxiways\W43:freetext
+Free Text:LFPO Taxiways\W44:freetext
+Free Text:LFPO Taxiways\W45:freetext
+Free Text:LFPO Taxiways\W46:freetext
+Free Text:LFPO Taxiways\W47:freetext
+Free Text:LFPO Taxiways\W47:freetext
+Free Text:LFPO Taxiways\W47:freetext
+Free Text:LFPO Taxiways\W47:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Free Text:LFPO Taxiways\X:freetext
+Regions:LFPO_AVISO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:48.713546:2.314978:48.743299:2.401453
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:LFPO
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:394
+PLUGIN:vSMR:SRW1BottomRightY:369
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:111
+PLUGIN:vSMR:SRW1OffsetY:-24
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:0
+PLUGIN:vSMR:SRW1TopLeftY:180
+PLUGIN:vSMR:SRW2BottomRightX:1365
+PLUGIN:vSMR:SRW2BottomRightY:655
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:829
+PLUGIN:vSMR:SRW2TopLeftY:555

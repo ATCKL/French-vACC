@@ -1,0 +1,6 @@
+VOICE
+AG:Ajaccio Approach:121.050:voice1.vatfrance.org:lfkj_app
+AG:Ajaccio Tower:118.070:voice1.vatfrance.org:lfkj_twr
+AG:Ajaccio Ground:121.700:voice1.vatfrance.org:lfkj_gnd
+AG:Ajaccio ATIS:126.920:voice1.vatfrance.org:lfkj_atis
+END

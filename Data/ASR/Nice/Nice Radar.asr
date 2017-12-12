@@ -1,0 +1,318 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+Airports:LFMC:name
+Airports:LFMC:symbol
+Airports:LFMD:name
+Airports:LFMD:symbol
+Airports:LFMF:name
+Airports:LFMF:symbol
+Airports:LFTF:name
+Airports:LFTF:symbol
+Airports:LFTH:name
+Airports:LFTH:symbol
+Airports:LFTZ:name
+Airports:LFTZ:symbol
+ARTCC boundary:TMA_NICE:
+ARTCC boundary:TMA_PROVENCE:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTR_CANNES:
+ARTCC low boundary:CTR_NICE:
+Fixes:ABDIL:name
+Fixes:ABDIL:symbol
+Fixes:ABILI:name
+Fixes:ABILI:symbol
+Fixes:ABLAK:name
+Fixes:ABLAK:symbol
+Fixes:AMFOU:name
+Fixes:AMFOU:symbol
+Fixes:AMGEL:name
+Fixes:AMGEL:symbol
+Fixes:AMIRO:name
+Fixes:AMIRO:symbol
+Fixes:ARDEG:name
+Fixes:ARDEG:symbol
+Fixes:BADET:name
+Fixes:BADET:symbol
+Fixes:BADOD:name
+Fixes:BADOD:symbol
+Fixes:BADPO:name
+Fixes:BADPO:symbol
+Fixes:BALSI:name
+Fixes:BALSI:symbol
+Fixes:BARAT:name
+Fixes:BARAT:symbol
+Fixes:BARSO:name
+Fixes:BARSO:symbol
+Fixes:BASIP:name
+Fixes:BASIP:symbol
+Fixes:BIRGO:name
+Fixes:BIRGO:symbol
+Fixes:BISBO:name
+Fixes:BISBO:symbol
+Fixes:BODRU:name
+Fixes:BODRU:symbol
+Fixes:BORDI:name
+Fixes:BORDI:symbol
+Fixes:BORGO:name
+Fixes:BORGO:symbol
+Fixes:CALAN:name
+Fixes:CALAN:symbol
+Fixes:DIBER:name
+Fixes:DIBER:symbol
+Fixes:DOLIV:name
+Fixes:DOLIV:symbol
+Fixes:DOTIG:name
+Fixes:DOTIG:symbol
+Fixes:EPOLO:name
+Fixes:EPOLO:symbol
+Fixes:ETAKI:name
+Fixes:ETAKI:symbol
+Fixes:GAPDO:name
+Fixes:GAPDO:symbol
+Fixes:GILON:name
+Fixes:GILON:symbol
+Fixes:GIROL:name
+Fixes:GIROL:symbol
+Fixes:KABOB:name
+Fixes:KABOB:symbol
+Fixes:KERIT:name
+Fixes:KERIT:symbol
+Fixes:KESAK:name
+Fixes:KESAK:symbol
+Fixes:KURIR:name
+Fixes:KURIR:symbol
+Fixes:LANKO:name
+Fixes:LANKO:symbol
+Fixes:LATAM:name
+Fixes:LATAM:symbol
+Fixes:LERGA:name
+Fixes:LERGA:symbol
+Fixes:LERMA:name
+Fixes:LERMA:symbol
+Fixes:LONSU:name
+Fixes:LONSU:symbol
+Fixes:LUMIX:name
+Fixes:LUMIX:symbol
+Fixes:MAREN:name
+Fixes:MAREN:symbol
+Fixes:MARRI:name
+Fixes:MARRI:symbol
+Fixes:MERLU:name
+Fixes:MERLU:symbol
+Fixes:MIKRU:name
+Fixes:MIKRU:symbol
+Fixes:MOTUR:name
+Fixes:MOTUR:symbol
+Fixes:NERAS:name
+Fixes:NERAS:symbol
+Fixes:NISAR:name
+Fixes:NISAR:symbol
+Fixes:OKTET:name
+Fixes:OKTET:symbol
+Fixes:OMARD:name
+Fixes:OMARD:symbol
+Fixes:OSKIL:name
+Fixes:OSKIL:symbol
+Fixes:OTROT:name
+Fixes:OTROT:symbol
+Fixes:PERUS:name
+Fixes:PERUS:symbol
+Fixes:PIRAM:name
+Fixes:PIRAM:symbol
+Fixes:POMEG:name
+Fixes:POMEG:symbol
+Fixes:RESBO:name
+Fixes:RESBO:symbol
+Fixes:RHONE:name
+Fixes:RHONE:symbol
+Fixes:RI104:name
+Fixes:RI104:symbol
+Fixes:RIKPO:name
+Fixes:RIKPO:symbol
+Fixes:RUBAS:name
+Fixes:RUBAS:symbol
+Fixes:RUBIT:name
+Fixes:RUBIT:symbol
+Fixes:SALIN:name
+Fixes:SALIN:symbol
+Fixes:SAURG:name
+Fixes:SAURG:symbol
+Fixes:SODRI:name
+Fixes:SODRI:symbol
+Fixes:SOSUR:name
+Fixes:SOSUR:symbol
+Fixes:SUBIL:name
+Fixes:SUBIL:symbol
+Fixes:TINOT:name
+Fixes:TINOT:symbol
+Fixes:TURIL:name
+Fixes:TURIL:symbol
+Fixes:USANO:name
+Fixes:USANO:symbol
+Fixes:VAREK:name
+Fixes:VAREK:symbol
+Fixes:VEDIK:name
+Fixes:VEDIK:symbol
+Fixes:VENTA:name
+Fixes:VENTA:symbol
+Fixes:VEVAR:name
+Fixes:VEVAR:symbol
+Fixes:XIRBI:name
+Fixes:XIRBI:symbol
+Fixes:ZEBRA:name
+Fixes:ZEBRA:symbol
+Free Text:P62 TOULON\FL195:freetext
+Free Text:P63 ILE DU LEVANT\FL195:freetext
+Geo:CoastLine:
+Geo:LFMD:
+Geo:LFMN:
+Geo:LFTF:
+Geo:LFTH:
+Geo:LFTZ:
+Geo:Political Boundaries:
+Geo:ZONE_P62:
+Geo:ZONE_P63:
+NDBs:MUS:name
+NDBs:MUS:symbol
+NDBs:NC:name
+NDBs:NC:symbol
+Runways:LFMD 17-35:extended centerline 1
+Runways:LFMD 17-35:extended centerline 1 left base
+Runways:LFMD 17-35:extended centerline 1 left ticks
+Runways:LFMD 17-35:extended centerline 1 left vectoring
+Runways:LFMD 17-35:extended centerline 1 right base
+Runways:LFMD 17-35:extended centerline 1 right ticks
+Runways:LFMD 17-35:extended centerline 1 right vectoring
+Runways:LFMD 17-35:extended centerline 2
+Runways:LFMD 17-35:extended centerline 2 left base
+Runways:LFMD 17-35:extended centerline 2 left ticks
+Runways:LFMD 17-35:extended centerline 2 left vectoring
+Runways:LFMD 17-35:extended centerline 2 right base
+Runways:LFMD 17-35:extended centerline 2 right ticks
+Runways:LFMD 17-35:extended centerline 2 right vectoring
+Runways:LFMD 17L-35R:extended centerline 1
+Runways:LFMD 17L-35R:extended centerline 1 left base
+Runways:LFMD 17L-35R:extended centerline 1 left ticks
+Runways:LFMD 17L-35R:extended centerline 1 left vectoring
+Runways:LFMD 17L-35R:extended centerline 1 right base
+Runways:LFMD 17L-35R:extended centerline 1 right ticks
+Runways:LFMD 17L-35R:extended centerline 1 right vectoring
+Runways:LFMD 17L-35R:extended centerline 2
+Runways:LFMD 17L-35R:extended centerline 2 left base
+Runways:LFMD 17L-35R:extended centerline 2 left ticks
+Runways:LFMD 17L-35R:extended centerline 2 left vectoring
+Runways:LFMD 17L-35R:extended centerline 2 right base
+Runways:LFMD 17L-35R:extended centerline 2 right ticks
+Runways:LFMD 17L-35R:extended centerline 2 right vectoring
+Runways:LFMN 04L-22R:extended centerline 1
+Runways:LFMN 04L-22R:extended centerline 1 left base
+Runways:LFMN 04L-22R:extended centerline 1 left ticks
+Runways:LFMN 04L-22R:extended centerline 1 left vectoring
+Runways:LFMN 04L-22R:extended centerline 1 right base
+Runways:LFMN 04L-22R:extended centerline 1 right ticks
+Runways:LFMN 04L-22R:extended centerline 1 right vectoring
+Runways:LFMN 04L-22R:extended centerline 2
+Runways:LFMN 04L-22R:extended centerline 2 left base
+Runways:LFMN 04L-22R:extended centerline 2 left ticks
+Runways:LFMN 04L-22R:extended centerline 2 left vectoring
+Runways:LFMN 04L-22R:extended centerline 2 right base
+Runways:LFMN 04L-22R:extended centerline 2 right ticks
+Runways:LFMN 04L-22R:extended centerline 2 right vectoring
+Runways:LFMN 04R-22L:extended centerline 1
+Runways:LFMN 04R-22L:extended centerline 1 left base
+Runways:LFMN 04R-22L:extended centerline 1 left ticks
+Runways:LFMN 04R-22L:extended centerline 1 left vectoring
+Runways:LFMN 04R-22L:extended centerline 1 right base
+Runways:LFMN 04R-22L:extended centerline 1 right ticks
+Runways:LFMN 04R-22L:extended centerline 1 right vectoring
+Runways:LFMN 04R-22L:extended centerline 2
+Runways:LFMN 04R-22L:extended centerline 2 left base
+Runways:LFMN 04R-22L:extended centerline 2 left ticks
+Runways:LFMN 04R-22L:extended centerline 2 left vectoring
+Runways:LFMN 04R-22L:extended centerline 2 right base
+Runways:LFMN 04R-22L:extended centerline 2 right ticks
+Runways:LFMN 04R-22L:extended centerline 2 right vectoring
+Runways:LFTH 05-23:extended centerline 1
+Runways:LFTH 05-23:extended centerline 1 left base
+Runways:LFTH 05-23:extended centerline 1 left ticks
+Runways:LFTH 05-23:extended centerline 1 left vectoring
+Runways:LFTH 05-23:extended centerline 1 right base
+Runways:LFTH 05-23:extended centerline 1 right ticks
+Runways:LFTH 05-23:extended centerline 1 right vectoring
+Runways:LFTH 05-23:extended centerline 2
+Runways:LFTH 05-23:extended centerline 2 left base
+Runways:LFTH 05-23:extended centerline 2 left ticks
+Runways:LFTH 05-23:extended centerline 2 left vectoring
+Runways:LFTH 05-23:extended centerline 2 right base
+Runways:LFTH 05-23:extended centerline 2 right ticks
+Runways:LFTH 05-23:extended centerline 2 right vectoring
+Runways:LFTH 13-31:extended centerline 1
+Runways:LFTH 13-31:extended centerline 1 left base
+Runways:LFTH 13-31:extended centerline 1 left ticks
+Runways:LFTH 13-31:extended centerline 1 left vectoring
+Runways:LFTH 13-31:extended centerline 1 right base
+Runways:LFTH 13-31:extended centerline 1 right ticks
+Runways:LFTH 13-31:extended centerline 1 right vectoring
+Runways:LFTH 13-31:extended centerline 2
+Runways:LFTH 13-31:extended centerline 2 left base
+Runways:LFTH 13-31:extended centerline 2 left ticks
+Runways:LFTH 13-31:extended centerline 2 left vectoring
+Runways:LFTH 13-31:extended centerline 2 right base
+Runways:LFTH 13-31:extended centerline 2 right ticks
+Runways:LFTH 13-31:extended centerline 2 right vectoring
+Runways:LFTZ 06-24:extended centerline 1
+Runways:LFTZ 06-24:extended centerline 1 left base
+Runways:LFTZ 06-24:extended centerline 1 left ticks
+Runways:LFTZ 06-24:extended centerline 1 left vectoring
+Runways:LFTZ 06-24:extended centerline 1 right base
+Runways:LFTZ 06-24:extended centerline 1 right ticks
+Runways:LFTZ 06-24:extended centerline 1 right vectoring
+Runways:LFTZ 06-24:extended centerline 2
+Runways:LFTZ 06-24:extended centerline 2 left base
+Runways:LFTZ 06-24:extended centerline 2 left ticks
+Runways:LFTZ 06-24:extended centerline 2 left vectoring
+Runways:LFTZ 06-24:extended centerline 2 right base
+Runways:LFTZ 06-24:extended centerline 2 right ticks
+Runways:LFTZ 06-24:extended centerline 2 right vectoring
+VORs:CGS:name
+VORs:CGS:symbol
+VORs:LUC:name
+VORs:LUC:symbol
+VORs:NIZ:name
+VORs:NIZ:symbol
+VORs:STP:name
+VORs:STP:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:42.695790:4.496579:44.483326:9.691957
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

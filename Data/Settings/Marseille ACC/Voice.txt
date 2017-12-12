@@ -1,0 +1,14 @@
+VOICE
+AG:Marseille Control:126.150:voice1.vatfrance.org:lfmm_ctr
+AG:Marseille Control West:128.320:voice1.vatfrance.org:lfmm_w_ctr
+AG:Marseille Upper Control:125.850:voice1.vatfrance.org:lfmm_u_ctr
+AG:Ajaccio ATIS:126.920:voice1.vatfrance.org:lfkj_atis
+AG:Cannes ATIS:126.470:voice1.vatfrance.org:lfmd_atis
+AG:Chambery ATIS:127.100:voice1.vatfrance.org:lflb_atis
+AG:Clermont ATIS:126.400:voice1.vatfrance.org:lflc_atis
+AG:Lyon ATIS:135.220:voice1.vatfrance.org:lfll_atis
+AG:Provence ATIS:125.350:voice1.vatfrance.org:lfml_atis
+AG:Montpellier ATIS:124.120:voice1.vatfrance.org:lfmt_atis
+AG:Nice ATIS:129.600:voice1.vatfrance.org:lfmn_atis
+AG:Perpignion ATIS:127.670:voice1.vatfrance.org:lfmp_atis
+END

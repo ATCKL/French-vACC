@@ -1,0 +1,8 @@
+VOICE
+AG:Bordeaux Control :125.100:voice1.vatfrance.org:lfbb_ctr
+AG:Bordeaux Upper Control :135.900:voice1.vatfrance.org:lfbb_u_ctr
+AG:Biarritz ATIS:128.220:voice1.vatfrance.org:lfbz_atis
+AG:Bordeaux ATIS:131.150:voice1.vatfrance.org:lfbd_atis
+AG:Tarbes ATIS:125.950:voice1.vatfrance.org:lfbt_atis
+AG:Toulouse  ATIS:118.020:voice1.vatfrance.org:lfbo_atis
+END

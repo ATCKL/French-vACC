@@ -1,0 +1,15 @@
+VOICE
+AG:De Gaulle Final Director:119.850:voice1.vatfrance.org:lfpg_f_app
+AG:De Gaulle Approach:125.82:voice1.vatfrance.org:lfpg_app
+AG:De Gaulle South Approach:126.420:voice1.vatfrance.org:lfpg_s_app
+AG:De Gaulle Tower South:120.900:voice1.vatfrance.org:lfpg_s_twr
+AG:De Gaulle Tower:119.250:voice1.vatfrance.org:lfpg_twr
+AG:De Gaulle Ground:121.600:voice1.vatfrance.org:lfpg_gnd
+AG:De Gaulle Ground South:121.800:voice1.vatfrance.org:lfpg_s_gnd
+AG:De Gaulle Delivery:126.650:voice1.vatfrance.org:lfpg_del
+AG:De Gaulle Delivery South:121.720:voice1.vatfrance.org:lfpg_s_del
+AG:De Gaulle Departures:133.370:voice1.vatfrance.org:lfpg_dep
+AG:De Gaulle Departures North:124.500:voice1.vatfrance.org:lfpg_n_dep
+AG:De Gaulle ATIS:118.020:voice1.vatfrance.org:lfpg_atis
+AG:Orly ATIS:128.500:voice1.vatfrance.org:lfpo_atis
+END

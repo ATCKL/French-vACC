@@ -1,0 +1,9 @@
+VOICE
+AG:Nice Approach:134.470:voice1.vatfrance.org:lfmn_app
+AG:Nice Departures:130.820:voice1.vatfrance.org:lfmn_dep
+AG:Nice Final Director:124.170:voice1.vatfrance.org:lfmn_f_app
+AG:Nice Tower:118.700:voice1.vatfrance.org:lfmn_twr
+AG:Nice Ground:121.770:voice1.vatfrance.org:lfmn_gnd
+AG:Nice Delivery:121.700:voice1.vatfrance.org:lfmn_del
+AG:Nice ATIS:129.600:voice1.vatfrance.org:lfmn_atis
+END

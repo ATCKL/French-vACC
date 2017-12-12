@@ -1,0 +1,146 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+Airports:LFBR:name
+Airports:LFBR:symbol
+Airports:LFDG:name
+Airports:LFDG:symbol
+Airports:LFIT:name
+Airports:LFIT:symbol
+ARTCC boundary:TMA_TOULOUSE:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTR_TOULOUSE-BLAGNAC:
+Fixes:AFRIC:name
+Fixes:AFRIC:symbol
+Fixes:AMOLO:name
+Fixes:AMOLO:symbol
+Fixes:ANETO:name
+Fixes:ANETO:symbol
+Fixes:CI14R:name
+Fixes:CI14R:symbol
+Fixes:CI32L:name
+Fixes:CI32L:symbol
+Fixes:DEPES:name
+Fixes:DEPES:symbol
+Fixes:FINOT:name
+Fixes:FINOT:symbol
+Fixes:FISTO:name
+Fixes:FISTO:symbol
+Fixes:LACOU:name
+Fixes:LACOU:symbol
+Fixes:LURAN:name
+Fixes:LURAN:symbol
+Fixes:NARAK:name
+Fixes:NARAK:symbol
+Fixes:OVDIL:name
+Fixes:OVDIL:symbol
+Fixes:PUMAL:name
+Fixes:PUMAL:symbol
+Fixes:SOVAR:name
+Fixes:SOVAR:symbol
+Free Text:LFBO Points VFR\EA:freetext
+Free Text:LFBO Points VFR\EA:freetext
+Free Text:LFBO Points VFR\EB:freetext
+Free Text:LFBO Points VFR\EB:freetext
+Free Text:LFBO Points VFR\EN:freetext
+Free Text:LFBO Points VFR\EN:freetext
+Free Text:LFBO Points VFR\N:freetext
+Free Text:LFBO Points VFR\N:freetext
+Free Text:LFBO Points VFR\NA:freetext
+Free Text:LFBO Points VFR\NA:freetext
+Free Text:LFBO Points VFR\SA:freetext
+Free Text:LFBO Points VFR\SA:freetext
+Free Text:LFBO Points VFR\SB:freetext
+Free Text:LFBO Points VFR\SB:freetext
+Free Text:LFBO Points VFR\SL:freetext
+Free Text:LFBO Points VFR\SL:freetext
+Free Text:LFBO Points VFR\SN:freetext
+Free Text:LFBO Points VFR\SN:freetext
+Free Text:LFBO Points VFR\WD:freetext
+Free Text:LFBO Points VFR\WD:freetext
+Free Text:LFBO Points VFR\WF:freetext
+Free Text:LFBO Points VFR\WF:freetext
+Free Text:LFBO Points VFR\WH:freetext
+Free Text:LFBO Points VFR\WH:freetext
+Geo:CoastLine:
+Geo:LFBF:
+Geo:LFBO:
+Geo:LFCL:
+Geo:Political Boundaries:
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14L-32R:extended centerline 1
+Runways:LFBO 14L-32R:extended centerline 1 left base
+Runways:LFBO 14L-32R:extended centerline 1 left ticks
+Runways:LFBO 14L-32R:extended centerline 1 left vectoring
+Runways:LFBO 14L-32R:extended centerline 1 right base
+Runways:LFBO 14L-32R:extended centerline 1 right ticks
+Runways:LFBO 14L-32R:extended centerline 1 right vectoring
+Runways:LFBO 14L-32R:extended centerline 2
+Runways:LFBO 14L-32R:extended centerline 2 left base
+Runways:LFBO 14L-32R:extended centerline 2 left ticks
+Runways:LFBO 14L-32R:extended centerline 2 left vectoring
+Runways:LFBO 14L-32R:extended centerline 2 right base
+Runways:LFBO 14L-32R:extended centerline 2 right ticks
+Runways:LFBO 14L-32R:extended centerline 2 right vectoring
+Runways:LFBO 14L-32R:name
+Runways:LFBO 14R-32L:centerline
+Runways:LFBO 14R-32L:extended centerline 1
+Runways:LFBO 14R-32L:extended centerline 1 left base
+Runways:LFBO 14R-32L:extended centerline 1 left ticks
+Runways:LFBO 14R-32L:extended centerline 1 left vectoring
+Runways:LFBO 14R-32L:extended centerline 1 right base
+Runways:LFBO 14R-32L:extended centerline 1 right ticks
+Runways:LFBO 14R-32L:extended centerline 1 right vectoring
+Runways:LFBO 14R-32L:extended centerline 2
+Runways:LFBO 14R-32L:extended centerline 2 left base
+Runways:LFBO 14R-32L:extended centerline 2 left ticks
+Runways:LFBO 14R-32L:extended centerline 2 left vectoring
+Runways:LFBO 14R-32L:extended centerline 2 right base
+Runways:LFBO 14R-32L:extended centerline 2 right ticks
+Runways:LFBO 14R-32L:extended centerline 2 right vectoring
+Runways:LFBO 14R-32L:name
+VORs:AGN:name
+VORs:AGN:symbol
+VORs:GAI:name
+VORs:GAI:symbol
+VORs:LMB:name
+VORs:LMB:symbol
+VORs:MEN:name
+VORs:MEN:symbol
+VORs:TBO:name
+VORs:TBO:symbol
+VORs:TOU:name
+VORs:TOU:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:43.252954:0.606479:43.847844:2.335495
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

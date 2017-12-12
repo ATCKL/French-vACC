@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:LFMA_TWR:50:4
+ATIS2:Milles Tower/Tour. EN/FR.
+ATIS3:Squawk mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+END

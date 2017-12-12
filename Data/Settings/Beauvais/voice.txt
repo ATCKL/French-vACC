@@ -1,0 +1,4 @@
+VOICE
+AG:Beauvais Approach:119.900:voice1.vatfrance.org:lfob_app
+AG:Beauvais Tower:121.400:voice1.vatfrance.org:lfob_twr
+END

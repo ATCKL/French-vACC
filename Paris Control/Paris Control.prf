@@ -1,0 +1,41 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Paris ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Paris ACC\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Paris ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Paris ACC\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Paris ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Paris ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	SettingsfileVCCS	French ACC\Data\VCCS.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+ASRFastKeys	1	French ACC\Data\ASR\Center\Paris ACC.asr
+ASRFastKeys	2	French ACC\Data\ASR\Paris CDG\De Gaulle vSMR.asr
+ASRFastKeys	3	French ACC\Data\ASR\Paris ORLY\Orly vSMR.asr
+ASRFastKeys	4	French ACC\Data\ASR\Beauvais\Beauvais SMR.asr
+ASRFastKeys	5	French ACC\Data\ASR\Lille\Lille SMR.asr
+RecentFiles	Recent1	French ACC\Data\ASR\Center\Paris ACC.asr
+RecentFiles	Recent2	French ACC\Data\ASR\Lille\Lille SMR.asr
+RecentFiles	Recent3	French ACC\Data\ASR\Beauvais\Beauvais SMR.asr
+RecentFiles	Recent4	French ACC\Data\ASR\Paris ORLY\Orly vSMR.asr
+RecentFiles	Recent5	French ACC\Data\ASR\Paris CDG\De Gaulle vSMR.asr
+LastSession	connecttype	0
+LastSession	callsign	CK_OBS
+LastSession	facility	0
+LastSession	rating	4
+LastSession	tovatsim	1
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	realname	Chriss Klosowski
+LastSession	certificate	1306415
+LastSession	password	vLkhR5RI
+LastSession	server	SINGAPORE
+Settings	AselKey	5111808
+Settings	FreqKey	3604480

@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:LFRR_CTR:300:6
+ATIS2:Brest Control / Contrôle. EN/FR.
+ATIS3:Covering North West of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+PROFILE:LFRR_U_CTR:300:6
+ATIS2:Brest Upper Control / Contrôle. EN/FR.
+ATIS3:Covering North West of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+END

@@ -1,0 +1,5 @@
+VOICE
+AG:Brest Approach:135.820:voice1.vatfrance.org:lfrb_app
+AG:Brest Tower:120.100:voice1.vatfrance.org:lfrb_twr
+AG:Brest ATIS:129.350:voice1.vatfrance.org:lfrb_atis
+END

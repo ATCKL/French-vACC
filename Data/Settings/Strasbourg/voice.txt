@@ -1,0 +1,6 @@
+VOICE
+AG:Strasbourg Approach:119.450:voice1.vatfrance.org:lfst_app
+AG:Strasbourg Tower:126.870:voice1.vatfrance.org:lfst_twr
+AG:Strasbourg Ground:121.800:voice1.vatfrance.org:lfst_gnd
+AG:Strasbourg ATIS:128.920:voice1.vatfrance.org:lfst_atis
+END

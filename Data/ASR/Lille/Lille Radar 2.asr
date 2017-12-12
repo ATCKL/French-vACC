@@ -1,0 +1,85 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_LILLE:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTR_LILLE-LESQUIN:
+Fixes:BARLI:name
+Fixes:BARLI:symbol
+Fixes:DENIN:name
+Fixes:DENIN:symbol
+Fixes:IBERU:name
+Fixes:IBERU:symbol
+Fixes:MATIX:name
+Fixes:MATIX:symbol
+Fixes:TRACA:name
+Fixes:TRACA:symbol
+Free Text:LFQQ Points VFR\N :freetext
+Free Text:LFQQ Points VFR\SA :freetext
+Free Text:LFQQ Points VFR\SE :freetext
+Free Text:LFQQ Points VFR\SW :freetext
+Free Text:LFQQ Points VFR\W:freetext
+Geo:CoastLine:
+Geo:LFQQ:
+Geo:Political Boundaries:
+NDBs:LL:name
+NDBs:LL:symbol
+Runways:LFQQ 02-20:centerline
+Runways:LFQQ 02-20:extended centerline 1
+Runways:LFQQ 02-20:extended centerline 1 left base
+Runways:LFQQ 02-20:extended centerline 1 left ticks
+Runways:LFQQ 02-20:extended centerline 1 left vectoring
+Runways:LFQQ 02-20:extended centerline 1 right base
+Runways:LFQQ 02-20:extended centerline 1 right ticks
+Runways:LFQQ 02-20:extended centerline 1 right vectoring
+Runways:LFQQ 02-20:extended centerline 2
+Runways:LFQQ 02-20:extended centerline 2 left base
+Runways:LFQQ 02-20:extended centerline 2 left ticks
+Runways:LFQQ 02-20:extended centerline 2 left vectoring
+Runways:LFQQ 02-20:extended centerline 2 right base
+Runways:LFQQ 02-20:extended centerline 2 right ticks
+Runways:LFQQ 02-20:extended centerline 2 right vectoring
+Runways:LFQQ 02-20:name
+Runways:LFQQ 08-26:centerline
+Runways:LFQQ 08-26:extended centerline 1
+Runways:LFQQ 08-26:extended centerline 1 left base
+Runways:LFQQ 08-26:extended centerline 1 left ticks
+Runways:LFQQ 08-26:extended centerline 1 left vectoring
+Runways:LFQQ 08-26:extended centerline 1 right base
+Runways:LFQQ 08-26:extended centerline 1 right ticks
+Runways:LFQQ 08-26:extended centerline 1 right vectoring
+Runways:LFQQ 08-26:extended centerline 2
+Runways:LFQQ 08-26:extended centerline 2 left base
+Runways:LFQQ 08-26:extended centerline 2 left ticks
+Runways:LFQQ 08-26:extended centerline 2 left vectoring
+Runways:LFQQ 08-26:extended centerline 2 right base
+Runways:LFQQ 08-26:extended centerline 2 right ticks
+Runways:LFQQ 08-26:extended centerline 2 right vectoring
+Runways:LFQQ 08-26:name
+VORs:ABB:name
+VORs:ABB:symbol
+VORs:BNE:name
+VORs:BNE:symbol
+VORs:CIV:name
+VORs:CIV:symbol
+VORs:CMB:name
+VORs:CMB:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:50.148298:1.952316:50.981013:4.254966

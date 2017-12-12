@@ -1,0 +1,6 @@
+VOICE
+AG:Bordeaux Approach:119.270:voice1.vatfrance.org:lfbd_app
+AG:Bordeaux Tower:118.300:voice1.vatfrance.org:lfbd_twr
+AG:Bordeaux Ground:121.900:voice1.vatfrance.org:lfbd_gnd
+AG:Bordeaux ATIS:131.150:voice1.vatfrance.org:lfbd_atis
+END

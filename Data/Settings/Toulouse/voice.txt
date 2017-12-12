@@ -1,0 +1,8 @@
+VOICE
+AG:Toulouse-Blagnac Approach:129.300:voice1.vatfrance.org:lfbo_app
+AG:Toulouse-Blagnac West Approach:125.170:voice1.vatfrance.org:lfbo_w_app
+AG:Toulouse-Blagnac Tower:118.100:voice1.vatfrance.org:lfbo_twr
+AG:Toulouse-Blagnac Ground:121.900:voice1.vatfrance.org:lfbo_gnd
+AG:Toulouse-Blagnac Delivery:121.700:voice1.vatfrance.org:lfbo_del
+AG:Toulouse-Blagnac ATIS:118.020:voice1.vatfrance.org:lfbo_atis
+END

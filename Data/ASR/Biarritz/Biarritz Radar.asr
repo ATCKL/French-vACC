@@ -1,0 +1,147 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_BIARRITZ-BAYONNE-ANGLET:
+ARTCC boundary:TMA_BIARRITZ:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+Fixes:BAKTA:name
+Fixes:BAKTA:symbol
+Fixes:BIDAC:name
+Fixes:BIDAC:symbol
+Fixes:CI27:name
+Fixes:CI27:symbol
+Fixes:DONOS:name
+Fixes:DONOS:symbol
+Fixes:ENSAC:name
+Fixes:ENSAC:symbol
+Fixes:MAGEC:name
+Fixes:MAGEC:symbol
+Fixes:MONOX:name
+Fixes:MONOX:symbol
+Fixes:ORTEZ:name
+Fixes:ORTEZ:symbol
+Fixes:OSGOT:name
+Fixes:OSGOT:symbol
+Fixes:RILON:name
+Fixes:RILON:symbol
+Fixes:SIGOS:name
+Fixes:SIGOS:symbol
+Fixes:SOSTO:name
+Fixes:SOSTO:symbol
+Fixes:SOVOS:name
+Fixes:SOVOS:symbol
+Free Text:LFBZ Points VFR\BG :freetext
+Free Text:LFBZ Points VFR\E:freetext
+Free Text:LFBZ Points VFR\NA :freetext
+Free Text:LFBZ Points VFR\NC:freetext
+Free Text:LFBZ Points VFR\NE :freetext
+Free Text:LFBZ Points VFR\NP:freetext
+Free Text:LFBZ Points VFR\S :freetext
+Free Text:LFBZ Points VFR\SB :freetext
+Free Text:LFBZ Points VFR\SE :freetext
+Free Text:LFBZ Points VFR\SH:freetext
+Free Text:LFBZ Points VFR\SW :freetext
+Free Text:LFBZ_AMSR\2000:freetext
+Free Text:LFBZ_AMSR\2500:freetext
+Free Text:LFBZ_AMSR\3000:freetext
+Free Text:LFBZ_AMSR\3000:freetext
+Free Text:LFBZ_AMSR\4000:freetext
+Free Text:LFBZ_AMSR\4200:freetext
+Free Text:LFBZ_AMSR\5000:freetext
+Free Text:LFBZ_AMSR\5800:freetext
+Free Text:LFBZ_AMSR\6000:freetext
+Free Text:LFBZ_AMSR\7300:freetext
+Free Text:LFBZ_AMSR\7500:freetext
+Free Text:LFBZ_AMSR\9700:freetext
+Geo:CoastLine:
+Geo:LFBZ:
+Geo:LFBZ_AMSR:
+Geo:Political Boundaries:
+NDBs:BZ:name
+NDBs:BZ:symbol
+Runways:LFBP 13-31:centerline
+Runways:LFBP 13-31:extended centerline 1
+Runways:LFBP 13-31:extended centerline 1 left base
+Runways:LFBP 13-31:extended centerline 1 left ticks
+Runways:LFBP 13-31:extended centerline 1 left vectoring
+Runways:LFBP 13-31:extended centerline 1 right base
+Runways:LFBP 13-31:extended centerline 1 right ticks
+Runways:LFBP 13-31:extended centerline 1 right vectoring
+Runways:LFBP 13-31:extended centerline 2
+Runways:LFBP 13-31:extended centerline 2 left base
+Runways:LFBP 13-31:extended centerline 2 left ticks
+Runways:LFBP 13-31:extended centerline 2 left vectoring
+Runways:LFBP 13-31:extended centerline 2 right base
+Runways:LFBP 13-31:extended centerline 2 right ticks
+Runways:LFBP 13-31:extended centerline 2 right vectoring
+Runways:LFBP 13-31:name
+Runways:LFBY 08-26:centerline
+Runways:LFBY 08-26:extended centerline 1
+Runways:LFBY 08-26:extended centerline 1 left base
+Runways:LFBY 08-26:extended centerline 1 left ticks
+Runways:LFBY 08-26:extended centerline 1 left vectoring
+Runways:LFBY 08-26:extended centerline 1 right base
+Runways:LFBY 08-26:extended centerline 1 right ticks
+Runways:LFBY 08-26:extended centerline 1 right vectoring
+Runways:LFBY 08-26:extended centerline 2
+Runways:LFBY 08-26:extended centerline 2 left base
+Runways:LFBY 08-26:extended centerline 2 left ticks
+Runways:LFBY 08-26:extended centerline 2 left vectoring
+Runways:LFBY 08-26:extended centerline 2 right base
+Runways:LFBY 08-26:extended centerline 2 right ticks
+Runways:LFBY 08-26:extended centerline 2 right vectoring
+Runways:LFBY 08-26:name
+Runways:LFBZ 09-27:centerline
+Runways:LFBZ 09-27:extended centerline 1
+Runways:LFBZ 09-27:extended centerline 1 left base
+Runways:LFBZ 09-27:extended centerline 1 left ticks
+Runways:LFBZ 09-27:extended centerline 1 left vectoring
+Runways:LFBZ 09-27:extended centerline 1 right base
+Runways:LFBZ 09-27:extended centerline 1 right ticks
+Runways:LFBZ 09-27:extended centerline 1 right vectoring
+Runways:LFBZ 09-27:extended centerline 2
+Runways:LFBZ 09-27:extended centerline 2 left base
+Runways:LFBZ 09-27:extended centerline 2 left ticks
+Runways:LFBZ 09-27:extended centerline 2 left vectoring
+Runways:LFBZ 09-27:extended centerline 2 right base
+Runways:LFBZ 09-27:extended centerline 2 right ticks
+Runways:LFBZ 09-27:extended centerline 2 right vectoring
+Runways:LFBZ 09-27:name
+Stars:LFBZ/09/BIDA5M:
+Stars:LFBZ/09/BIDA5R:
+Stars:LFBZ/09/DONO5M:
+Stars:LFBZ/09/DONO5R:
+Stars:LFBZ/09/MAGE5M:
+Stars:LFBZ/09/MAGE5R:
+VORs:SSN:name
+VORs:SSN:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:43.211188:-2.500904:43.903536:-0.488632
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

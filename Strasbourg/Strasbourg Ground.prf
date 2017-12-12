@@ -1,0 +1,18 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Paris ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Strasbourg\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Paris ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Strasbourg\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Paris ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Paris ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+ASRFastKeys	1	French ACC\Data\ASR\Strasbourg\Strasbourg SMR.asr
+RecentFiles	Recent1	French ACC\Data\ASR\Strasbourg\Strasbourg SMR.asr

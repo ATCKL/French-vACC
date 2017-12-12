@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:LFML_APP:100:5
+ATIS2:Marseille-Provence Approach / Approache. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFML_S_APP:100:5
+ATIS2:Marseille-Provence South Approach / Approache. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFML_TWR:50:4
+ATIS2:Marseille-Provence Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFML_GND:25:3
+ATIS2:Marseille-Provence Ground / Sol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFML_DEL:25:2
+ATIS2:Marseille-Provence Delivery / Prevol. EN/FR.
+ATIS3:Report Stand Number and Aircraft Type on initial contact!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

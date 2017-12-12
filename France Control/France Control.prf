@@ -1,0 +1,46 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\France Control\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\France Control\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\France Control\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\France Control\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\France Control\General.txt
+Settings	SettingsfileARR	French ACC\Data\Settings\France Control\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Settings\France Control\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Settings\France Control\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Settings\France Control\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Settings\France Control\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\France Control\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\LFUPAlias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+RecentFiles	Recent1	French ACC\Data\ASR\Center\France ACC.asr
+TeamSpeakVccs	TsVccsMiniControlX	1046
+TeamSpeakVccs	TsVccsMiniControlY	24
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	French ACC\Data\ASR\Center\France ACC.asr
+LastSession	connecttype	0
+LastSession	callsign	LFUP_CTR
+LastSession	facility	6
+LastSession	rating	4
+LastSession	tovatsim	1
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	realname	Chriss Klosowski
+LastSession	certificate	1306415
+LastSession	password	vLkhR5RI
+LastSession	server	SINGAPORE
+Settings	SettingsfileVCCS	French ACC\Data\Settings\France Control\General.txt
+LastSession	atis2	France Control / Contrôle. EN/FR.
+LastSession	atis3	Covering the whole of France (LFBB, LFMM, LFRR, LFFF, LFEE) Above FL245
+LastSession	atis4	Report Altitude, position and aircraft type on initial contact.
+Voice	input_hardware	DirectSound - Microphone (3- SADES Wolfang)
+Voice	output_hardware	DirectSound - Speakers (3- SADES Wolfang)
+Voice	output_hardware2	DirectSound - Speakers (3- SADES Wolfang)
+Voice	input_hardware2	DirectSound - Microphone (3- SADES Wolfang)
+Voice	PPPT	18677760
+Voice	SPPT	3538944
+Plugins	Plugin0	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen

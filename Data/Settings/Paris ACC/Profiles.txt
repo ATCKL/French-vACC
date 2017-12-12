@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:LFFF_CTR:300:6
+ATIS2:Paris Control / Contrôle. EN/FR.
+ATIS3:Covering North East of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+PROFILE:LFFF_E_CTR:300:6
+ATIS2:Paris Control East / Contrôle. EN/FR.
+ATIS3:Covering the East sector of Paris FIR.
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+PROFILE:LFFF_W_CTR:300:6
+ATIS2:Paris Control West / Contrôle. EN/FR.
+ATIS3:Covering the West sector of Paris FIR.
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+PROFILE:LFFF_U_CTR:300:6
+ATIS2:Paris Upper Control / Contrôle. EN/FR.
+ATIS3:Covering North East of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+END

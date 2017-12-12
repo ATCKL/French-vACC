@@ -1,0 +1,90 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_LYON-BRON:
+ARTCC boundary:CTR_LYON-SAINT-EXUPERY:
+ARTCC boundary:TMA_LYON:
+ARTCC high boundary:FIR_MARSEILLE:
+Fixes:ALURA:name
+Fixes:ALURA:symbol
+Fixes:ARBON:name
+Fixes:ARBON:symbol
+Fixes:BELEP:name
+Fixes:BELEP:symbol
+Fixes:BELUS:name
+Fixes:BELUS:symbol
+Fixes:BUSIL:name
+Fixes:BUSIL:symbol
+Fixes:GOMET:name
+Fixes:GOMET:symbol
+Fixes:MABES:name
+Fixes:MABES:symbol
+Fixes:MOKIP:name
+Fixes:MOKIP:symbol
+Fixes:MURRO:name
+Fixes:MURRO:symbol
+Fixes:REPSI:name
+Fixes:REPSI:symbol
+Fixes:RISOR:name
+Fixes:RISOR:symbol
+Fixes:ROMAM:name
+Fixes:ROMAM:symbol
+Fixes:TALAR:name
+Fixes:TALAR:symbol
+Fixes:VIRIE:name
+Fixes:VIRIE:symbol
+Free Text:LFLL Points VFR\EA :freetext
+Free Text:LFLL Points VFR\MS :freetext
+Free Text:LFLL Points VFR\N :freetext
+Free Text:LFLL Points VFR\NA :freetext
+Free Text:LFLL Points VFR\NW :freetext
+Free Text:LFLL Points VFR\S :freetext
+Free Text:LFLL Points VFR\SA:freetext
+Free Text:LFLL Points VFR\TE :freetext
+Free Text:LFLL Points VFR\TW :freetext
+Geo:CoastLine:
+Geo:LFLL:
+Geo:LFLL_AMSR:
+Geo:LFLY:
+Geo:Political Boundaries:
+NDBs:EB:name
+NDBs:EB:symbol
+VORs:LTP:name
+VORs:LTP:symbol
+VORs:LUC:name
+VORs:LUC:symbol
+VORs:MOU:name
+VORs:MOU:symbol
+VORs:MTL:name
+VORs:MTL:symbol
+VORs:VNE:name
+VORs:VNE:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:45.515840:4.242915:46.092905:5.852676
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:1
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

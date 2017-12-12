@@ -1,0 +1,31 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Marseille ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Lyon\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Marseille ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Lyon\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Marseille ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Marseille ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+RecentFiles	Recent1	French ACC\Data\ASR\Lyon–Saint-Exupéry\Lyon SMR.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	1	French ACC\Data\ASR\Lyon–Saint-Exupéry\Lyon SMR.asr
+LastSession	connecttype	0
+LastSession	callsign	LFLL_APP
+LastSession	facility	5
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Lyon Approach / Approache. EN/FR.
+LastSession	atis3	Report Callsign, Aircraft type and Altitude on Initial Contact.
+LastSession	atis4	Charts @ VATFRANCE.org/PilotBrief
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

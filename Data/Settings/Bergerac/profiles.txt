@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:LFBE_TWR:50:4
+ATIS2:Bergerac Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the Ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

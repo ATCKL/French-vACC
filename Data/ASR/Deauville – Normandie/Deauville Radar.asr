@@ -1,0 +1,97 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_DEAUVILLE:
+Fixes:PIKUP:name
+Fixes:PIKUP:symbol
+Free Text:LFRK Gates\1:freetext
+Free Text:LFRK Gates\10:freetext
+Free Text:LFRK Gates\11:freetext
+Free Text:LFRK Gates\2:freetext
+Free Text:LFRK Gates\3:freetext
+Free Text:LFRK Gates\4:freetext
+Free Text:LFRK Gates\5:freetext
+Free Text:LFRK Gates\6:freetext
+Free Text:LFRK Gates\7:freetext
+Free Text:LFRK Gates\8:freetext
+Free Text:LFRK Gates\9:freetext
+Free Text:LFRK Points VFR\EK :freetext
+Free Text:LFRK Points VFR\EY :freetext
+Free Text:LFRK Points VFR\NK :freetext
+Free Text:LFRK Points VFR\NW :freetext
+Free Text:LFRK Points VFR\SA :freetext
+Free Text:LFRK Points VFR\SE :freetext
+Free Text:LFRK Points VFR\SK :freetext
+Free Text:LFRK Points VFR\SW:freetext
+Free Text:LFRK Points VFR\WK :freetext
+Geo:CoastLine:
+Geo:LFRG:
+Geo:LFRK:
+Runways:LFRG 12-30:extended centerline 1
+Runways:LFRG 12-30:extended centerline 1 left base
+Runways:LFRG 12-30:extended centerline 1 left ticks
+Runways:LFRG 12-30:extended centerline 1 left vectoring
+Runways:LFRG 12-30:extended centerline 1 right base
+Runways:LFRG 12-30:extended centerline 1 right ticks
+Runways:LFRG 12-30:extended centerline 1 right vectoring
+Runways:LFRG 12-30:extended centerline 2
+Runways:LFRG 12-30:extended centerline 2 left base
+Runways:LFRG 12-30:extended centerline 2 left ticks
+Runways:LFRG 12-30:extended centerline 2 left vectoring
+Runways:LFRG 12-30:extended centerline 2 right base
+Runways:LFRG 12-30:extended centerline 2 right ticks
+Runways:LFRG 12-30:extended centerline 2 right vectoring
+Runways:LFRK 13-31:centerline
+Runways:LFRK 13-31:extended centerline 1
+Runways:LFRK 13-31:extended centerline 1 left base
+Runways:LFRK 13-31:extended centerline 1 left ticks
+Runways:LFRK 13-31:extended centerline 1 left vectoring
+Runways:LFRK 13-31:extended centerline 1 right base
+Runways:LFRK 13-31:extended centerline 1 right ticks
+Runways:LFRK 13-31:extended centerline 1 right vectoring
+Runways:LFRK 13-31:extended centerline 2
+Runways:LFRK 13-31:extended centerline 2 left base
+Runways:LFRK 13-31:extended centerline 2 left ticks
+Runways:LFRK 13-31:extended centerline 2 left vectoring
+Runways:LFRK 13-31:extended centerline 2 right base
+Runways:LFRK 13-31:extended centerline 2 right ticks
+Runways:LFRK 13-31:extended centerline 2 right vectoring
+Runways:LFRK 13-31:name
+Runways:LFRK 13L-31R:centerline
+Runways:LFRK 13L-31R:extended centerline 1
+Runways:LFRK 13L-31R:extended centerline 1 left base
+Runways:LFRK 13L-31R:extended centerline 1 left ticks
+Runways:LFRK 13L-31R:extended centerline 1 left vectoring
+Runways:LFRK 13L-31R:extended centerline 1 right base
+Runways:LFRK 13L-31R:extended centerline 1 right ticks
+Runways:LFRK 13L-31R:extended centerline 1 right vectoring
+Runways:LFRK 13L-31R:extended centerline 2
+Runways:LFRK 13L-31R:extended centerline 2 left base
+Runways:LFRK 13L-31R:extended centerline 2 left ticks
+Runways:LFRK 13L-31R:extended centerline 2 left vectoring
+Runways:LFRK 13L-31R:extended centerline 2 right base
+Runways:LFRK 13L-31R:extended centerline 2 right ticks
+Runways:LFRK 13L-31R:extended centerline 2 right vectoring
+Runways:LFRK 13L-31R:name
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:EVX:name
+VORs:EVX:symbol
+VORs:LGL:name
+VORs:LGL:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.317781:0.048079:49.407193:0.295324

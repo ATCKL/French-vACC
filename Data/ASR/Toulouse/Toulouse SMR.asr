@@ -1,0 +1,193 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\France.sct
+SECTORTITLE:France.sct
+Airports:LFBF:name
+Airports:LFBF:symbol
+Airports:LFCL:name
+Airports:LFCL:symbol
+ARTCC boundary:TMA_TOULOUSE:
+Free Text:LFBO Gates\A10:freetext
+Free Text:LFBO Gates\A12:freetext
+Free Text:LFBO Gates\A13:freetext
+Free Text:LFBO Gates\A14:freetext
+Free Text:LFBO Gates\A15:freetext
+Free Text:LFBO Gates\A20:freetext
+Free Text:LFBO Gates\A22:freetext
+Free Text:LFBO Gates\A23:freetext
+Free Text:LFBO Gates\A24:freetext
+Free Text:LFBO Gates\A25:freetext
+Free Text:LFBO Gates\B10:freetext
+Free Text:LFBO Gates\B12:freetext
+Free Text:LFBO Gates\B13:freetext
+Free Text:LFBO Gates\B14:freetext
+Free Text:LFBO Gates\BIKINI:freetext
+Free Text:LFBO Gates\C.ADER:freetext
+Free Text:LFBO Gates\C1:freetext
+Free Text:LFBO Gates\C2:freetext
+Free Text:LFBO Gates\C3:freetext
+Free Text:LFBO Gates\C4:freetext
+Free Text:LFBO Gates\D10:freetext
+Free Text:LFBO Gates\D12:freetext
+Free Text:LFBO Gates\D20:freetext
+Free Text:LFBO Gates\D21:freetext
+Free Text:LFBO Gates\D22:freetext
+Free Text:LFBO Gates\E10:freetext
+Free Text:LFBO Gates\E20:freetext
+Free Text:LFBO Gates\E21:freetext
+Free Text:LFBO Gates\E30:freetext
+Free Text:LFBO Gates\E40:freetext
+Free Text:LFBO Gates\E42:freetext
+Free Text:LFBO Gates\E50:freetext
+Free Text:LFBO Gates\E52:freetext
+Free Text:LFBO Gates\E54:freetext
+Free Text:LFBO Gates\E60:freetext
+Free Text:LFBO Gates\E62:freetext
+Free Text:LFBO Gates\F40:freetext
+Free Text:LFBO Gates\F42:freetext
+Free Text:LFBO Gates\G1:freetext
+Free Text:LFBO Gates\G2:freetext
+Free Text:LFBO Gates\G20:freetext
+Free Text:LFBO Gates\G21:freetext
+Free Text:LFBO Gates\G22:freetext
+Free Text:LFBO Gates\G3:freetext
+Free Text:LFBO Gates\G4:freetext
+Free Text:LFBO Gates\G5:freetext
+Free Text:LFBO Gates\G6:freetext
+Free Text:LFBO Gates\G7:freetext
+Free Text:LFBO Gates\G9:freetext
+Free Text:LFBO Gates\K10-F10:freetext
+Free Text:LFBO Gates\K12-F12:freetext
+Free Text:LFBO Gates\K21-F21:freetext
+Free Text:LFBO Gates\K30-F30:freetext
+Free Text:LFBO Gates\K32-F32:freetext
+Free Text:LFBO Gates\LANDES:freetext
+Free Text:LFBO Gates\M1:freetext
+Free Text:LFBO Gates\M2:freetext
+Free Text:LFBO Gates\MORVAN:freetext
+Free Text:LFBO Gates\PYRENEES:freetext
+Free Text:LFBO Gates\QUERCY:freetext
+Free Text:LFBO Gates\TARN:freetext
+Free Text:LFBO Gates\U10:freetext
+Free Text:LFBO Gates\U12:freetext
+Free Text:LFBO Gates\U20:freetext
+Free Text:LFBO Gates\U22:freetext
+Free Text:LFBO Gates\U30:freetext
+Free Text:LFBO Gates\U32:freetext
+Free Text:LFBO Gates\U40:freetext
+Free Text:LFBO Gates\U42:freetext
+Free Text:LFBO Gates\V10:freetext
+Free Text:LFBO Gates\VENDEE:freetext
+Free Text:LFBO Taxiways\M10:freetext
+Free Text:LFBO Taxiways\M11:freetext
+Free Text:LFBO Taxiways\M2:freetext
+Free Text:LFBO Taxiways\M4:freetext
+Free Text:LFBO Taxiways\M8:freetext
+Free Text:LFBO Taxiways\N1:freetext
+Free Text:LFBO Taxiways\N2:freetext
+Free Text:LFBO Taxiways\N4:freetext
+Free Text:LFBO Taxiways\N6:freetext
+Free Text:LFBO Taxiways\N8:freetext
+Free Text:LFBO Taxiways\P10:freetext
+Free Text:LFBO Taxiways\P10:freetext
+Free Text:LFBO Taxiways\P100:freetext
+Free Text:LFBO Taxiways\P101:freetext
+Free Text:LFBO Taxiways\P20:freetext
+Free Text:LFBO Taxiways\P40:freetext
+Free Text:LFBO Taxiways\P50:freetext
+Free Text:LFBO Taxiways\P55:freetext
+Free Text:LFBO Taxiways\P60:freetext
+Free Text:LFBO Taxiways\P65:freetext
+Free Text:LFBO Taxiways\P70:freetext
+Free Text:LFBO Taxiways\P90:freetext
+Free Text:LFBO Taxiways\S10:freetext
+Free Text:LFBO Taxiways\S11:freetext
+Free Text:LFBO Taxiways\S2:freetext
+Free Text:LFBO Taxiways\S20:freetext
+Free Text:LFBO Taxiways\S3:freetext
+Free Text:LFBO Taxiways\S30:freetext
+Free Text:LFBO Taxiways\S4:freetext
+Free Text:LFBO Taxiways\S40:freetext
+Free Text:LFBO Taxiways\S50:freetext
+Free Text:LFBO Taxiways\S6:freetext
+Free Text:LFBO Taxiways\S60:freetext
+Free Text:LFBO Taxiways\S8:freetext
+Free Text:LFBO Taxiways\T10:freetext
+Free Text:LFBO Taxiways\T11:freetext
+Free Text:LFBO Taxiways\T12:freetext
+Free Text:LFBO Taxiways\T40:freetext
+Free Text:LFBO Taxiways\T50:freetext
+Free Text:LFBO Taxiways\T55:freetext
+Free Text:LFBO Taxiways\T60:freetext
+Free Text:LFBO Taxiways\T65:freetext
+Free Text:LFBO Taxiways\T70:freetext
+Free Text:LFBO Taxiways\W100:freetext
+Free Text:LFBO Taxiways\W20:freetext
+Free Text:LFBO Taxiways\W30:freetext
+Free Text:LFBO Taxiways\W40:freetext
+Free Text:LFBO Taxiways\W50:freetext
+Free Text:LFBO Taxiways\W60:freetext
+Free Text:LFBO Taxiways\W80:freetext
+Geo:CoastLine:
+Geo:LFBO:
+Geo:Political Boundaries:
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14L-32R:extended centerline 1
+Runways:LFBO 14L-32R:extended centerline 1 left base
+Runways:LFBO 14L-32R:extended centerline 1 left ticks
+Runways:LFBO 14L-32R:extended centerline 1 left vectoring
+Runways:LFBO 14L-32R:extended centerline 1 right base
+Runways:LFBO 14L-32R:extended centerline 1 right ticks
+Runways:LFBO 14L-32R:extended centerline 1 right vectoring
+Runways:LFBO 14L-32R:extended centerline 2
+Runways:LFBO 14L-32R:extended centerline 2 left base
+Runways:LFBO 14L-32R:extended centerline 2 left ticks
+Runways:LFBO 14L-32R:extended centerline 2 left vectoring
+Runways:LFBO 14L-32R:extended centerline 2 right base
+Runways:LFBO 14L-32R:extended centerline 2 right ticks
+Runways:LFBO 14L-32R:extended centerline 2 right vectoring
+Runways:LFBO 14L-32R:name
+Runways:LFBO 14R-32L:centerline
+Runways:LFBO 14R-32L:extended centerline 1
+Runways:LFBO 14R-32L:extended centerline 1 left base
+Runways:LFBO 14R-32L:extended centerline 1 left ticks
+Runways:LFBO 14R-32L:extended centerline 1 left vectoring
+Runways:LFBO 14R-32L:extended centerline 1 right base
+Runways:LFBO 14R-32L:extended centerline 1 right ticks
+Runways:LFBO 14R-32L:extended centerline 1 right vectoring
+Runways:LFBO 14R-32L:extended centerline 2
+Runways:LFBO 14R-32L:extended centerline 2 left base
+Runways:LFBO 14R-32L:extended centerline 2 left ticks
+Runways:LFBO 14R-32L:extended centerline 2 left vectoring
+Runways:LFBO 14R-32L:extended centerline 2 right base
+Runways:LFBO 14R-32L:extended centerline 2 right ticks
+Runways:LFBO 14R-32L:extended centerline 2 right vectoring
+Runways:LFBO 14R-32L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:35.00000
+TAGFAMILY:AC
+WINDOWAREA:43.609113:1.335804:43.658366:1.383521
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:640
+PLUGIN:Virtual Controller Assistant:CDYPOS:21
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

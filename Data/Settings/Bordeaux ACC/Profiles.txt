@@ -1,0 +1,10 @@
+PROFILE
+PROFILE:LFBB_CTR:300:6
+ATIS2:Bordeaux Control / Contrôle. EN/FR.
+ATIS3:Covering South West of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+PROFILE:LFBB_U_CTR:300:6
+ATIS2:Bordeaux Upper Control / Contrôle. EN/FR.
+ATIS3:Covering South West of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+END

@@ -1,0 +1,60 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Marseille ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Marseille ACC\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Marseille ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Marseille ACC\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Marseille ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Marseille ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+ASRFastKeys	1	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille ACC.asr
+ASRFastKeys	2	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille ACC 2.asr
+ASRFastKeys	3	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille ACC 3.asr
+ASRFastKeys	4	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Nice\Nice SMR.asr
+ASRFastKeys	5	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Montpellier\Montpellier SMR.asr
+RecentFiles	Recent1	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille ACC.asr
+RecentFiles	Recent2	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Nice\Nice SMR.asr
+RecentFiles	Recent3	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille ACC 3.asr
+RecentFiles	Recent4	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille ACC 2.asr
+RecentFiles	Recent5	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Marseille\Provence SMR.asr
+LastSession	connecttype	0
+LastSession	callsign	LFMM_CTR
+LastSession	facility	6
+LastSession	rating	4
+LastSession	tovatsim	1
+LastSession	atis2	Marseille Control / Contrôle. EN/FR.
+LastSession	atis3	Covering South East of France
+LastSession	atis4	Charts @ VATFRANCE.org/Pilotbrief
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	realname	Chriss Klosowski
+LastSession	certificate	1306415
+LastSession	password	vLkhR5RI
+LastSession	server	SINGAPORE
+Plugins	Plugin0	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Voice	input_hardware	DirectSound - Microphone (3- SADES Wolfang)
+Voice	output_hardware	DirectSound - Speakers (3- SADES Wolfang)
+Voice	input_hardware2	DirectSound - Microphone (3- SADES Wolfang)
+Voice	output_hardware2	DirectSound - Speakers (3- SADES Wolfang)
+Voice	PPPT	18677760
+Voice	SPPT	3538944
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+ASRFastKeys	6	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille 2.asr
+RecentFiles	Recent6	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Center\Marseille 2.asr
+LastSession	atis_airport	LFML
+LastSession	atis_letter	67
+RecentFiles	Recent7	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Montpellier\Montpellier SMR.asr
+RecentFiles	Recent8	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Lyon–Saint-Exupéry\Lyon SMR.asr
+Plugins	Plugin1	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\Plugins\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+RecentFiles	Recent9	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Lyon–Saint-Exupéry\Lyon SMR.asr

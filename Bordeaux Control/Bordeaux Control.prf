@@ -1,0 +1,41 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Bordeaux ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Bordeaux ACC\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Bordeaux ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Bordeaux ACC\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Bordeaux ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Bordeaux ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+ASRFastKeys	1	French ACC\Data\ASR\Center\Bordeaux ACC.asr
+ASRFastKeys	2	French ACC\Data\ASR\Bordeaux\Bordeaux SMR.asr
+ASRFastKeys	3	French ACC\Data\ASR\Toulouse\Toulouse SMR.asr
+ASRFastKeys	4	French ACC\Data\ASR\Biarritz\Biarritz SMR.asr
+ASRFastKeys	5	French ACC\Data\ASR\La Rochelle\Rochelle SMR.asr
+ASRFastKeys	6	French ACC\Data\ASR\Carcassonne\Carcassone SMR.asr
+RecentFiles	Recent1	French ACC\Data\ASR\Center\Bordeaux ACC.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+LastSession	connecttype	0
+LastSession	callsign	LFBB_CTR
+LastSession	facility	6
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Bordeaux Control / Contrôle. EN/FR.
+LastSession	atis3	Covering South West of France
+LastSession	atis4	Charts @ VATFRANCE.org/Pilotbrief
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent2	French ACC\Data\ASR\Carcassonne\Carcassone SMR.asr
+RecentFiles	Recent3	French ACC\Data\ASR\La Rochelle\Rochelle SMR.asr
+RecentFiles	Recent4	French ACC\Data\ASR\Biarritz\Biarritz SMR.asr
+RecentFiles	Recent5	French ACC\Data\ASR\Toulouse\Toulouse SMR.asr
+RecentFiles	Recent6	French ACC\Data\ASR\Bordeaux\Bordeaux SMR.asr

@@ -1,0 +1,165 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+Fixes:ABNUR:name
+Fixes:ABNUR:symbol
+Fixes:AKITO:name
+Fixes:AKITO:symbol
+Fixes:ARGED:name
+Fixes:ARGED:symbol
+Fixes:AVLON:name
+Fixes:AVLON:symbol
+Fixes:BAKIX:name
+Fixes:BAKIX:symbol
+Fixes:BALIR:name
+Fixes:BALIR:symbol
+Fixes:BANOX:name
+Fixes:BANOX:symbol
+Fixes:BELUS:name
+Fixes:BELUS:symbol
+Fixes:BIBAX:name
+Fixes:BIBAX:symbol
+Fixes:DENEL:name
+Fixes:DENEL:symbol
+Fixes:DEVIM:name
+Fixes:DEVIM:symbol
+Fixes:DINAN:name
+Fixes:DINAN:symbol
+Fixes:IBERA:name
+Fixes:IBERA:symbol
+Fixes:IRMAR:name
+Fixes:IRMAR:symbol
+Fixes:KEPER:name
+Fixes:KEPER:symbol
+Fixes:KESAX:name
+Fixes:KESAX:symbol
+Fixes:KOLIV:name
+Fixes:KOLIV:symbol
+Fixes:KOVAK:name
+Fixes:KOVAK:symbol
+Fixes:LATGO:name
+Fixes:LATGO:symbol
+Fixes:LIPNI:name
+Fixes:LIPNI:symbol
+Fixes:LIRKO:name
+Fixes:LIRKO:symbol
+Fixes:LISMO:name
+Fixes:LISMO:symbol
+Fixes:LORNI:name
+Fixes:LORNI:symbol
+Fixes:LUKIP:name
+Fixes:LUKIP:symbol
+Fixes:LUMEL:name
+Fixes:LUMEL:symbol
+Fixes:LUSAR:name
+Fixes:LUSAR:symbol
+Fixes:LUTAX:name
+Fixes:LUTAX:symbol
+Fixes:MATIX:name
+Fixes:MATIX:symbol
+Fixes:MEDOX:name
+Fixes:MEDOX:symbol
+Fixes:MIRGU:name
+Fixes:MIRGU:symbol
+Fixes:MOBRO:name
+Fixes:MOBRO:symbol
+Fixes:MOPAR:name
+Fixes:MOPAR:symbol
+Fixes:MOPIL:name
+Fixes:MOPIL:symbol
+Fixes:MOTOX:name
+Fixes:MOTOX:symbol
+Fixes:NERKI:name
+Fixes:NERKI:symbol
+Fixes:ODILO:name
+Fixes:ODILO:symbol
+Fixes:OKIPA:name
+Fixes:OKIPA:symbol
+Fixes:OMASI:name
+Fixes:OMASI:symbol
+Fixes:PHILI:symbol
+Fixes:PIPOR:name
+Fixes:PIPOR:symbol
+Fixes:SECHE:name
+Fixes:SECHE:symbol
+Fixes:SOMOS:name
+Fixes:SOMOS:symbol
+Fixes:URUNA:name
+Fixes:URUNA:symbol
+Fixes:VAGNA:name
+Fixes:VAGNA:symbol
+Geo:CoastLine:
+Geo:Political Boundaries:
+VORs:ABB:name
+VORs:ABB:symbol
+VORs:AGN:name
+VORs:AGN:symbol
+VORs:AMB:name
+VORs:AMB:symbol
+VORs:BLM:name
+VORs:BLM:symbol
+VORs:BNE:name
+VORs:BNE:symbol
+VORs:CFA:name
+VORs:CFA:symbol
+VORs:DJL:name
+VORs:DJL:symbol
+VORs:EPL:name
+VORs:EPL:symbol
+VORs:FJR:name
+VORs:FJR:symbol
+VORs:GTQ:name
+VORs:GTQ:symbol
+VORs:LMG:name
+VORs:LMG:symbol
+VORs:LUL:name
+VORs:LUL:symbol
+VORs:MEN:name
+VORs:MEN:symbol
+VORs:MMD:name
+VORs:MMD:symbol
+VORs:MOU:name
+VORs:MOU:symbol
+VORs:POI:name
+VORs:POI:symbol
+VORs:PPG:name
+VORs:PPG:symbol
+VORs:PPN:name
+VORs:PPN:symbol
+VORs:PTV:name
+VORs:PTV:symbol
+VORs:RLP:name
+SHOWC:1
+SHOWSB:0
+BELOW:24500
+ABOVE:60000
+LEADER:0
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC
+WINDOWAREA:38.483380:-16.445778:51.984495:21.216457
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:1316
+PLUGIN:Virtual Controller Assistant:CDYPOS:562
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:25
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:1

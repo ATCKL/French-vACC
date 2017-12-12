@@ -1,0 +1,27 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Bordeaux ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Toulouse\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Bordeaux ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Toulouse\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Bordeaux ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Bordeaux ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+ASRFastKeys	1	French ACC\Data\ASR\Toulouse\Toulouse Radar 2.asr
+ASRFastKeys	2	French ACC\Data\ASR\Toulouse\Toulouse SMR.asr
+RecentFiles	Recent1	French ACC\Data\ASR\Toulouse\Toulouse Radar 2.asr
+RecentFiles	Recent2	French ACC\Data\ASR\Toulouse\Toulouse SMR.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

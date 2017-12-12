@@ -1,0 +1,147 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:E:\Documents\EuroScope\Sectors\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_CLERMONT-FERRAND:
+ARTCC boundary:TMA_CLERMONT-FERRAND:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+Fixes:BELEP:name
+Fixes:BELEP:symbol
+Fixes:CACHI:name
+Fixes:CACHI:symbol
+Fixes:GERVA:name
+Fixes:GERVA:symbol
+Fixes:LERGA:name
+Fixes:LERGA:symbol
+Fixes:MEZIN:name
+Fixes:MEZIN:symbol
+Fixes:MINPA:name
+Fixes:MINPA:symbol
+Fixes:RISUN:name
+Fixes:RISUN:symbol
+Fixes:RIVEK:name
+Fixes:RIVEK:symbol
+Fixes:SOMTI:name
+Fixes:SOMTI:symbol
+Fixes:TITOX:name
+Fixes:TITOX:symbol
+Free Text:LFLC Gates\1:freetext
+Free Text:LFLC Gates\13:freetext
+Free Text:LFLC Gates\13:freetext
+Free Text:LFLC Gates\14:freetext
+Free Text:LFLC Gates\14:freetext
+Free Text:LFLC Gates\14:freetext
+Free Text:LFLC Gates\15:freetext
+Free Text:LFLC Gates\16:freetext
+Free Text:LFLC Gates\17:freetext
+Free Text:LFLC Gates\18:freetext
+Free Text:LFLC Gates\19:freetext
+Free Text:LFLC Gates\2:freetext
+Free Text:LFLC Gates\3:freetext
+Free Text:LFLC Gates\4:freetext
+Free Text:LFLC Gates\5:freetext
+Free Text:LFLC Gates\5:freetext
+Free Text:LFLC Gates\7:freetext
+Free Text:LFLC Gates\8:freetext
+Free Text:LFLC Points VFR\N :freetext
+Free Text:LFLC Points VFR\NA :freetext
+Free Text:LFLC Points VFR\NE:freetext
+Free Text:LFLC Points VFR\S :freetext
+Free Text:LFLC Points VFR\SA :freetext
+Free Text:LFLC Points VFR\SB :freetext
+Free Text:LFLC Points VFR\SE :freetext
+Free Text:LFLC Taxiways\C1:freetext
+Free Text:LFLC Taxiways\C1:freetext
+Free Text:LFLC Taxiways\C1:freetext
+Free Text:LFLC Taxiways\C1:freetext
+Free Text:LFLC Taxiways\C1:freetext
+Free Text:LFLC Taxiways\C1:freetext
+Free Text:LFLC Taxiways\C1:freetext
+Free Text:LFLC Taxiways\C4:freetext
+Free Text:LFLC Taxiways\D1:freetext
+Free Text:LFLC Taxiways\D4:freetext
+Free Text:LFLC Taxiways\T1:freetext
+Free Text:LFLC Taxiways\T2:freetext
+Free Text:LFLC Taxiways\T3:freetext
+Free Text:LFLC Taxiways\T3:freetext
+Free Text:LFLC Taxiways\T3:freetext
+Geo:CoastLine:
+Geo:LFLC:
+Geo:Political Boundaries:
+NDBs:EB:name
+NDBs:EB:symbol
+NDBs:VZ:name
+NDBs:VZ:symbol
+Runways:LFLC 01-19:centerline
+Runways:LFLC 01-19:extended centerline 1
+Runways:LFLC 01-19:extended centerline 1 left base
+Runways:LFLC 01-19:extended centerline 1 left ticks
+Runways:LFLC 01-19:extended centerline 1 left vectoring
+Runways:LFLC 01-19:extended centerline 1 right base
+Runways:LFLC 01-19:extended centerline 1 right ticks
+Runways:LFLC 01-19:extended centerline 1 right vectoring
+Runways:LFLC 01-19:extended centerline 2
+Runways:LFLC 01-19:extended centerline 2 left base
+Runways:LFLC 01-19:extended centerline 2 left ticks
+Runways:LFLC 01-19:extended centerline 2 left vectoring
+Runways:LFLC 01-19:extended centerline 2 right base
+Runways:LFLC 01-19:extended centerline 2 right ticks
+Runways:LFLC 01-19:extended centerline 2 right vectoring
+Runways:LFLC 01-19:name
+Runways:LFLC 08-26:centerline
+Runways:LFLC 08-26:extended centerline 1
+Runways:LFLC 08-26:extended centerline 1 left base
+Runways:LFLC 08-26:extended centerline 1 left ticks
+Runways:LFLC 08-26:extended centerline 1 left vectoring
+Runways:LFLC 08-26:extended centerline 1 right base
+Runways:LFLC 08-26:extended centerline 1 right ticks
+Runways:LFLC 08-26:extended centerline 1 right vectoring
+Runways:LFLC 08-26:extended centerline 2
+Runways:LFLC 08-26:extended centerline 2 left base
+Runways:LFLC 08-26:extended centerline 2 left ticks
+Runways:LFLC 08-26:extended centerline 2 left vectoring
+Runways:LFLC 08-26:extended centerline 2 right base
+Runways:LFLC 08-26:extended centerline 2 right ticks
+Runways:LFLC 08-26:extended centerline 2 right vectoring
+Runways:LFLC 08-26:name
+Runways:LFLC 08L-26R:centerline
+Runways:LFLC 08L-26R:extended centerline 1
+Runways:LFLC 08L-26R:extended centerline 1 left base
+Runways:LFLC 08L-26R:extended centerline 1 left ticks
+Runways:LFLC 08L-26R:extended centerline 1 left vectoring
+Runways:LFLC 08L-26R:extended centerline 1 right base
+Runways:LFLC 08L-26R:extended centerline 1 right ticks
+Runways:LFLC 08L-26R:extended centerline 1 right vectoring
+Runways:LFLC 08L-26R:extended centerline 2
+Runways:LFLC 08L-26R:extended centerline 2 left base
+Runways:LFLC 08L-26R:extended centerline 2 left ticks
+Runways:LFLC 08L-26R:extended centerline 2 left vectoring
+Runways:LFLC 08L-26R:extended centerline 2 right base
+Runways:LFLC 08L-26R:extended centerline 2 right ticks
+Runways:LFLC 08L-26R:extended centerline 2 right vectoring
+Runways:LFLC 08L-26R:name
+VORs:MOU:name
+VORs:MOU:symbol
+VORs:ROA:name
+VORs:ROA:symbol
+VORs:TIS:name
+VORs:TIS:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Jojo
+WINDOWAREA:45.775837:3.142855:45.797282:3.200237

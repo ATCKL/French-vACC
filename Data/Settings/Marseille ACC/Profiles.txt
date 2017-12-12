@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:LFMM_CTR:300:6
+ATIS2:Marseille Control / Contrôle. EN/FR.
+ATIS3:Covering South East of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+PROFILE:LFMM_U_CTR:300:6
+ATIS2:Marseille Upper Control / Contrôle. EN/FR.
+ATIS3:Covering South East of France
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+PROFILE:LFMM_E_CTR:300:6
+ATIS2:Marseille Control East / Contrôle. EN/FR.
+ATIS3:Covering the East sector of Marseille FIR.
+ATIS4:Charts @ VATFRANCE.org/Pilotbrief
+END

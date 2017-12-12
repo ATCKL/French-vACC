@@ -1,0 +1,158 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:CTR_AJACCIO:
+ARTCC boundary:CTR_FIGARI:
+ARTCC boundary:TMA_AJACCIO:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+Fixes:CORSI:name
+Fixes:CORSI:symbol
+Fixes:LIBLO:name
+Fixes:LIBLO:symbol
+Fixes:LONSU:name
+Fixes:LONSU:symbol
+Fixes:MERLU:name
+Fixes:MERLU:symbol
+Fixes:NEGAT:name
+Fixes:NEGAT:symbol
+Fixes:OLDES:name
+Fixes:OLDES:symbol
+Fixes:RUBAS:name
+Fixes:RUBAS:symbol
+Fixes:TEREZ:name
+Fixes:TEREZ:symbol
+Fixes:TINOT:name
+Fixes:TINOT:symbol
+Fixes:TORTU:name
+Fixes:TORTU:symbol
+Fixes:VAREK:name
+Fixes:VAREK:symbol
+Free Text:LFKF Gates\1:freetext
+Free Text:LFKF Gates\2:freetext
+Free Text:LFKF Gates\3:freetext
+Free Text:LFKF Gates\4:freetext
+Free Text:LFKF Points VFR\EF :freetext
+Free Text:LFKF Points VFR\NF :freetext
+Free Text:LFKF Points VFR\NWF :freetext
+Free Text:LFKF Points VFR\SAF :freetext
+Free Text:LFKF Points VFR\SF :freetext
+Free Text:LFKF Points VFR\WAF :freetext
+Free Text:LFKF Points VFR\WF :freetext
+Free Text:LFKJ AMSR\10000:freetext
+Free Text:LFKJ AMSR\11000:freetext
+Free Text:LFKJ AMSR\3000:freetext
+Free Text:LFKJ AMSR\4000:freetext
+Free Text:LFKJ AMSR\4000:freetext
+Free Text:LFKJ AMSR\6000:freetext
+Free Text:LFKJ AMSR\6600:freetext
+Free Text:LFKJ AMSR\8500:freetext
+Free Text:LFKJ Gates\10:freetext
+Free Text:LFKJ Gates\11:freetext
+Free Text:LFKJ Gates\11:freetext
+Free Text:LFKJ Gates\11:freetext
+Free Text:LFKJ Gates\12:freetext
+Free Text:LFKJ Gates\12:freetext
+Free Text:LFKJ Gates\12:freetext
+Free Text:LFKJ Gates\13:freetext
+Free Text:LFKJ Gates\13:freetext
+Free Text:LFKJ Gates\13:freetext
+Free Text:LFKJ Gates\14:freetext
+Free Text:LFKJ Gates\15:freetext
+Free Text:LFKJ Gates\16:freetext
+Free Text:LFKJ Gates\4:freetext
+Free Text:LFKJ Gates\5:freetext
+Free Text:LFKJ Gates\6:freetext
+Free Text:LFKJ Points VFR\N :freetext
+Free Text:LFKJ Points VFR\NV :freetext
+Free Text:LFKJ Points VFR\NW :freetext
+Free Text:LFKJ Points VFR\NWA :freetext
+Free Text:LFKJ Points VFR\NZ:freetext
+Free Text:LFKJ Points VFR\S :freetext
+Free Text:LFKJ Points VFR\SA :freetext
+Free Text:LFKJ Points VFR\SB :freetext
+Free Text:LFKJ Points VFR\SC :freetext
+Free Text:LFKJ Points VFR\SEA :freetext
+Free Text:LFKJ Points VFR\W :freetext
+Free Text:LFKJ Points VFR\WA :freetext
+Geo:CoastLine:
+Geo:LFKF:
+Geo:LFKJ:
+Geo:LFKJ_AMSR:
+Geo:Political Boundaries:
+NDBs:CT:name
+NDBs:CT:symbol
+NDBs:CV:name
+NDBs:CV:symbol
+NDBs:IS:name
+NDBs:IS:symbol
+Runways:LFKF 05-23:centerline
+Runways:LFKF 05-23:extended centerline 1
+Runways:LFKF 05-23:extended centerline 1 left base
+Runways:LFKF 05-23:extended centerline 1 left ticks
+Runways:LFKF 05-23:extended centerline 1 left vectoring
+Runways:LFKF 05-23:extended centerline 1 right base
+Runways:LFKF 05-23:extended centerline 1 right ticks
+Runways:LFKF 05-23:extended centerline 1 right vectoring
+Runways:LFKF 05-23:extended centerline 2
+Runways:LFKF 05-23:extended centerline 2 left base
+Runways:LFKF 05-23:extended centerline 2 left ticks
+Runways:LFKF 05-23:extended centerline 2 left vectoring
+Runways:LFKF 05-23:extended centerline 2 right base
+Runways:LFKF 05-23:extended centerline 2 right ticks
+Runways:LFKF 05-23:extended centerline 2 right vectoring
+Runways:LFKF 05-23:name
+Runways:LFKJ 02-20:centerline
+Runways:LFKJ 02-20:extended centerline 1
+Runways:LFKJ 02-20:extended centerline 1 left base
+Runways:LFKJ 02-20:extended centerline 1 left ticks
+Runways:LFKJ 02-20:extended centerline 1 left vectoring
+Runways:LFKJ 02-20:extended centerline 1 right base
+Runways:LFKJ 02-20:extended centerline 1 right ticks
+Runways:LFKJ 02-20:extended centerline 1 right vectoring
+Runways:LFKJ 02-20:extended centerline 2
+Runways:LFKJ 02-20:extended centerline 2 left base
+Runways:LFKJ 02-20:extended centerline 2 left ticks
+Runways:LFKJ 02-20:extended centerline 2 left vectoring
+Runways:LFKJ 02-20:extended centerline 2 right base
+Runways:LFKJ 02-20:extended centerline 2 right ticks
+Runways:LFKJ 02-20:extended centerline 2 right vectoring
+Runways:LFKJ 02-20:name
+VORs:AJO:name
+VORs:AJO:symbol
+VORs:ALG:name
+VORs:ALG:symbol
+VORs:BTA:name
+VORs:BTA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:41.502277:7.682252:42.334964:10.102413
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:8
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

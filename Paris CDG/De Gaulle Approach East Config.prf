@@ -1,0 +1,35 @@
+Settings	SettingsfilePLUGINS	French ACC\Data\Settings\Paris ACC\Plugins.txt
+Settings	SettingsfilePROFILE	French ACC\Data\Settings\Paris CDG\Profiles.txt
+Settings	SettingsfileSCREEN	French ACC\Data\Settings\Paris ACC\Screen.txt
+Settings	SettingsfileVOICE	French ACC\Data\Settings\Paris CDG\Voice.txt
+Settings	Settingsfile	French ACC\Data\Settings\Paris ACC\General.txt
+Settings	SettingsfileARR	French ACC\Data\Lists.txt
+Settings	SettingsfileCONFLICT	French ACC\Data\Lists.txt
+Settings	SettingsfileDEP	French ACC\Data\Lists.txt
+Settings	SettingsfileFP	French ACC\Data\Lists.txt
+Settings	SettingsfileSEL	French ACC\Data\Lists.txt
+Settings	SettingsfileSIL	French ACC\Data\Lists.txt
+Settings	SettingsfileSYMBOLOGY	French ACC\Data\Settings\Paris ACC\Symbology.txt
+Settings	SettingsfileTAGS	French ACC\Data\Tags.txt
+Settings	sector	French ACC\Data\Sector\France.sct
+Settings	alias	French ACC\Data\Alias\Alias.txt
+Settings	AtisFolder	French ACC\Data\ATIS\Yvonne3\atis.txt
+ASRFastKeys	1	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Paris CDG\De Gaulle Radar East.asr
+ASRFastKeys	2	French ACC\Data\ASR\Paris CDG\De Gaulle Radar 2.asr
+ASRFastKeys	3	French ACC\Data\ASR\Paris CDG\De Gaulle vSMR.asr
+RecentFiles	Recent1	C:\Users\Chuck Norris\Documents\EuroScope\French ACC\Data\ASR\Paris CDG\De Gaulle Radar East.asr
+RecentFiles	Recent2	French ACC\Data\ASR\Paris CDG\De Gaulle vSMR.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+RecentFiles	Recent3	French ACC\Data\ASR\Paris CDG\De Gaulle Radar 2.asr
+LastSession	connecttype	0
+LastSession	callsign	LFPG_APP
+LastSession	facility	5
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	De Gaulle Approach / Approache. EN/FR.
+LastSession	atis3	Report Callsign, Aircraft type and Altitude on Initial Contact.
+LastSession	atis4	Charts @ VATFRANCE.org/PilotBrief
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

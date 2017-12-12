@@ -1,0 +1,161 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTR_ANNECY:
+ARTCC low boundary:CTR_CHAMBERY:
+Fixes:AMVAR:name
+Fixes:AMVAR:symbol
+Fixes:BANEK:name
+Fixes:BANEK:symbol
+Fixes:BELUS:name
+Fixes:BELUS:symbol
+Fixes:COLLO:name
+Fixes:COLLO:symbol
+Fixes:DANBO:name
+Fixes:DANBO:symbol
+Fixes:GIRED:name
+Fixes:GIRED:symbol
+Fixes:GOMET:name
+Fixes:GOMET:symbol
+Fixes:GONIX:name
+Fixes:GONIX:symbol
+Fixes:LOPTO:name
+Fixes:LOPTO:symbol
+Fixes:MAXUS:name
+Fixes:MAXUS:symbol
+Fixes:MEBAK:name
+Fixes:MEBAK:symbol
+Fixes:MURRO:name
+Fixes:MURRO:symbol
+Fixes:OSMAS:name
+Fixes:OSMAS:symbol
+Fixes:REVPA:name
+Fixes:REVPA:symbol
+Fixes:ROMAM:name
+Fixes:ROMAM:symbol
+Fixes:SALEV:name
+Fixes:SALEV:symbol
+Fixes:TOLNA:name
+Fixes:TOLNA:symbol
+Fixes:VENAT:name
+Fixes:VENAT:symbol
+Fixes:VIRIE:name
+Fixes:VIRIE:symbol
+Free Text:LFLB AMSR\6500:freetext
+Free Text:LFLB AMSR\6700:freetext
+Free Text:LFLB AMSR\6800:freetext
+Free Text:LFLB AMSR\7200:freetext
+Free Text:LFLB AMSR\7700:freetext
+Free Text:LFLB AMSR\7800:freetext
+Free Text:LFLB AMSR\8200:freetext
+Free Text:LFLB AMSR\8700:freetext
+Free Text:LFLB Gates\1:freetext
+Free Text:LFLB Gates\2:freetext
+Free Text:LFLB Gates\3:freetext
+Free Text:LFLB Gates\4:freetext
+Free Text:LFLB Gates\5:freetext
+Free Text:LFLB Gates\6:freetext
+Free Text:LFLB Points VFR\ALBY :freetext
+Free Text:LFLB Points VFR\EY :freetext
+Free Text:LFLB Points VFR\NL :freetext
+Free Text:LFLB Points VFR\SE :freetext
+Free Text:LFLB Points VFR\SW :freetext
+Free Text:LFLB Points VFR\WA :freetext
+Free Text:LFLB Points VFR\WB :freetext
+Free Text:LFLB Points VFR\WC:freetext
+Free Text:LFLB Points VFR\WG :freetext
+Geo:CoastLine:
+Geo:LFLB:
+Geo:LFLB_AMSR:
+Geo:LFLP:
+Geo:Political Boundaries:
+NDBs:AT:name
+NDBs:AT:symbol
+Runways:LFLB 18-36:extended centerline 1
+Runways:LFLB 18-36:extended centerline 1 left base
+Runways:LFLB 18-36:extended centerline 1 left ticks
+Runways:LFLB 18-36:extended centerline 1 left vectoring
+Runways:LFLB 18-36:extended centerline 1 right base
+Runways:LFLB 18-36:extended centerline 1 right ticks
+Runways:LFLB 18-36:extended centerline 1 right vectoring
+Runways:LFLB 18-36:extended centerline 2
+Runways:LFLB 18-36:extended centerline 2 left base
+Runways:LFLB 18-36:extended centerline 2 left ticks
+Runways:LFLB 18-36:extended centerline 2 left vectoring
+Runways:LFLB 18-36:extended centerline 2 right base
+Runways:LFLB 18-36:extended centerline 2 right ticks
+Runways:LFLB 18-36:extended centerline 2 right vectoring
+Runways:LFLP 04-22:extended centerline 1
+Runways:LFLP 04-22:extended centerline 1 left base
+Runways:LFLP 04-22:extended centerline 1 left ticks
+Runways:LFLP 04-22:extended centerline 1 left vectoring
+Runways:LFLP 04-22:extended centerline 1 right base
+Runways:LFLP 04-22:extended centerline 1 right ticks
+Runways:LFLP 04-22:extended centerline 1 right vectoring
+Runways:LFLP 04-22:extended centerline 2
+Runways:LFLP 04-22:extended centerline 2 left base
+Runways:LFLP 04-22:extended centerline 2 left ticks
+Runways:LFLP 04-22:extended centerline 2 left vectoring
+Runways:LFLP 04-22:extended centerline 2 right base
+Runways:LFLP 04-22:extended centerline 2 right ticks
+Runways:LFLP 04-22:extended centerline 2 right vectoring
+Runways:LFLP 04R-22L:extended centerline 1
+Runways:LFLP 04R-22L:extended centerline 1 left base
+Runways:LFLP 04R-22L:extended centerline 1 left ticks
+Runways:LFLP 04R-22L:extended centerline 1 left vectoring
+Runways:LFLP 04R-22L:extended centerline 1 right base
+Runways:LFLP 04R-22L:extended centerline 1 right ticks
+Runways:LFLP 04R-22L:extended centerline 1 right vectoring
+Runways:LFLP 04R-22L:extended centerline 2
+Runways:LFLP 04R-22L:extended centerline 2 left base
+Runways:LFLP 04R-22L:extended centerline 2 left ticks
+Runways:LFLP 04R-22L:extended centerline 2 left vectoring
+Runways:LFLP 04R-22L:extended centerline 2 right base
+Runways:LFLP 04R-22L:extended centerline 2 right ticks
+Runways:LFLP 04R-22L:extended centerline 2 right vectoring
+Stars:LFLB/ALL/AMVA7R:
+Stars:LFLB/ALL/CBY7R:
+Stars:LFLB/ALL/MEBA7R:
+Stars:LFLB/ALL/MURO7R:
+Stars:LFLB/ALL/PINE7R:
+Stars:LFLB/ALL/ROMA7R:
+Stars:LFLB/ALL/SALE7N:
+Stars:LFLB/ALL/SALE7R:
+VORs:CBY:name
+VORs:CBY:symbol
+VORs:LTP:name
+VORs:LTP:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:45.028625:3.865855:46.380822:7.604998
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:638
+PLUGIN:Virtual Controller Assistant:CDYPOS:25
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

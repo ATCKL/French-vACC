@@ -1,0 +1,3 @@
+VOICE
+AG:Milles Tour:118.750:voice1.vatfrance.org:lfma_twr
+END

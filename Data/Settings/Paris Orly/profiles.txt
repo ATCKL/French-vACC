@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:LFPO_DEP:150:4
+ATIS2:Orly Departures / Depart. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPO_APP:150:4
+ATIS2:Orly Approach / Approache. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPO_TWR:50:3
+ATIS2:Orly Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPO_GND:25:2
+ATIS2:Orly Ground / Sol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPO_DEL:25:2
+ATIS2:Orly Delivery / Prevol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

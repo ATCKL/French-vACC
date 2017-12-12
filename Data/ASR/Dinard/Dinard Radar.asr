@@ -1,0 +1,108 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:French ACC\Data\Sector\France.sct
+SECTORTITLE:France.sct
+ARTCC boundary:TMA_IROISE:
+ARTCC boundary:TMA_RENNES:
+ARTCC high boundary:FIR_BORDEAUX:
+ARTCC high boundary:FIR_BREST:
+ARTCC high boundary:FIR_MARSEILLE:
+ARTCC high boundary:FIR_PARIS:
+ARTCC high boundary:FIR_REIMS:
+ARTCC low boundary:CTR_DINARD:
+Free Text:LFRD Gates\1:freetext
+Free Text:LFRD Gates\2:freetext
+Free Text:LFRD Gates\3:freetext
+Free Text:LFRD Gates\4:freetext
+Free Text:LFRD Gates\5:freetext
+Free Text:LFRD Gates\6:freetext
+Free Text:LFRD Gates\7:freetext
+Free Text:LFRD Gates\8:freetext
+Free Text:LFRD Gates\9:freetext
+Free Text:LFRD Points VFR\ED :freetext
+Free Text:LFRD Points VFR\LPD :freetext
+Free Text:LFRD Points VFR\NBD :freetext
+Free Text:LFRD Points VFR\ND :freetext
+Free Text:LFRD Points VFR\NED :freetext
+Free Text:LFRD Points VFR\NWD :freetext
+Free Text:LFRD Points VFR\SWD :freetext
+Free Text:LFRD Points VFR\WJD :freetext
+Free Text:LFRD Taxiways\E:freetext
+Free Text:LFRD Taxiways\E:freetext
+Free Text:LFRD Taxiways\E:freetext
+Free Text:LFRD Taxiways\E:freetext
+Free Text:LFRD Taxiways\E:freetext
+Free Text:LFRD Taxiways\E:freetext
+Free Text:LFRD Taxiways\L:freetext
+Free Text:LFRD Taxiways\L:freetext
+Free Text:LFRD Taxiways\N:freetext
+Free Text:LFRD Taxiways\N:freetext
+Free Text:LFRD Taxiways\S:freetext
+Free Text:LFRD Taxiways\S:freetext
+Free Text:LFRD Taxiways\W:freetext
+Free Text:LFRD Taxiways\W:freetext
+Free Text:LFRD Taxiways\W:freetext
+Free Text:LFRD Taxiways\W:freetext
+Free Text:P112 BREST\FL195:freetext
+Geo:CoastLine:
+Geo:LFRD:
+Geo:ZONE_P112:
+Runways:LFRD 12-30:centerline
+Runways:LFRD 12-30:extended centerline 1
+Runways:LFRD 12-30:extended centerline 1 left base
+Runways:LFRD 12-30:extended centerline 1 left ticks
+Runways:LFRD 12-30:extended centerline 1 left vectoring
+Runways:LFRD 12-30:extended centerline 1 right base
+Runways:LFRD 12-30:extended centerline 1 right ticks
+Runways:LFRD 12-30:extended centerline 1 right vectoring
+Runways:LFRD 12-30:extended centerline 2
+Runways:LFRD 12-30:extended centerline 2 left base
+Runways:LFRD 12-30:extended centerline 2 left ticks
+Runways:LFRD 12-30:extended centerline 2 left vectoring
+Runways:LFRD 12-30:extended centerline 2 right base
+Runways:LFRD 12-30:extended centerline 2 right ticks
+Runways:LFRD 12-30:extended centerline 2 right vectoring
+Runways:LFRD 12-30:name
+Runways:LFRD 17-35:centerline
+Runways:LFRD 17-35:extended centerline 1
+Runways:LFRD 17-35:extended centerline 1 left base
+Runways:LFRD 17-35:extended centerline 1 left ticks
+Runways:LFRD 17-35:extended centerline 1 left vectoring
+Runways:LFRD 17-35:extended centerline 1 right base
+Runways:LFRD 17-35:extended centerline 1 right ticks
+Runways:LFRD 17-35:extended centerline 1 right vectoring
+Runways:LFRD 17-35:extended centerline 2
+Runways:LFRD 17-35:extended centerline 2 left base
+Runways:LFRD 17-35:extended centerline 2 left ticks
+Runways:LFRD 17-35:extended centerline 2 left vectoring
+Runways:LFRD 17-35:extended centerline 2 right base
+Runways:LFRD 17-35:extended centerline 2 right ticks
+Runways:LFRD 17-35:extended centerline 2 right vectoring
+Runways:LFRD 17-35:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:66000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Jojo
+WINDOWAREA:48.563433:-2.147319:48.612123:-2.012681
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:1
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

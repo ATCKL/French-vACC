@@ -1,0 +1,8 @@
+VOICE
+AG:Orly Approach:124.450:voice1.vatfrance.org:lfpo_app
+AG:Orly Tower:118.700:voice1.vatfrance.org:lfpo_twr
+AG:Orly Ground:121.700:voice1.vatfrance.org:lfpo_gnd
+AG:Orly Delivery:121.050:voice1.vatfrance.org:lfpo_del
+AG:Orly Departures:127.750:voice1.vatfrance.org:lfpo_dep
+AG:Orly ATIS:128.500:voice1.vatfrance.org:lfpo_atis
+END

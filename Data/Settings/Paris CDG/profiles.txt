@@ -1,0 +1,46 @@
+PROFILE
+PROFILE:LFPG_DEP:100:5
+ATIS2:De Gaulle Departures / Departure. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_N_DEP:100:5
+ATIS2:De Gaulle North Departures / Departure. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_F_APP:100:5
+ATIS2:De Gaulle Final Director / Arrive. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_APP:100:5
+ATIS2:De Gaulle Approach / Approache. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_S_APP:100:5
+ATIS2:De Gaulle South Approach / Approache. EN/FR.
+ATIS3:Report Callsign, Aircraft type and Altitude on Initial Contact.
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_TWR:50:4
+ATIS2:De Gaulle Tower / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_S_TWR:50:4
+ATIS2:De Gaulle South Tower  / Tour. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_GND:25:3
+ATIS2:De Gaulle Ground / Sol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_S_GND:25:3
+ATIS2:De Gaulle South Ground / Sol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_DEL:25:2
+ATIS2:De Gaulle Delivery / Prevol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+PROFILE:LFPG_S_DEL:25:2
+ATIS2:De Gaulle South Delivery / Prevol. EN/FR.
+ATIS3:Squawk Mode Standby on the ground!
+ATIS4:Charts @ VATFRANCE.org/PilotBrief
+END

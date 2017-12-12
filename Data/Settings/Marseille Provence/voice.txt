@@ -1,0 +1,8 @@
+VOICE
+AG:Provence Approach:131.220:voice1.vatfrance.org:lfml_app
+AG:Provence South Approach:120.200:voice1.vatfrance.org:lfml_s_app
+AG:Provence Tower:119.500:voice1.vatfrance.org:lfml_twr
+AG:Provence Ground:121.900:voice1.vatfrance.org:lfml_gnd
+AG:Provence Delivery:121.720:voice1.vatfrance.org:lfml_del
+AG:Provence ATIS:125.350:voice1.vatfrance.org:lfml_atis
+END
